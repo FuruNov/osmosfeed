@@ -12,6 +12,33 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=351562",
+          "author": "Chris Coyier",
+          "description": "I believe acss.io is the first usage of “Atomic CSS” where the point of it is to be a compiler. You write CSS like this:\n<div class=\"C(#fff) P(20px)\"text\n</div\nAnd it will generate CSS like:\n.C\\(\\#333\\) {\n  color: #333;\n\n…\nThe post “Just in Time” CSS appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/just-in-time-css/",
+          "publishedOn": "2021-09-10T20:32:51.000Z",
+          "wordCount": 700,
+          "title": "“Just in Time” CSS"
+        },
+        {
+          "id": "https://css-tricks.com/?p=351034",
+          "author": "Preethi",
+          "description": "We might leave a text input unstyled. We might leave a link unstyled. Even a button. But checkboxes… we don’t leave them alone. That’s why styling checkboxes never gets old.\nAlthough designing checkboxes is not that complicated, we also don’t …\nThe post Fun Times Styling Checkbox States appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/fun-times-styling-checkbox-states/",
+          "publishedOn": "2021-09-10T14:53:24.000Z",
+          "wordCount": 1650,
+          "title": "Fun Times Styling Checkbox States"
+        },
+        {
+          "id": "https://css-tricks.com/?p=351697",
+          "author": "Chris Coyier",
+          "description": "I had no idea this was coming but it’s pretty neat! Chrome has shipped the EyeDropper API in v95 (Canary, as I write). \n🎨 Loving the new `EyeDropper` Web API: \n“`js\nawait new EyeDropper().open();\n// Returns the picked color, e.g.,\n…\nThe post EyeDropper API Dropped appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/eyedropper-api-dropped/",
+          "publishedOn": "2021-09-10T14:47:11.000Z",
+          "wordCount": 566,
+          "title": "EyeDropper API Dropped"
+        },
+        {
           "id": "https://css-tricks.com/?p=350644",
           "author": "Chris Coyier",
           "description": "I recently blogged about how images are hard and it ended up being a big ol’ checklist of things that you could/should think about and implement when placing images on websites. \nI think it’s encouraging to see frameworks — these …\nThe post Frameworks Helping Image Usage appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
@@ -153,6 +180,20 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2021/09/web-design-done-well-excellent-editorial/",
+          "author": "hello@smashingmagazine.com (Frederick O’Brien)",
+          "description": "They say content is king, and they’re right. The web has unlocked untold possibilities for storytellers — provided the story is right, of course. Here are some of our favorite examples of editorial content thriving in the digital realm.",
+          "link": "https://smashingmagazine.com/2021/09/web-design-done-well-excellent-editorial/",
+          "publishedOn": "2021-09-10T10:00:00.000Z",
+          "wordCount": 2059,
+          "title": "Web Design Done Well: Excellent Editorial",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/7af3bbbe-821b-4e3c-870a-f8290ed52212/web-design-done-well-excellent-editorial.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
         {
           "id": "https://smashingmagazine.com/2021/09/useswr-react-hook-library-incremental-static-regeneration-nextjs/",
           "author": "hello@smashingmagazine.com (Sam Poder)",

@@ -2,10 +2,66 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://FuruNov.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-09-10T09:20:14.477Z</updated>
+    <updated>2021-09-11T00:12:55.260Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://FuruNov.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://FuruNov.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[“Just in Time” CSS]]></title>
+        <id>https://css-tricks.com/?p=351562</id>
+        <link href="https://css-tricks.com/just-in-time-css/"/>
+        <updated>2021-09-10T20:32:51.000Z</updated>
+        <summary type="html"><![CDATA[I believe acss.io is the first usage of “Atomic CSS” where the point of it is to be a compiler. You write CSS like this:
+<div class="C(#fff) P(20px)"text
+</div
+And it will generate CSS like:
+.C\(\#333\) {
+  color: #333;
+
+…
+The post “Just in Time” CSS appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fun Times Styling Checkbox States]]></title>
+        <id>https://css-tricks.com/?p=351034</id>
+        <link href="https://css-tricks.com/fun-times-styling-checkbox-states/"/>
+        <updated>2021-09-10T14:53:24.000Z</updated>
+        <summary type="html"><![CDATA[We might leave a text input unstyled. We might leave a link unstyled. Even a button. But checkboxes… we don’t leave them alone. That’s why styling checkboxes never gets old.
+Although designing checkboxes is not that complicated, we also don’t …
+The post Fun Times Styling Checkbox States appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Preethi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EyeDropper API Dropped]]></title>
+        <id>https://css-tricks.com/?p=351697</id>
+        <link href="https://css-tricks.com/eyedropper-api-dropped/"/>
+        <updated>2021-09-10T14:47:11.000Z</updated>
+        <summary type="html"><![CDATA[I had no idea this was coming but it’s pretty neat! Chrome has shipped the EyeDropper API in v95 (Canary, as I write). 
+🎨 Loving the new `EyeDropper` Web API: 
+“`js
+await new EyeDropper().open();
+// Returns the picked color, e.g.,
+…
+The post EyeDropper API Dropped appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web Design Done Well: Excellent Editorial]]></title>
+        <id>https://smashingmagazine.com/2021/09/web-design-done-well-excellent-editorial/</id>
+        <link href="https://smashingmagazine.com/2021/09/web-design-done-well-excellent-editorial/"/>
+        <updated>2021-09-10T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[They say content is king, and they’re right. The web has unlocked untold possibilities for storytellers — provided the story is right, of course. Here are some of our favorite examples of editorial content thriving in the digital realm.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Frederick O’Brien)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Frameworks Helping Image Usage]]></title>
         <id>https://css-tricks.com/?p=350644</id>
