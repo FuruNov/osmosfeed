@@ -487,20 +487,6 @@
             "length": "0",
             "type": "image/jpg"
           }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/08/Figma-tools-plugins-resources/",
-          "author": "hello@smashingmagazine.com (Janet John)",
-          "description": "Useful Figma plugins that will help you fix all the little slowdowns and boost your productivity. From color management and image assets to SVG shapes and animation. That’s our new guide to Figma.",
-          "link": "https://smashingmagazine.com/2021/08/Figma-tools-plugins-resources/",
-          "publishedOn": "2021-08-12T13:30:00.000Z",
-          "wordCount": 6655,
-          "title": "Useful Figma Plugins And Tools",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2a4221c8-35b1-4545-9561-12fe84087ae6/6681a4b9-c319-4421-8364-6d2654cf6e53-cover.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
         }
       ]
     },

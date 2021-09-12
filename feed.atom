@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://FuruNov.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-09-11T00:12:55.260Z</updated>
+    <updated>2021-09-12T00:14:04.925Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://FuruNov.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://FuruNov.github.io/osmosfeed/feed.atom"/>
@@ -543,16 +543,6 @@ The post If I work really hard on my Open Graph images, people will share my blo
         <summary type="html"><![CDATA[Software development without a roadmap is akin to driving off a cliff — an undertaking that seriously jeopardizes your product’s life. Here’s how to develop a business technology roadmap that ensures your project safely reaches its final destination.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Cache Merril)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Useful Figma Plugins And Tools]]></title>
-        <id>https://smashingmagazine.com/2021/08/Figma-tools-plugins-resources/</id>
-        <link href="https://smashingmagazine.com/2021/08/Figma-tools-plugins-resources/"/>
-        <updated>2021-08-12T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Useful Figma plugins that will help you fix all the little slowdowns and boost your productivity. From color management and image assets to SVG shapes and animation. That’s our new guide to Figma.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Janet John)</name>
         </author>
     </entry>
 </feed>
