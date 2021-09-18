@@ -2,10 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://FuruNov.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-09-17T00:12:55.974Z</updated>
+    <updated>2021-09-18T00:11:53.713Z</updated>
     <generator>osmosfeed 1.11.1</generator>
     <link rel="alternate" href="https://FuruNov.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://FuruNov.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Designing Beautiful Shadows in CSS]]></title>
+        <id>https://css-tricks.com/?p=352082</id>
+        <link href="https://www.joshwcomeau.com/css/designing-shadows/"/>
+        <updated>2021-09-17T22:49:39.000Z</updated>
+        <summary type="html"><![CDATA[My favorite kind of blog post is when someone takes a subject that I’ve spent all of five minutes considering and then says—no!—this is an enormous topic worthy of a dissertation. Look at all the things you can do with …
+The post Designing Beautiful Shadows in CSS appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSV Format – How to Open a .csv File and Export it]]></title>
+        <id>613f3cc7852f4307d372c7e4</id>
+        <link href="https://www.freecodecamp.org/news/csv-format-how-to-open-a-csv-file-and-export-it/"/>
+        <updated>2021-09-17T18:22:47.000Z</updated>
+        <summary type="html"><![CDATA[You might have heard of a CSV file but what does it mean?  In this article, we are going to learn what a CSV file is, and how to open and export them using Microsoft Excel and Google Sheets.  What is a CSV file? CSV stands for Comma Separated Values.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Computer Science Unleashed, Chapter 1: Connections]]></title>
+        <id>https://css-tricks.com/?p=350843</id>
+        <link href="https://css-tricks.com/computer-science-unleashed-chapter-1-connections/"/>
+        <updated>2021-09-17T15:27:49.000Z</updated>
+        <summary type="html"><![CDATA[Humans crave connections, and the advent of the digital revolution has empowered us to be more connected than ever before. The Internet has unleashed upon billions of people unprecedented economic and political freedom, as well as powerful means of control and domination. Yet, the vast majority of us are oblivious to its inner workings.
+The post Computer Science Unleashed, Chapter 1: Connections appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Wladston Viana Ferreira Filho</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Monetize Open-Source Software With Gatsby Functions And Stripe]]></title>
+        <id>https://smashingmagazine.com/2021/09/monetize-open-source-software-gatsby-functions-stripe/</id>
+        <link href="https://smashingmagazine.com/2021/09/monetize-open-source-software-gatsby-functions-stripe/"/>
+        <updated>2021-09-17T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Gatsby Functions provide front-end developers a way to write and use server-side code without the hassle of maintaining a server. If making money from open-source is of interest to you and your site isn’t built using Gatsby, this approach may well be the answer you were looking for.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Paul Scanlon)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Start Freelancing – Tips for Launching a Successful Freelance Career]]></title>
         <id>613f6bc9852f4307d372ca83</id>
@@ -1016,16 +1058,6 @@ The post If I work really hard on my Open Graph images, people will share my blo
         <summary type="html"><![CDATA[The story of Jamstack CMSs goes all the way back to the 90s. In this article, we take a trip down memory lane to see how we got to the modern Jamstack CMSs we have today, and where they’re heading in the next decade.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Mike Neumegen)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Build An Ethical User Research Practice At Any Organization]]></title>
-        <id>https://smashingmagazine.com/2021/08/ethical-user-research-practice/</id>
-        <link href="https://smashingmagazine.com/2021/08/ethical-user-research-practice/"/>
-        <updated>2021-08-19T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Through a simple step-by-step approach, you can build an ethical practice within your organization that will ensure you’re respecting the dignity and welfare of your research participants.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Devin Harold)</name>
         </author>
     </entry>
 </feed>
