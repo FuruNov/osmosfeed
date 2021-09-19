@@ -637,20 +637,6 @@
             "length": "0",
             "type": "image/png"
           }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/08/history-future-jamstack-cms/",
-          "author": "hello@smashingmagazine.com (Mike Neumegen)",
-          "description": "The story of Jamstack CMSs goes all the way back to the 90s. In this article, we take a trip down memory lane to see how we got to the modern Jamstack CMSs we have today, and where they’re heading in the next decade.",
-          "link": "https://smashingmagazine.com/2021/08/history-future-jamstack-cms/",
-          "publishedOn": "2021-08-20T08:00:00.000Z",
-          "wordCount": 4600,
-          "title": "Jamstack CMS: The Past, The Present and The Future",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/f2f37c71-d2c5-4634-b62c-2dc2eea127c1/history-future-jamstack-cms.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
         }
       ]
     },
