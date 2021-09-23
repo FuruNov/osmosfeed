@@ -22,6 +22,33 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=352210",
+          "author": "Chris Coyier",
+          "description": "Container queries are going to solve this long-standing issue in web design where we want to make design choices based on the size of an element (the container) rather than the size of the entire page. So, if a container …\nThe post Container Units Should Be Pretty Handy appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/container-units-should-be-pretty-handy/",
+          "publishedOn": "2021-09-22T23:09:44.000Z",
+          "wordCount": 805,
+          "title": "Container Units Should Be Pretty Handy"
+        },
+        {
+          "id": "https://css-tricks.com/?p=352388",
+          "author": "Chris Coyier",
+          "description": "When I came up in web development (2005-2010 were formative years for me), one of the first lessons I learned was to have a clean foundation of HTML. “What Beautiful HTML Code Looks Like” is actually one of the most …\nThe post Twitter’s div Soup and Uglyfied CSS, Explained appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://giuseppegurgone.com/twitter-html/",
+          "publishedOn": "2021-09-22T21:09:12.000Z",
+          "wordCount": 1146,
+          "title": "Twitter’s div Soup and Uglyfied CSS, Explained"
+        },
+        {
+          "id": "https://css-tricks.com/?p=352074",
+          "author": "Sarthak Duggal",
+          "description": "Logging, on its own, is a key aspect of any application. Logging helps developers comprehend what it is that their code is doing. It also helps save developers hours of debugging work. This tutorial is about implementing logging in a …\nThe post How to Implement Logging in a Node.js Application With Pino-logger appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/how-to-implement-logging-in-a-node-js-application-with-pino-logger/",
+          "publishedOn": "2021-09-22T14:33:10.000Z",
+          "wordCount": 2540,
+          "title": "How to Implement Logging in a Node.js Application With Pino-logger"
+        },
+        {
           "id": "https://css-tricks.com/?p=352328",
           "author": "Chris Coyier",
           "description": "CSS is on a tear lately. Again, I’ve heard of a brand new thing I’ve never seen before, and again it’s via Miriam: CSS Conditionals. \n🎉 CSSWG just resolved to adopt @tabatkins when/else proposal into the next level of CSS \n…\nThe post Proposal for CSS @when appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
@@ -389,6 +416,20 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2021/09/css-head-tag/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "description": "We love little useful tools and techniques to help folks get their work done better and faster. Today, we’d love to shine the spotlights on a little helper that helps spot common performance bottlenecks easily: [ct.css](https://csswizardry.com/ct/).",
+          "link": "https://smashingmagazine.com/2021/09/css-head-tag/",
+          "publishedOn": "2021-09-22T15:00:00.000Z",
+          "wordCount": 725,
+          "title": "Getting Your `head` Straight: A New CSS Performance Diagnostics Snippet",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b5bbafda-ded4-4bd3-bb2a-8c4188693d30/head-2.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
+        {
           "id": "https://smashingmagazine.com/2021/09/mouseless-development-environment/",
           "author": "hello@smashingmagazine.com (Matthieu Cneude)",
           "description": "Building a development environment with the shell as a keystone offers multiple benefits. You can customize everything depending on your own needs, and the biggest of all, you can control your entire development environment with your keyboard.",
@@ -745,6 +786,42 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "612780233bccf807612a8955",
+          "author": null,
+          "description": "Today we're going to learn how to do form validation in JavaScript. We'l also add images and media queries to build out the entire project and keep it as a portfolio.   Here's the project demo that we're gonna build 👇 Desktop designHere's a small sample of how the form will work",
+          "link": "https://www.freecodecamp.org/news/learn-javascript-form-validation-by-making-a-form/",
+          "publishedOn": "2021-09-22T18:33:54.000Z",
+          "wordCount": 1981,
+          "title": "Learn JavaScript Form Validation – Build a JS Project for Beginners ✨"
+        },
+        {
+          "id": "614b18f59456b407b87105b2",
+          "author": null,
+          "description": "In HTML, the font you choose will play a major role in the look and feel of your web pages.  You get to pick the font's color, weight, size, and so on. And all these features make your websites and apps look better and more presentable to the user.  With",
+          "link": "https://www.freecodecamp.org/news/html-font-size-how-to-change-text-size-using-inline-css-style/",
+          "publishedOn": "2021-09-22T18:02:22.000Z",
+          "wordCount": 796,
+          "title": "HTML Font Size – How to Change Text Size Using Inline CSS Style"
+        },
+        {
+          "id": "612203ef3bccf807612a5752",
+          "author": null,
+          "description": "When you're coding in Python, you can use the enumerate() function and a for loop  to print out each value of an iterable with a counter. In this article, I will show you how to use Python's enumerate() function with a for loop and explain why it is a better",
+          "link": "https://www.freecodecamp.org/news/python-enumerate-python-enum-for-loop-index-example/",
+          "publishedOn": "2021-09-22T17:53:56.000Z",
+          "wordCount": 906,
+          "title": "Python Enumerate – Python Enum For Loop Index Example"
+        },
+        {
+          "id": "614b2a529456b407b8710629",
+          "author": null,
+          "description": "Shiny is an R package that makes it easy to build interactive and data-driven web apps straight from R. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to use R Shiny. Dr. Chanin Nantasenamat, also known as the Data Professor, teaches this",
+          "link": "https://www.freecodecamp.org/news/build-interactive-data-driven-web-apps-with-r-shiny/",
+          "publishedOn": "2021-09-22T13:17:46.000Z",
+          "wordCount": 13763,
+          "title": "Build Interactive Data-Driven Web Apps With R Shiny"
+        },
         {
           "id": "6114c92f72231b077cdae3fa",
           "author": null,
