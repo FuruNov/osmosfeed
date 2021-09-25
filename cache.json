@@ -22,6 +22,42 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=352287",
+          "author": "Chris Coyier",
+          "description": "Say you have a z-index bug. Something is being covered up by something else. In my experience, a typical solution is to put position: relative on the thing so z-index works in the first place, and maybe rejigger the z-index…\nThe post Systems for z-index appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/systems-for-z-index/",
+          "publishedOn": "2021-09-24T21:19:49.000Z",
+          "wordCount": 1015,
+          "title": "Systems for z-index"
+        },
+        {
+          "id": "https://css-tricks.com/?p=352533",
+          "author": "Chris Coyier",
+          "description": "Big thoughts on where the industry is headed from Shawn Wang:\nAdvancements in two fields — programming languages and cloud infrastructure — will converge in a single paradigm: where all resources required by a program will be automatically provisioned, and \n…\nThe post The Self Provisioning Runtime appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://www.swyx.io/self-provisioning-runtime/",
+          "publishedOn": "2021-09-24T18:56:43.000Z",
+          "wordCount": 2149,
+          "title": "The Self Provisioning Runtime"
+        },
+        {
+          "id": "https://css-tricks.com/?p=352342",
+          "author": "Eric Markfield",
+          "description": "Let’s say we want to add something to a webpage after the initial load. JavaScript gives us a variety of tools. Perhaps you’ve used some of them, like append, appendChild, insertAdjacentHTML, or innerHTML.\nThe difficult thing …\nThe post Comparing Methods for Appending and Inserting With JavaScript appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/comparing-methods-for-appending-and-inserting-with-javascript/",
+          "publishedOn": "2021-09-24T14:34:59.000Z",
+          "wordCount": 2251,
+          "title": "Comparing Methods for Appending and Inserting With JavaScript"
+        },
+        {
+          "id": "https://css-tricks.com/?p=351975",
+          "author": "Chris Coyier",
+          "description": "Frontend Masters has been our learning partner for a couple of years now. I love it. If you need structured learning to up your web development skills, Frontend Masters is the place. It works so well because we don’t offer …\nThe post Our Learning Partner: Frontend Masters appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/our-learning-partner-frontend-masters-2/",
+          "publishedOn": "2021-09-24T14:34:05.000Z",
+          "wordCount": 612,
+          "title": "Our Learning Partner: Frontend Masters"
+        },
+        {
           "id": "https://css-tricks.com/?p=352279",
           "author": "Chris Coyier",
           "description": "Whatever Google wants it to be. I always thought it was exactly what your <title> element was. Perhaps in lieu of that, what the first <h1> on the page is. But recently I noticed some pages on this site that …\nThe post What is Your Page Title on a Google Search Engine Results Page? appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
@@ -443,6 +479,34 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2021/09/lessons-learned-ecommerce-nextjs-case-study/",
+          "author": "hello@smashingmagazine.com (Jonne Kats)",
+          "description": "We made the switch from a more traditional integrated e-commerce platform to a headless platform with Next.js. Here are the most important lessons learned while rebuilding a large e-commerce site with Next.js.",
+          "link": "https://smashingmagazine.com/2021/09/lessons-learned-ecommerce-nextjs-case-study/",
+          "publishedOn": "2021-09-24T10:00:00.000Z",
+          "wordCount": 3791,
+          "title": "Rebuilding A Large E-Commerce Website With Next.js (Case Study)",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/5f1d9e62-ec85-435a-8899-56ac48b4190b/lessons-learned-ecommerce-nextjs.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
+          "id": "https://smashingmagazine.com/2021/09/smashing-workshop-frustrating-design-patterns/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "description": "You’ve seen them before. Confusing and frustrating design patterns that seem to be chasing you everywhere you go, from one website to another. It’s time to fix them for good in a [free Smashing online workshop](https://smashingconf.com/online-workshops/workshops/vitaly-friedman-frustrating-patterns/) next week.",
+          "link": "https://smashingmagazine.com/2021/09/smashing-workshop-frustrating-design-patterns/",
+          "publishedOn": "2021-09-24T06:50:00.000Z",
+          "wordCount": 784,
+          "title": "Free Online Workshop: Frustrating Design Patterns And How To Fix Them",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/76262eaa-9498-4682-a320-6a7469bef697/sept27-workshop.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
+        {
           "id": "https://smashingmagazine.com/2021/09/simplifying-form-styles-accent-color/",
           "author": "hello@smashingmagazine.com (Michelle Barker)",
           "description": "The new CSS `accent-color` property makes it quick and easy to roll out our brand colors to certain form inputs by leveraging user agent styles. In this article we’ll take a look at what it does and how to use it alongside `color-scheme` for simple, accessible checkboxes and radio buttons — and imagine how we might use it in the future.",
@@ -777,20 +841,6 @@
             "length": "0",
             "type": "image/jpg"
           }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/08/against-privacy-infringement-web/",
-          "author": "hello@smashingmagazine.com (Robin Berjon)",
-          "description": "The Web is still wrestling with issues we take for granted offline, privacy chief among them. These are steps The New York Times took to protect users’ data, and how you can too.",
-          "link": "https://smashingmagazine.com/2021/08/against-privacy-infringement-web/",
-          "publishedOn": "2021-08-26T08:00:00.000Z",
-          "wordCount": 3770,
-          "title": "Pushing Back Against Privacy Infringement On The Web",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/fbab17a6-483b-4e8e-b9f1-9ab583202df1/against-privacy-infringement-web.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
         }
       ]
     },
@@ -799,6 +849,33 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "614df185ccc97307eb2bc079",
+          "author": null,
+          "description": "Buttons are an essential part of websites. You need them for various functionalities, from submitting information and getting access to more content to linking to different parts of the web page and other websites.  HTML gives you several ways to add buttons to your website – with the button tag, the",
+          "link": "https://www.freecodecamp.org/news/html-button-type-how-to-add-buttons-to-your-website/",
+          "publishedOn": "2021-09-24T18:06:24.000Z",
+          "wordCount": 1170,
+          "title": "HTML Button Type – How to Add Buttons to your Website"
+        },
+        {
+          "id": "614b428f9456b407b871068a",
+          "author": null,
+          "description": "Google Docs is one of the most popular text processors.  It has many features available to help you visually enhance your writing and make specific parts stand out more.  One of the ways you can add more functionality to your documents is by adding a textbox.  A textbox helps make",
+          "link": "https://www.freecodecamp.org/news/how-to-insert-a-text-box-in-google-docs-add-textbox-tutorial/",
+          "publishedOn": "2021-09-24T17:42:48.000Z",
+          "wordCount": 1026,
+          "title": "How to Insert a Text Box in Google Docs – Add Textbox Tutorial"
+        },
+        {
+          "id": "6106568e3306a507d1bfc0f6",
+          "author": null,
+          "description": "Model–View–Controller is a popular software pattern used to break up the logic of your application into three different components.  In this article, I will break down the three components behind the MVC pattern, provide some history, and show you how it can be used in an application. History",
+          "link": "https://www.freecodecamp.org/news/mvc-architecture-what-is-a-model-view-controller-framework/",
+          "publishedOn": "2021-09-24T17:36:14.000Z",
+          "wordCount": 1275,
+          "title": "MVC Architecture – What is a Model View Controller Framework?"
+        },
         {
           "id": "614c72939456b407b8710f0a",
           "author": null,
