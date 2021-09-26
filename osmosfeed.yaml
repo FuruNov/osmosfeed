@@ -1,6 +1,15 @@
 cacheUrl: https://FuruNov.github.io/osmosfeed/cache.json
 sources:
   - href: https://github.com/osmoscraft/osmosfeed/releases.atom # Get new feature announcement via this feed
-  - href: https://css-tricks.com/feed/
-  - href: https://www.smashingmagazine.com/feed/
-  - href: https://www.freecodecamp.org/news/rss/
+  - href: https://qiita.com/popular-items/feed.atom
+  - href: https://zenn.dev/feed
+  - href: https://zenn.dev/topics/%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92/feed
+  - href: https://www.trackawesomelist.com/vinta/awesome-python/rss.xml
+  - href: https://www.trackawesomelist.com/EbookFoundation/free-programming-books/rss.xml
+  - href: https://www.trackawesomelist.com/josephmisiti/awesome-machine-learning/rss.xml
+  - href: https://math-fun.net/feed/ # 趣味の大学数学
+  - href: https://terrytao.wordpress.com/feed/ # テレンス・タオ
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UC2lJYodMaAfFeFQrGUwhlaQ # Aicia Solid Project
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCbfYPyITQ-7l4upoX8nvctg # Two Minute Papers
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCqmWJJolqAgjIdLqK3zD1QQ # ヨビノリ
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCYO_jab_esuFRV4b17AJtAw # 3Blue1Brown
