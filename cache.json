@@ -827,20 +827,6 @@
             "length": "0",
             "type": "image/jpg"
           }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/08/compound-components-react/",
-          "author": "hello@smashingmagazine.com (Ichoku Chinonso)",
-          "description": "Compound components help developers build more expressive and flexible APIs to share state and logic within components. This tutorial explains how this can be achieved with the help of using the Context API and React to build components by using this advanced pattern.",
-          "link": "https://smashingmagazine.com/2021/08/compound-components-react/",
-          "publishedOn": "2021-08-27T13:00:00.000Z",
-          "wordCount": 3112,
-          "title": "Compound Components In React",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e9df8cb4-b274-407a-97a8-f06488571802/compound-components-react.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
         }
       ]
     },

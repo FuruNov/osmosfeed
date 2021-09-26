@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://FuruNov.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-09-26T00:14:02.851Z</updated>
+    <updated>2021-09-26T12:54:11.116Z</updated>
     <generator>osmosfeed 1.11.1</generator>
     <link rel="alternate" href="https://FuruNov.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://FuruNov.github.io/osmosfeed/feed.atom"/>
@@ -1507,16 +1507,6 @@ The post If I work really hard on my Open Graph images, people will share my blo
         <summary type="html"><![CDATA[There are many CSS optimization techniques to tackle potential file size and performance issues. Let’s take a look at some of them. After all, if deploying the refactored codebase causes loading or performance issues, it will result in less traffic and revenue, which might leave the management and project managers dissatisfied.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Adrian Bece)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Compound Components In React]]></title>
-        <id>https://smashingmagazine.com/2021/08/compound-components-react/</id>
-        <link href="https://smashingmagazine.com/2021/08/compound-components-react/"/>
-        <updated>2021-08-27T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Compound components help developers build more expressive and flexible APIs to share state and logic within components. This tutorial explains how this can be achieved with the help of using the Context API and React to build components by using this advanced pattern.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Ichoku Chinonso)</name>
         </author>
     </entry>
 </feed>
