@@ -1,6 +1,6 @@
 # About
 
-This is repository hosts the UI and content of an RSS feed reader.
+私が収集している RSS フィードを表示するためのリポジトリです。
 
 ## Links and references
 
