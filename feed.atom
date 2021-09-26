@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://FuruNov.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-09-26T15:15:38.510Z</updated>
-    <generator>osmosfeed 1.11.1</generator>
+    <updated>2021-09-26T21:12:45.131Z</updated>
+    <generator>osmosfeed 1.11.2</generator>
     <link rel="alternate" href="https://FuruNov.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://FuruNov.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[v1.11.2]]></title>
+        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.2</id>
+        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.2"/>
+        <updated>2021-09-26T18:45:39.000Z</updated>
+        <summary type="html"><![CDATA[Fixed: unicode characters in URL caused download error
+Fixed: project root npm install error
+Added: unit test library
+Chore: Dependency updates
+Thank you: @CaptNo1]]></summary>
+        <author>
+            <name>Release notes from osmosfeed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Systems for z-index]]></title>
         <id>https://css-tricks.com/?p=352287</id>
