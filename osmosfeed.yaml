@@ -9,25 +9,25 @@ sources:
   - href: https://zenn.dev/feed
   - href: https://zenn.dev/topics/%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92/feed
   # track awesome list
-  - href: https://www.trackawesomelist.com/vinta/awesome-python/rss.xml
-  - href: https://www.trackawesomelist.com/EbookFoundation/free-programming-books/rss.xml
-  - href: https://www.trackawesomelist.com/josephmisiti/awesome-machine-learning/rss.xml
+  # - href: https://www.trackawesomelist.com/vinta/awesome-python/rss.xml
+  # - href: https://www.trackawesomelist.com/EbookFoundation/free-programming-books/rss.xml
+  # - href: https://www.trackawesomelist.com/josephmisiti/awesome-machine-learning/rss.xml
   # 数学系ブログ
-  - href: https://math-fun.net/feed/ # 趣味の大学数学
-  - href: https://terrytao.wordpress.com/feed/ # テレンス・タオ
+  # - href: https://math-fun.net/feed/ # 趣味の大学数学
+  # - href: https://terrytao.wordpress.com/feed/ # テレンス・タオ
   # YouTube
   - href: https://www.youtube.com/feeds/videos.xml?channel_id=UC2lJYodMaAfFeFQrGUwhlaQ # Aicia Solid Project
   - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCbfYPyITQ-7l4upoX8nvctg # Two Minute Papers
-  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCqmWJJolqAgjIdLqK3zD1QQ # ヨビノリ
-  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCYO_jab_esuFRV4b17AJtAw # 3Blue1Brown
-#  # 企業ブログ
-#  - href: https://www.amazon.science/index.rss
-#  - href: https://blogs.microsoft.com/ai?feed=rss2
-#  - href: https://deepmind.com/blog/feed/basic/
-#  - href: https://research.fb.com/category/machine-learning/feed
+  # - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCqmWJJolqAgjIdLqK3zD1QQ # ヨビノリ
+  # - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCYO_jab_esuFRV4b17AJtAw # 3Blue1Brown
+  # 企業ブログ
+  - href: https://www.amazon.science/index.rss
+  - href: https://blogs.microsoft.com/ai?feed=rss2
+  - href: https://deepmind.com/blog/feed/basic/
+  - href: https://research.fb.com/category/machine-learning/feed
 #  - href: https://ai-research-collection.com/feed/
 #  - href: https://www.ai-shift.co.jp/techblog/feed/
-#  # はてなブログ
+  # はてなブログ
 #  - href: https://takmin.hatenablog.com/rss
 #  - href: https://klb.hatenablog.com/rss
 #  - href: https://acro-engineer.hatenablog.com/rss
@@ -37,13 +37,13 @@ sources:
 #  - href: https://cho-san.hatenablog.jp/rss
 #  - href: https://jijtech.hatenablog.com/rss
 #  - href: https://tsujimotter.hatenablog.com/rss
-#  # getrevue
-#  - href: https://www.getrevue.co/profile/icoxfog417?format=rss
-#  - href: https://www.getrevue.co/profile/akiratosei_ja?format=rss
-#  # Twitter
+  # getrevue
+  - href: https://www.getrevue.co/profile/icoxfog417?format=rss
+  - href: https://www.getrevue.co/profile/akiratosei_ja?format=rss
+  # Twitter
 #  - href: https://nitter.net/DeNAxTech/rss
 #  - href: https://nitter.net/manim_community/rss
-#  - href: https://nitter.net/arxivtimes/rss
+  - href: https://nitter.net/arxivtimes/rss
 #  - href: https://nitter.net/OpenAI/rss
 #  - href: https://nitter.net/ai_scholar/rss
 
