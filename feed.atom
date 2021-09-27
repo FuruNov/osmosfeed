@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://FuruNov.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-09-26T22:39:11.707Z</updated>
+    <updated>2021-09-27T00:47:51.055Z</updated>
     <generator>osmosfeed 1.11.2</generator>
     <link rel="alternate" href="https://FuruNov.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://FuruNov.github.io/osmosfeed/feed.atom"/>
@@ -18,6 +18,38 @@ Chore: Dependency updates
 Thank you: @CaptNo1]]></summary>
         <author>
             <name>Release notes from osmosfeed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[じゃあ、みんなでGitpodのJDK & SDKをやってみよう]]></title>
+        <id>https://zenn.dev/tkithrta/articles/4ff685b007bc79</id>
+        <link href="https://zenn.dev/tkithrta/articles/4ff685b007bc79"/>
+        <updated>2021-09-26T13:15:17.000Z</updated>
+        <summary type="html"><![CDATA[TL;DR
+GitpodではScalaやKotlinといったJVM言語を使う方法が以前公式ドキュメントにあったのですが、最近はClojureしか掲載されなくなってしまい、GitpodのJavaについて初心者へ紹介しづらくなってしまいました。
+そんなわけでSDKMAN!と一緒に紹介します。
+
+ SDKMAN!
+https://sdkman.io/
+感嘆符が重要らしいこちらのツールはJavaで使えるSDKマネージャーです。
+Gitpod内部でもAzul SystemsのZulu JDKをインストールするために使われております。
+そのためGitpod内でもsdk installコマンドが使...]]></summary>
+        <author>
+            <name>黒ヰ樹</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PyBulletの調査2: 複数コンポーネントから構成されるオブジェクト]]></title>
+        <id>https://zenn.dev/ymd_h/articles/381fa7cc4070e8</id>
+        <link href="https://zenn.dev/ymd_h/articles/381fa7cc4070e8"/>
+        <updated>2021-09-26T12:23:19.000Z</updated>
+        <summary type="html"><![CDATA[0. はじめに
+先日書いたPyBulletの調査記事の続きです。
+https://zenn.dev/ymd_h/articles/14397e6ae7ea3d
+前回、PyBulletの基本的な情報や、単純なオブジェクトの構築について調査して記載しましたが、今回は複数のコンポーネントから構成されるより複雑なモデルの構築について調べた事を記載します。（前回の記事を未読の方は、そちらから目を通してください。）
+細かい中身は必要なく、既存のURDF形式のファイルに保存されたモデルを使って、さくっと強化学習を実行したいという場合はFacebook Research製の pybulletX が良...]]></summary>
+        <author>
+            <name>山田(ymd)</name>
         </author>
     </entry>
     <entry>
@@ -49,6 +81,110 @@ Thank you: @CaptNo1]]></summary>
 少しずつ秋が近づいてきて、真夏のように洗濯物がすぐに乾いて、すぐに畳めるという時期もだんだん終わりに近づいてきてます。そして、これから冬にかけて少しずつ大変になってくる洗濯物の乾かない問題…]]></summary>
         <author>
             <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Next.js】コンポーネントと状態管理のファイル分割と設計]]></title>
+        <id>https://zenn.dev/tiwu_dev/articles/2504a20732d305</id>
+        <link href="https://zenn.dev/tiwu_dev/articles/2504a20732d305"/>
+        <updated>2021-09-26T11:28:53.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+今までは実装方法がわからず調査し試行錯誤して実装できた方法を書いたりしていましたが、
+今回は実装自体はできているが、より良い実装はないか？という方向性で書いてみたいと思います。
+書いていく内容は Next.js で実装された一覧と検索機能を持った画面のコンポーネントと状態管理のファイル分割と設計についてです。
+自分は Next.js(React) については書き始めて1年位で、仕事では書いたことなく他PJの構成をほぼ知らないですが、一旦自分の中の設計が落ち着いたので書こうと思った次第です🙏
+
+ 解説するページ
+今回解説するページは自分が実装しているサイトのツイッターの呟き一...]]></summary>
+        <author>
+            <name>Wataru Taguchi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vim/NeoVimでMarkdownをプレビューするプラグインを作った]]></title>
+        <id>https://zenn.dev/kato_k/articles/3aa7217a1636ca</id>
+        <link href="https://zenn.dev/kato_k/articles/3aa7217a1636ca"/>
+        <updated>2021-09-26T10:31:19.000Z</updated>
+        <summary type="html"><![CDATA[初めに
+Vim/NeoVim両対応のMarkdownプレビュープラグインを作成しました。
+この記事では作った経緯とこのプラグインについて紹介します。
+
+https://github.com/kat0h/dps-bufpreview.vim
+
+ 使い方
+
+ インストール
+このプラグインはDenoとdenops.vimに依存しています。
+初めにDenoを公式のインストールからインストールしてください。
+denops.vimは通常のVimプラグインと同じようにインストールしてください。
+Plug-Vim:
+
+      
+        
+        Plug 'vim-denops...]]></summary>
+        <author>
+            <name>kat0h</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[家庭にRTX1200を導入して、誤家庭の仲間入りをしてみた]]></title>
+        <id>https://zenn.dev/k_ino/articles/c4290ad326144d</id>
+        <link href="https://zenn.dev/k_ino/articles/c4290ad326144d"/>
+        <updated>2021-09-26T10:21:55.000Z</updated>
+        <summary type="html"><![CDATA[お疲れさまです。k-inoです
+今回は、自宅にRTX1200を導入したので
+導入のきっかけと感想を書いていきます。宜しくお願い致します。
+
+ 誤家庭　って？
+某界隈では、一般家庭に業務用ルーターを導入した構成を誤家庭というらしいです。
+ここでもそれに従い(？)、誤家庭と表記します。
+
+ 導入のきっかけ
+
+Wi-fiでLINEのビデオ通話や、モンストでマルチプレイをしていると30分ほどでWi-fiがDownするようになった
+　☞無線と有線で機器を別にすれば解消するのでは。
+ネットワークエンジニア志望で業界に入ったので、一度YAMAHAの機器設定をしてみたかった
+　☞YAMAHAの実務経験が...]]></summary>
+        <author>
+            <name>K.Inoue</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JWTの無効化実装例]]></title>
+        <id>https://zenn.dev/ritou/articles/015b7bb7801613</id>
+        <link href="https://zenn.dev/ritou/articles/015b7bb7801613"/>
+        <updated>2021-09-26T09:47:42.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは、ritou です。
+
+今日は　JWTの無効化の方法はいっぱいあるよ って話を書きます。
+
+ 単体での無効化(jti, 文字列全体のハッシュ)
+これが最も一般的な JWT無効化の方法 と言えるかもしれません。
+ちょっと前に話題になった「Stateless」なユースケースにおける無効化できないみたいな話に絡むところでしょう。
+
+The "jti" (JWT ID) claim provides a unique identifier for the JWT.
+
+例えば失効対象の jti のリストを管理することで無効化判定ができるでしょう。
+有効期限を持つかどうかにより対象の jt...]]></summary>
+        <author>
+            <name>ritou</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ゲーミングPCのWindows環境セットアップ]]></title>
+        <id>https://zenn.dev/karaage0703/articles/211d89cc0a29a1</id>
+        <link href="https://zenn.dev/karaage0703/articles/211d89cc0a29a1"/>
+        <updated>2021-09-26T09:11:30.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+10年くらいMacばかり触ってて、久しぶりにWindowsに戻ってきた人のメモです。同じような境遇の人の何かの参考になれば幸いです。
+基本的に個人的メモなのであまり期待はしないでください。購入したPCに関しては、以下記事参照ください。
+https://karaage.hatenadiary.jp/entry/2021/09/20/073000
+
+ OSセットアップ
+最初にLinuxも動くようにしています。Windows環境とは直接関係ないのですが、参考まで。
+可能ならWindowsの大型アップグレードを済ませてからLinux環境を構築したほうが良いと思います（アップグレード...]]></summary>
+        <author>
+            <name>karaage0703</name>
         </author>
     </entry>
     <entry>
@@ -114,6 +250,19 @@ Rails一筋で数ヶ月を生き抜いてきた私ですが、ある日を境に
 iOS15 から iOS が QUIC が諸々使えるようになりました…]]></summary>
         <author>
             <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[.NET 6 の Blazor のコンポーネントでクエリ パラメーターを使うのが簡単になりました]]></title>
+        <id>https://zenn.dev/okazuki/articles/blazor-wasm-rc1-queryparam</id>
+        <link href="https://zenn.dev/okazuki/articles/blazor-wasm-rc1-queryparam"/>
+        <updated>2021-09-26T04:25:31.000Z</updated>
+        <summary type="html"><![CDATA[内容としては、ここらへんで紹介されているものになります。
+https://devblogs.microsoft.com/aspnet/asp-net-core-updates-in-net-6-preview-7/
+https://devblogs.microsoft.com/aspnet/asp-net-core-updates-in-net-6-rc-1/
+Blazor のコンポーネントで URL のクエリ パラメーターを使うのが凄く簡単になりました。今までは自分でクエリパラメーターを取得するような処理を書かないといけなかったのですが、.NET 6 では基本的にこの機能で賄えるように...]]></summary>
+        <author>
+            <name>Kazuki Ota</name>
         </author>
     </entry>
     <entry>
@@ -993,6 +1142,16 @@ CVATはアノテーションツールです。
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Deep Learning Weekly: Issue #216]]></title>
+        <id>https://www.deeplearningweekly.com/p/deep-learning-weekly-issue-216</id>
+        <link href="https://www.deeplearningweekly.com/p/deep-learning-weekly-issue-216"/>
+        <updated>2021-09-22T14:19:55.000Z</updated>
+        <summary type="html"><![CDATA[AI Hardware Summit, Maze for Applied Reinforcement Learning, Neurips Data-Centric AI Workshop, PECOS (Predictions for Enormous and Correlated Output Spaces), OpenAI Codex, and more]]></summary>
+        <author>
+            <name>Gr&amp;#233;goire Jauvion</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[単位ステップ関数とは、ラプラス変換と微分方程式への応用]]></title>
         <id>https://math-fun.net/?p=18729</id>
         <link href="https://math-fun.net/20210922/18729/"/>
@@ -1233,6 +1392,16 @@ Thank you @ad-m]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Deep Learning Weekly: Issue #215]]></title>
+        <id>https://www.deeplearningweekly.com/p/deep-learning-weekly-issue-215</id>
+        <link href="https://www.deeplearningweekly.com/p/deep-learning-weekly-issue-215"/>
+        <updated>2021-09-15T14:26:51.000Z</updated>
+        <summary type="html"><![CDATA[TensorFlow Similarity, faster quantized inference with XNNPACK, an introduction to generative spoken language models, lettuce-picking robots, transformer-based 3D dance generation, and more]]></summary>
+        <author>
+            <name>Miko Planas</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[簡単にデータセットを作る]]></title>
         <id>https://zenn.dev/nek0n0mimi/articles/e8d0d71198e719</id>
         <link href="https://zenn.dev/nek0n0mimi/articles/e8d0d71198e719"/>
@@ -1394,402 +1563,6 @@ Mac OS X 上でいろんなソフトウェアを簡単にインストールで�
 【...]]></summary>
         <author>
             <name>NekoAllergy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI Codex: Your Robot Assistant! 🤖]]></title>
-        <id>https://www.youtube.com/watch?v=81rBzfbFLiE</id>
-        <link href="https://www.youtube.com/watch?v=81rBzfbFLiE"/>
-        <updated>2021-09-11T15:03:24.000Z</updated>
-        <author>
-            <name>Two Minute Papers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EbookFoundation/free-programming-books Sep 11th, 2021]]></title>
-        <id>https://www.trackawesomelist.com/EbookFoundation/free-programming-books/#2021-09-11</id>
-        <link href="https://www.trackawesomelist.com/EbookFoundation/free-programming-books/#2021-09-11"/>
-        <updated>2021-09-11T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Game Development
-2D Game Development: From Zero To Herostars59 - Daniele Penazzo (HTML, PDF, EBPUB, Kindle...) (🚧 in process)]]></summary>
-        <author>
-            <name>EbookFoundation/free-programming-books Daily Updates RSS Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[シン・Numerai TournamentデータをColab Pro+で扱うTips]]></title>
-        <id>https://zenn.dev/katsu1110/articles/a2901258c5c550</id>
-        <link href="https://zenn.dev/katsu1110/articles/a2901258c5c550"/>
-        <updated>2021-09-10T12:38:27.000Z</updated>
-        <summary type="html"><![CDATA[はじめに
-2021年09月08日（水）、チョットpython書ける人の不労所得先として日本でも名が知られてきた米国のヘッジファンドNumeraiが、毎週開催しているコンペであるNumerai Tournamentの新データをリリースしました。
-
-特徴量数: 3倍
-レコード数: 5倍
-ターゲット数: 20倍 （ただし評価に使われるのは1つ）
-
-という非常に大きな改変であり、今までのtournamentも決して小さなデータではなかっただけに、
-「メモリが足りないYOOOOO！」
-という声はリリース以前から国内外から聞かれていました。
-一方で、今までのtournamentのデータだとmo...]]></summary>
-        <author>
-            <name>katsu1110</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ArcFace の Additive Angular Margin Loss について]]></title>
-        <id>https://zenn.dev/hellorusk/articles/bfdd310b4841bd</id>
-        <link href="https://zenn.dev/hellorusk/articles/bfdd310b4841bd"/>
-        <updated>2021-09-10T12:28:05.000Z</updated>
-        <summary type="html"><![CDATA[NLPer だけど Metric Learning を知る必要が出てきたので、自分の理解のためにまとめておく。
-
-まずは普通の softmax + cross entropy loss の部分から。
-x_i \in \mathbb{R}^{d} を i 番目のデータを何らかのニューラルネットワークに入れて出てくるベクトル（特徴ベクトル）とする。CV 業界の場合は何次元なのかよく知らないが、例えば BERT だと d=768。
-通常の分類問題では、これに Linear Layer をかませて、クラス数 n の次元のベクトルに変換する。
-
-	W^T x_i + b \ (W \in \mat...]]></summary>
-        <author>
-            <name>HelloRusk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【深層学習】XLNet 前編 - BERT の事前学習を工夫して強くなりました【ディープラーニングの世界vol.34-1】#114 #VRアカデミア #DeepLearning]]></title>
-        <id>https://www.youtube.com/watch?v=AhEb8kICwIQ</id>
-        <link href="https://www.youtube.com/watch?v=AhEb8kICwIQ"/>
-        <updated>2021-09-10T11:00:12.000Z</updated>
-        <author>
-            <name>AIcia Solid Project</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TexformerをWindows10で動かしてみた]]></title>
-        <id>https://zenn.dev/t_sumida/articles/9ed1fedcdca6a6</id>
-        <link href="https://zenn.dev/t_sumida/articles/9ed1fedcdca6a6"/>
-        <updated>2021-09-10T04:17:15.000Z</updated>
-        <summary type="html"><![CDATA[はじめに
-ICCV2021に投稿されたTexformerがGithubに公開されていたので、さっそく自宅のWindowsPCで動かしてみました。
-この記事では、環境構築からdemoスクリプトをWindows上で実行するところまでの手順を備忘録として記載します。
-最後にオマケとして、少しdemoスクリプトを編集してREADMEにあるような生成3Dの回転gif作成についても記載します。
-Texformerのarxivはこちら
-本家のGithubはこちら
-
- 実行環境
-
-Windows10 64bit Home
-Anaconda3
-RTX2080Ti
-CUDA 10.1
-
-
- 環境構築
-基...]]></summary>
-        <author>
-            <name>T_Sumida</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EbookFoundation/free-programming-books Sep 10th, 2021]]></title>
-        <id>https://www.trackawesomelist.com/EbookFoundation/free-programming-books/#2021-09-10</id>
-        <link href="https://www.trackawesomelist.com/EbookFoundation/free-programming-books/#2021-09-10"/>
-        <updated>2021-09-10T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Game Development
-Coding With Minecraft - Al Sweigart
-Designing Virtual Worlds - Richard A. Bartle (PDF)
-Game AI Pro - Steve Rabin
-Game Design with AGS - Dave Ensminger, A. G. Madi
-Game Programming Patterns - Bob Nystrom
-Procedural Content Generation in Games - Noor Shaker, Julian Togelius, Mark Nelson]]></summary>
-        <author>
-            <name>EbookFoundation/free-programming-books Daily Updates RSS Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Python入門】 演算子まとめ]]></title>
-        <id>https://zenn.dev/nekoallergy/articles/py-basic-ope01</id>
-        <link href="https://zenn.dev/nekoallergy/articles/py-basic-ope01"/>
-        <updated>2021-09-09T10:43:48.000Z</updated>
-        <summary type="html"><![CDATA[今回は、Python で使える演算子についてまとめました。
-演算子（えんざんし）とは、足し算や掛け算などの 計算をする時に使う記号 のことです。
-まずは Python の基礎である演算子の使い方からマスターしましょう。
-
-
- 対象読者
-
-Python 初心者 🔰
-なんならプログラミング自体あまり詳しくない方 🔰
-
-
-
-
- 今回分かること
-
-演算子ってなに？
-演算子はどうやって使うの？
-演算子にはどんな種類があるの？
-
-
-
-Python の基礎を本にまとめています。併せてご覧いただけるととても嬉しいです ↓
-https://zenn.dev/nekoallergy/books/pytho...]]></summary>
-        <author>
-            <name>NekoAllergy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Watch Tesla’s Self-Driving Car Learn In a Simulation! 🚘]]></title>
-        <id>https://www.youtube.com/watch?v=6hkiTejoyms</id>
-        <link href="https://www.youtube.com/watch?v=6hkiTejoyms"/>
-        <updated>2021-09-08T15:38:11.000Z</updated>
-        <author>
-            <name>Two Minute Papers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[振動を電気に変える化学【学術対談】]]></title>
-        <id>https://www.youtube.com/watch?v=as9AtrZadPk</id>
-        <link href="https://www.youtube.com/watch?v=as9AtrZadPk"/>
-        <updated>2021-09-08T09:00:02.000Z</updated>
-        <author>
-            <name>予備校のノリで学ぶ「大学の数学・物理」</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[既存のラベル付きデータセットから、新たなラベル付きデータを生成する方法]]></title>
-        <id>https://zenn.dev/xiongjie/articles/2443f5ec6b3651</id>
-        <link href="https://zenn.dev/xiongjie/articles/2443f5ec6b3651"/>
-        <updated>2021-09-06T13:16:13.000Z</updated>
-        <summary type="html"><![CDATA[既存のラベル付きデータセットから、新たなラベル付きデータを生成する方法
-学習データセットを自動生成する方法として、カメラ系のタスクであれば、Unityなどを使って、3DCGを使って合成するという手があります。CGでデータセットを構築する方法は、現状全く学習データがなかったたり、実データを収集することが困難である場合に非常に有用です。3DCGを合成する場合、3Dのモデルやシーンの構築が必要だったり、そういったことをやってくれる専用のサービスなどを利用する必要があり、そういう点では時間とお金がかかりますが、その時間コストと実データ収集のコストを天秤に欠けて採用するのはありだと思います。
-...]]></summary>
-        <author>
-            <name>xiongjie</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[機械学習基本用語集（第一弾：応用数学編）]]></title>
-        <id>https://zenn.dev/tsunomon_0810/articles/esikaku-article1</id>
-        <link href="https://zenn.dev/tsunomon_0810/articles/esikaku-article1"/>
-        <updated>2021-09-06T09:55:30.000Z</updated>
-        <summary type="html"><![CDATA[はじめに
-私自身AIの学習をはじめた際は、独学での知識習得から始めました。
-その際、機械学習全般を基礎知識に体系的に習得することがうまくいかなく、かつ良い参考書も見つからなく困ったため、初学者の参考になればと思い本記事を執筆しました。
-本記事に記載する項目としては、E資格のシラバスをベースに整理しています。
-第１弾としては応用数学項についての情報を以下に整理します。
-
-本記事の内容に間違いがございましたら、ご指摘いただけると幸いです。
-
-
- 応用数学
-
- 線形代数
-
-
-
-No
-用語
-概要
-数式
-
-
-
-
-1
-固有値分解
-計算コストが下げられたり、データ量が減らせたりします。行列Aは正方...]]></summary>
-        <author>
-            <name>TT</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[クラウド開発に挑戦してみた]]></title>
-        <id>https://zenn.dev/t_ibe/articles/95597514bf5d2d</id>
-        <link href="https://zenn.dev/t_ibe/articles/95597514bf5d2d"/>
-        <updated>2021-09-06T00:14:01.000Z</updated>
-        <summary type="html"><![CDATA[こんにちは。アダコテックのt-ibeです。
-私の普段の業務は、 C++ や Python などで機械学習のライブラリやツールを作ったり、エッジ環境で動く Windows アプリケーションを作ったりすることです。
-
- はじめてのくらうどかいはつ
-弊社では、クラウドで動く機械学習アプリ（AdaInspector Cloud）を開発しており、既にBtoBのお客様に提供を開始しております。
-弊社は十数名のエンジニアチームで、クラウド開発・エッジ開発・機械学習などの業務に従事しておりますが、人手が足りず、普段担当していない範囲開発を担当したりすることがあります。
-https://note.com...]]></summary>
-        <author>
-            <name>t-ibe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【LIVE】強化学習で将棋を指したい！【part7. GPU動くまで祈る】 #VRアカデミア]]></title>
-        <id>https://www.youtube.com/watch?v=lyXwZmf8GJM</id>
-        <link href="https://www.youtube.com/watch?v=lyXwZmf8GJM"/>
-        <updated>2021-09-05T13:21:46.000Z</updated>
-        <author>
-            <name>AIcia Solid Project</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【初心者】ネコでも分かる「ニューラルネットワーク」ってなに？]]></title>
-        <id>https://zenn.dev/nekoallergy/articles/ml-basic-nn01</id>
-        <link href="https://zenn.dev/nekoallergy/articles/ml-basic-nn01"/>
-        <updated>2021-09-05T06:42:04.000Z</updated>
-        <summary type="html"><![CDATA[ニューラルネットワークの基礎を初心者向けにまとめました。図をたくさん使っているので、どの記事よりも理解しやすくなっていると思います。
-
-
- 対象読者
-
-機械学習 初心者 🔰
-機械学習や人工知能に興味がある方 🤔
-ニューラルネットワークという言葉を聞いたことがあるけど詳しくない方 🤔
-
-
-
-
- この記事を読むと分かること
-
-ニューラルネットワークってなに？
-ニューロン、シナプス、重み、バイアスってなに？
-活性化関数ってなに？
-
-
-このコンテンツの目的は、イメージをつかむキッカケになることです。砕いた解説のため、一部正確ではない場合があります。ご了承下さい。
-皆さんの理解が一歩でも進むと嬉...]]></summary>
-        <author>
-            <name>NekoAllergy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This AI Creates Virtual Fingers! 🤝]]></title>
-        <id>https://www.youtube.com/watch?v=_9Bli4zCzZY</id>
-        <link href="https://www.youtube.com/watch?v=_9Bli4zCzZY"/>
-        <updated>2021-09-04T15:53:41.000Z</updated>
-        <author>
-            <name>Two Minute Papers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[高校化学で勉強した『電池』の先の世界【学術対談】]]></title>
-        <id>https://www.youtube.com/watch?v=tVxevP-0tno</id>
-        <link href="https://www.youtube.com/watch?v=tVxevP-0tno"/>
-        <updated>2021-09-04T12:51:59.000Z</updated>
-        <author>
-            <name>予備校のノリで学ぶ「大学の数学・物理」</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Python入門】 変数ってなに？]]></title>
-        <id>https://zenn.dev/nekoallergy/articles/py-basic-var01</id>
-        <link href="https://zenn.dev/nekoallergy/articles/py-basic-var01"/>
-        <updated>2021-09-04T05:37:18.000Z</updated>
-        <summary type="html"><![CDATA[今回の内容は超初心者でも理解できるように丁寧に書きました。
-分かる人にとっては、まわりくどい説明や言い回しをしているので、イライラすると思います。中級者以上は読むことをオススメしません 🙃
-
-
- 対象読者
-
-Python 初心者 🔰
-なんならプログラミング自体あまり詳しくない方 🔰
-
-
-
-
- 今回分かること
-
-変数ってなに？
-変数の型ってなに？
-変数ってどうやって使うの？
-
-
-
-こちらの記事を読んでからの方が、理解がしやすいと思います。併せてご覧ください。↓
-https://zenn.dev/nekoallergy/articles/0adf4d57acf9b4
-皆さんの理解が一歩でも...]]></summary>
-        <author>
-            <name>NekoAllergy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[josephmisiti/awesome-machine-learning Sep 4th, 2021]]></title>
-        <id>https://www.trackawesomelist.com/josephmisiti/awesome-machine-learning/#2021-09-04</id>
-        <link href="https://www.trackawesomelist.com/josephmisiti/awesome-machine-learning/#2021-09-04"/>
-        <updated>2021-09-04T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Tools
-Misc
-Weaviate – Weaviate is an open sourcestars1.8k vector search engine and vector database. Weaviate uses machine learning to vectorize and store data, and to find answers to natural language queries. With Weaviate you can also bring your custom ML models to production scale.]]></summary>
-        <author>
-            <name>josephmisiti/awesome-machine-learning Daily Updates RSS Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[josephmisiti/awesome-machine-learning Sep 3rd, 2021]]></title>
-        <id>https://www.trackawesomelist.com/josephmisiti/awesome-machine-learning/#2021-09-03</id>
-        <link href="https://www.trackawesomelist.com/josephmisiti/awesome-machine-learning/#2021-09-03"/>
-        <updated>2021-09-03T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Java
-Data Analysis / Data Visualization
-Dr. Michael Thomas Flanagan's Java Scientific Library. [Deprecated]]]></summary>
-        <author>
-            <name>josephmisiti/awesome-machine-learning Daily Updates RSS Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This AI Helps Making A Music Video! 💃]]></title>
-        <id>https://www.youtube.com/watch?v=UrB-tqA8oeg</id>
-        <link href="https://www.youtube.com/watch?v=UrB-tqA8oeg"/>
-        <updated>2021-09-02T15:15:19.000Z</updated>
-        <author>
-            <name>Two Minute Papers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[josephmisiti/awesome-machine-learning Sep 2nd, 2021]]></title>
-        <id>https://www.trackawesomelist.com/josephmisiti/awesome-machine-learning/#2021-09-02</id>
-        <link href="https://www.trackawesomelist.com/josephmisiti/awesome-machine-learning/#2021-09-02"/>
-        <updated>2021-09-02T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Tools
-Misc
-More tools to improve the ML lifecycle: Catalyststars2.7k, PachydermIO. The following are Github-alike and targeting teams Weights & Biases, Neptune.ai, Comet.ml, Valohai.ai, DAGsHub.]]></summary>
-        <author>
-            <name>josephmisiti/awesome-machine-learning Daily Updates RSS Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EbookFoundation/free-programming-books Aug 31st, 2021]]></title>
-        <id>https://www.trackawesomelist.com/EbookFoundation/free-programming-books/#2021-08-31</id>
-        <link href="https://www.trackawesomelist.com/EbookFoundation/free-programming-books/#2021-08-31"/>
-        <updated>2021-08-31T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Arduino
-Arduino Programming Notebook - Brian Evans (PDF) (🗃️ archived at unglue.it)
-Linux
-Ubuntu Server Guide (PDF)]]></summary>
-        <author>
-            <name>EbookFoundation/free-programming-books Daily Updates RSS Feed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This AI Learned Boxing…With Serious Knockout Power! 🥊]]></title>
-        <id>https://www.youtube.com/watch?v=SsJ_AusntiU</id>
-        <link href="https://www.youtube.com/watch?v=SsJ_AusntiU"/>
-        <updated>2021-08-29T15:09:14.000Z</updated>
-        <author>
-            <name>Two Minute Papers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EbookFoundation/free-programming-books Aug 29th, 2021]]></title>
-        <id>https://www.trackawesomelist.com/EbookFoundation/free-programming-books/#2021-08-29</id>
-        <link href="https://www.trackawesomelist.com/EbookFoundation/free-programming-books/#2021-08-29"/>
-        <updated>2021-08-29T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Fortran
-Fortran 90 Tutorial - C.-K. Shene at Michigan Technological University (HTML)
-Fortran 90 Tutorial - Sarah T. Whitlock, Paul H. Hargrove at Stanford University (HTML)
-Fortran information & resources - fortranplus.co.uk (HTML)
-FORTRAN Performance Tuning co-Guide (1998) - Timothy C. Prince (HTML)
-Introduction to Fortran - Sebastian Ehlert, Julius Stückrath, Marcel Mueller, Marcel Stahn (HTML)
-Modern Fortran in Science and Technology - Jonas Lindemann and Ola Dahlblom (HTML, PDF, EPUB)
-Modern Fortran Tutorial - Yutaka Masuda (HTML)
-Professional Programmer’s Guide to Fortran77 (2005) - Clive G. Page (PDF)
-Self Study Guide 2: Programming in Fortran 95 - Dr Rachael Padman (PDF)
-User Notes On Fortran Programming (UNFP): An open cooperative practical guide (1998) - Abraham Agay, Arne Vajhoej et. al (HTML)]]></summary>
-        <author>
-            <name>EbookFoundation/free-programming-books Daily Updates RSS Feed</name>
         </author>
     </entry>
 </feed>

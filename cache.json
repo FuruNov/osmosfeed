@@ -26,6 +26,49 @@
       ]
     },
     {
+      "title": "学術英語アカデミー",
+      "feedUrl": "https://www.ulatus.jp/academy/feed/",
+      "siteUrl": "https://www.ulatus.jp/academy",
+      "articles": []
+    },
+    {
+      "title": "Deep Learning Weekly",
+      "feedUrl": "https://www.deeplearningweekly.com/feed/",
+      "siteUrl": "https://www.deeplearningweekly.com",
+      "articles": [
+        {
+          "id": "https://www.deeplearningweekly.com/p/deep-learning-weekly-issue-216",
+          "author": "Gr&#233;goire Jauvion",
+          "description": "AI Hardware Summit, Maze for Applied Reinforcement Learning, Neurips Data-Centric AI Workshop, PECOS (Predictions for Enormous and Correlated Output Spaces), OpenAI Codex, and more",
+          "link": "https://www.deeplearningweekly.com/p/deep-learning-weekly-issue-216",
+          "publishedOn": "2021-09-22T14:19:55.000Z",
+          "wordCount": null,
+          "title": "Deep Learning Weekly: Issue #216",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/5f87e5bf-9ea0-4fec-a25d-f48477452317_1100x220.png",
+            "length": "0",
+            "type": "image/jpeg"
+          }
+        },
+        {
+          "id": "https://www.deeplearningweekly.com/p/deep-learning-weekly-issue-215",
+          "author": "Miko Planas",
+          "description": "TensorFlow Similarity, faster quantized inference with XNNPACK, an introduction to generative spoken language models, lettuce-picking robots, transformer-based 3D dance generation, and more",
+          "link": "https://www.deeplearningweekly.com/p/deep-learning-weekly-issue-215",
+          "publishedOn": "2021-09-15T14:26:51.000Z",
+          "wordCount": null,
+          "title": "Deep Learning Weekly: Issue #215",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/c93f41fc-e4fd-4dcf-9c14-280f9eb15692_420x300.png",
+            "length": "0",
+            "type": "image/jpeg"
+          }
+        }
+      ]
+    },
+    {
       "title": "Qiita - 人気の記事",
       "feedUrl": "https://qiita.com/popular-items/feed.atom",
       "siteUrl": "https://qiita.com/popular-items",
@@ -307,6 +350,118 @@
       "feedUrl": "https://zenn.dev/feed",
       "siteUrl": "https://zenn.dev",
       "articles": [
+        {
+          "id": "https://zenn.dev/tkithrta/articles/4ff685b007bc79",
+          "author": "黒ヰ樹",
+          "description": "TL;DR\nGitpodではScalaやKotlinといったJVM言語を使う方法が以前公式ドキュメントにあったのですが、最近はClojureしか掲載されなくなってしまい、GitpodのJavaについて初心者へ紹介しづらくなってしまいました。\nそんなわけでSDKMAN!と一緒に紹介します。\n\n SDKMAN!\nhttps://sdkman.io/\n感嘆符が重要らしいこちらのツールはJavaで使えるSDKマネージャーです。\nGitpod内部でもAzul SystemsのZulu JDKをインストールするために使われております。\nそのためGitpod内でもsdk installコマンドが使...",
+          "link": "https://zenn.dev/tkithrta/articles/4ff685b007bc79",
+          "publishedOn": "2021-09-26T13:15:17.000Z",
+          "wordCount": 282,
+          "title": "じゃあ、みんなでGitpodのJDK & SDKをやってみよう",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--WRDp7vCI--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:%25E9%25BB%2592%25E3%2583%25B0%25E6%25A8%25B9%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_70_bold:%25E3%2581%2598%25E3%2582%2583%25E3%2581%2582%25E3%2580%2581%25E3%2581%25BF%25E3%2582%2593%25E3%2581%25AA%25E3%2581%25A7Gitpod%25E3%2581%25AEJDK%2520%2526%2520SDK%25E3%2582%2592%25E3%2582%2584%25E3%2581%25A3%25E3%2581%25A6%25E3%2581%25BF%25E3%2582%2588%25E3%2581%2586%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2ljb25fYTQ0NGUxMDhmOS5qcGVn%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1627274783/default/og-base_z4sxah.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://zenn.dev/ymd_h/articles/381fa7cc4070e8",
+          "author": "山田(ymd)",
+          "description": "0. はじめに\n先日書いたPyBulletの調査記事の続きです。\nhttps://zenn.dev/ymd_h/articles/14397e6ae7ea3d\n前回、PyBulletの基本的な情報や、単純なオブジェクトの構築について調査して記載しましたが、今回は複数のコンポーネントから構成されるより複雑なモデルの構築について調べた事を記載します。（前回の記事を未読の方は、そちらから目を通してください。）\n細かい中身は必要なく、既存のURDF形式のファイルに保存されたモデルを使って、さくっと強化学習を実行したいという場合はFacebook Research製の pybulletX が良...",
+          "link": "https://zenn.dev/ymd_h/articles/381fa7cc4070e8",
+          "publishedOn": "2021-09-26T12:23:19.000Z",
+          "wordCount": 313,
+          "title": "PyBulletの調査2: 複数コンポーネントから構成されるオブジェクト",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--UBlE-z3y--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:%25E5%25B1%25B1%25E7%2594%25B0%2528ymd%2529%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_70_bold:PyBullet%25E3%2581%25AE%25E8%25AA%25BF%25E6%259F%25BB2%253A%2520%25E8%25A4%2587%25E6%2595%25B0%25E3%2582%25B3%25E3%2583%25B3%25E3%2583%259D%25E3%2583%25BC%25E3%2583%258D%25E3%2583%25B3%25E3%2583%2588%25E3%2581%258B%25E3%2582%2589%25E6%25A7%258B%25E6%2588%2590%25E3%2581%2595%25E3%2582%258C%25E3%2582%258B%25E3%2582%25AA%25E3%2583%2596%25E3%2582%25B8%25E3%2582%25A7%25E3%2582%25AF%25E3%2583%2588%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2ljb25fNDJjMmE3ZGRkMC5qcGVn%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1627274783/default/og-base_z4sxah.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://zenn.dev/tiwu_dev/articles/2504a20732d305",
+          "author": "Wataru Taguchi",
+          "description": "はじめに\n今までは実装方法がわからず調査し試行錯誤して実装できた方法を書いたりしていましたが、\n今回は実装自体はできているが、より良い実装はないか？という方向性で書いてみたいと思います。\n書いていく内容は Next.js で実装された一覧と検索機能を持った画面のコンポーネントと状態管理のファイル分割と設計についてです。\n自分は Next.js(React) については書き始めて1年位で、仕事では書いたことなく他PJの構成をほぼ知らないですが、一旦自分の中の設計が落ち着いたので書こうと思った次第です🙏\n\n 解説するページ\n今回解説するページは自分が実装しているサイトのツイッターの呟き一...",
+          "link": "https://zenn.dev/tiwu_dev/articles/2504a20732d305",
+          "publishedOn": "2021-09-26T11:28:53.000Z",
+          "wordCount": 560,
+          "title": "【Next.js】コンポーネントと状態管理のファイル分割と設計",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--vPiU5GMl--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:Wataru%2520Taguchi%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_70_bold:%25E3%2580%2590Next.js%25E3%2580%2591%25E3%2582%25B3%25E3%2583%25B3%25E3%2583%259D%25E3%2583%25BC%25E3%2583%258D%25E3%2583%25B3%25E3%2583%2588%25E3%2581%25A8%25E7%258A%25B6%25E6%2585%258B%25E7%25AE%25A1%25E7%2590%2586%25E3%2581%25AE%25E3%2583%2595%25E3%2582%25A1%25E3%2582%25A4%25E3%2583%25AB%25E5%2588%2586%25E5%2589%25B2%25E3%2581%25A8%25E8%25A8%25AD%25E8%25A8%2588%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2ljb25fZTIyZWFlYzZmYy5qcGVn%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1627274783/default/og-base_z4sxah.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://zenn.dev/kato_k/articles/3aa7217a1636ca",
+          "author": "kat0h",
+          "description": "初めに\nVim/NeoVim両対応のMarkdownプレビュープラグインを作成しました。\nこの記事では作った経緯とこのプラグインについて紹介します。\n\nhttps://github.com/kat0h/dps-bufpreview.vim\n\n 使い方\n\n インストール\nこのプラグインはDenoとdenops.vimに依存しています。\n初めにDenoを公式のインストールからインストールしてください。\ndenops.vimは通常のVimプラグインと同じようにインストールしてください。\nPlug-Vim:\n\n      \n        \n        Plug 'vim-denops...",
+          "link": "https://zenn.dev/kato_k/articles/3aa7217a1636ca",
+          "publishedOn": "2021-09-26T10:31:19.000Z",
+          "wordCount": 76,
+          "title": "Vim/NeoVimでMarkdownをプレビューするプラグインを作った",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--2kJktU2s--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:kat0h%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_70_bold:Vim%252FNeoVim%25E3%2581%25A7Markdown%25E3%2582%2592%25E3%2583%2597%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC%25E3%2581%2599%25E3%2582%258B%25E3%2583%2597%25E3%2583%25A9%25E3%2582%25B0%25E3%2582%25A4%25E3%2583%25B3%25E3%2582%2592%25E4%25BD%259C%25E3%2581%25A3%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2ljb25fMDA1MWRmMmFlMi5qcGVn%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1627274783/default/og-base_z4sxah.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://zenn.dev/k_ino/articles/c4290ad326144d",
+          "author": "K.Inoue",
+          "description": "お疲れさまです。k-inoです\n今回は、自宅にRTX1200を導入したので\n導入のきっかけと感想を書いていきます。宜しくお願い致します。\n\n 誤家庭　って？\n某界隈では、一般家庭に業務用ルーターを導入した構成を誤家庭というらしいです。\nここでもそれに従い(？)、誤家庭と表記します。\n\n 導入のきっかけ\n\nWi-fiでLINEのビデオ通話や、モンストでマルチプレイをしていると30分ほどでWi-fiがDownするようになった\n　☞無線と有線で機器を別にすれば解消するのでは。\nネットワークエンジニア志望で業界に入ったので、一度YAMAHAの機器設定をしてみたかった\n　☞YAMAHAの実務経験が...",
+          "link": "https://zenn.dev/k_ino/articles/c4290ad326144d",
+          "publishedOn": "2021-09-26T10:21:55.000Z",
+          "wordCount": 390,
+          "title": "家庭にRTX1200を導入して、誤家庭の仲間入りをしてみた",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--b-e2vmhC--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:K.Inoue%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_70_bold:%25E5%25AE%25B6%25E5%25BA%25AD%25E3%2581%25ABRTX1200%25E3%2582%2592%25E5%25B0%258E%25E5%2585%25A5%25E3%2581%2597%25E3%2581%25A6%25E3%2580%2581%25E8%25AA%25A4%25E5%25AE%25B6%25E5%25BA%25AD%25E3%2581%25AE%25E4%25BB%25B2%25E9%2596%2593%25E5%2585%25A5%25E3%2582%258A%25E3%2582%2592%25E3%2581%2597%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly96ZW5uLWRldi5naXRodWIuaW8vZGVmYXVsdC1hdmF0YXJzL2Rhcmsvay5zdmc=%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1627274783/default/og-base_z4sxah.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://zenn.dev/ritou/articles/015b7bb7801613",
+          "author": "ritou",
+          "description": "こんばんは、ritou です。\n\n今日は　JWTの無効化の方法はいっぱいあるよ って話を書きます。\n\n 単体での無効化(jti, 文字列全体のハッシュ)\nこれが最も一般的な JWT無効化の方法 と言えるかもしれません。\nちょっと前に話題になった「Stateless」なユースケースにおける無効化できないみたいな話に絡むところでしょう。\n\nThe \"jti\" (JWT ID) claim provides a unique identifier for the JWT.\n\n例えば失効対象の jti のリストを管理することで無効化判定ができるでしょう。\n有効期限を持つかどうかにより対象の jt...",
+          "link": "https://zenn.dev/ritou/articles/015b7bb7801613",
+          "publishedOn": "2021-09-26T09:47:42.000Z",
+          "wordCount": 91,
+          "title": "JWTの無効化実装例",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--JVaSB0Zc--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:ritou%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_80_bold:JWT%25E3%2581%25AE%25E7%2584%25A1%25E5%258A%25B9%25E5%258C%2596%25E5%25AE%259F%25E8%25A3%2585%25E4%25BE%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2pRX2Zjd3NJUms2TGFsYm5qQ0hXeldmazdCa1l2WDlYQWtaUDhiOFE9czgwLWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1627274783/default/og-base_z4sxah.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://zenn.dev/karaage0703/articles/211d89cc0a29a1",
+          "author": "karaage0703",
+          "description": "はじめに\n10年くらいMacばかり触ってて、久しぶりにWindowsに戻ってきた人のメモです。同じような境遇の人の何かの参考になれば幸いです。\n基本的に個人的メモなのであまり期待はしないでください。購入したPCに関しては、以下記事参照ください。\nhttps://karaage.hatenadiary.jp/entry/2021/09/20/073000\n\n OSセットアップ\n最初にLinuxも動くようにしています。Windows環境とは直接関係ないのですが、参考まで。\n可能ならWindowsの大型アップグレードを済ませてからLinux環境を構築したほうが良いと思います（アップグレード...",
+          "link": "https://zenn.dev/karaage0703/articles/211d89cc0a29a1",
+          "publishedOn": "2021-09-26T09:11:30.000Z",
+          "wordCount": 137,
+          "title": "ゲーミングPCのWindows環境セットアップ",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--06YP6QPa--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:karaage0703%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_70_bold:%25E3%2582%25B2%25E3%2583%25BC%25E3%2583%259F%25E3%2583%25B3%25E3%2582%25B0PC%25E3%2581%25AEWindows%25E7%2592%25B0%25E5%25A2%2583%25E3%2582%25BB%25E3%2583%2583%25E3%2583%2588%25E3%2582%25A2%25E3%2583%2583%25E3%2583%2597%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2hDZEtvakJfZXdDTjNCV1Z0WXIteFNIZ0hmRjlXZmt3QzI5c0Y0aXYwPXM4MC1j%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1627274783/default/og-base_z4sxah.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://zenn.dev/okazuki/articles/blazor-wasm-rc1-queryparam",
+          "author": "Kazuki Ota",
+          "description": "内容としては、ここらへんで紹介されているものになります。\nhttps://devblogs.microsoft.com/aspnet/asp-net-core-updates-in-net-6-preview-7/\nhttps://devblogs.microsoft.com/aspnet/asp-net-core-updates-in-net-6-rc-1/\nBlazor のコンポーネントで URL のクエリ パラメーターを使うのが凄く簡単になりました。今までは自分でクエリパラメーターを取得するような処理を書かないといけなかったのですが、.NET 6 では基本的にこの機能で賄えるように...",
+          "link": "https://zenn.dev/okazuki/articles/blazor-wasm-rc1-queryparam",
+          "publishedOn": "2021-09-26T04:25:31.000Z",
+          "wordCount": 230,
+          "title": ".NET 6 の Blazor のコンポーネントでクエリ パラメーターを使うのが簡単になりました",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--KPDhsVM_--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:Kazuki%2520Ota%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_65_bold:.NET%25206%2520%25E3%2581%25AE%2520Blazor%2520%25E3%2581%25AE%25E3%2582%25B3%25E3%2583%25B3%25E3%2583%259D%25E3%2583%25BC%25E3%2583%258D%25E3%2583%25B3%25E3%2583%2588%25E3%2581%25A7%25E3%2582%25AF%25E3%2582%25A8%25E3%2583%25AA%2520%25E3%2583%2591%25E3%2583%25A9%25E3%2583%25A1%25E3%2583%25BC%25E3%2582%25BF%25E3%2583%25BC%25E3%2582%2592%25E4%25BD%25BF%25E3%2581%2586%25E3%2581%25AE%25E3%2581%258C%25E7%25B0%25A1%25E5%258D%2598%25E3%2581%25AB%25E3%2581%25AA%25E3%2582%258A%25E3%2581%25BE%25E3%2581%2597%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2ljb25fOGY3ODc0MmM0NC5qcGVn%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1627274783/default/og-base_z4sxah.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
         {
           "id": "https://zenn.dev/h_yoshikawa0724/articles/2021-09-26-material-ui-v5",
           "author": "よし",
@@ -817,132 +972,6 @@
             "length": "0",
             "type": "image/png"
           }
-        },
-        {
-          "id": "https://zenn.dev/katsu1110/articles/a2901258c5c550",
-          "author": "katsu1110",
-          "description": "はじめに\n2021年09月08日（水）、チョットpython書ける人の不労所得先として日本でも名が知られてきた米国のヘッジファンドNumeraiが、毎週開催しているコンペであるNumerai Tournamentの新データをリリースしました。\n\n特徴量数: 3倍\nレコード数: 5倍\nターゲット数: 20倍 （ただし評価に使われるのは1つ）\n\nという非常に大きな改変であり、今までのtournamentも決して小さなデータではなかっただけに、\n「メモリが足りないYOOOOO！」\nという声はリリース以前から国内外から聞かれていました。\n一方で、今までのtournamentのデータだとmo...",
-          "link": "https://zenn.dev/katsu1110/articles/a2901258c5c550",
-          "publishedOn": "2021-09-10T12:38:27.000Z",
-          "wordCount": 415,
-          "title": "シン・Numerai TournamentデータをColab Pro+で扱うTips",
-          "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--gefZ6OlV--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:katsu1110%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_65_bold:%25E3%2582%25B7%25E3%2583%25B3%25E3%2583%25BBNumerai%2520Tournament%25E3%2583%2587%25E3%2583%25BC%25E3%2582%25BF%25E3%2582%2592Colab%2520Pro%252B%25E3%2581%25A7%25E6%2589%25B1%25E3%2581%2586Tips%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2ljb25fMDdjMmUwMjFiYS5qcGVn%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1627274783/default/og-base_z4sxah.png",
-            "length": "0",
-            "type": "image/png"
-          }
-        },
-        {
-          "id": "https://zenn.dev/hellorusk/articles/bfdd310b4841bd",
-          "author": "HelloRusk",
-          "description": "NLPer だけど Metric Learning を知る必要が出てきたので、自分の理解のためにまとめておく。\n\nまずは普通の softmax + cross entropy loss の部分から。\nx_i \\in \\mathbb{R}^{d} を i 番目のデータを何らかのニューラルネットワークに入れて出てくるベクトル（特徴ベクトル）とする。CV 業界の場合は何次元なのかよく知らないが、例えば BERT だと d=768。\n通常の分類問題では、これに Linear Layer をかませて、クラス数 n の次元のベクトルに変換する。\n\n\tW^T x_i + b \\ (W \\in \\mat...",
-          "link": "https://zenn.dev/hellorusk/articles/bfdd310b4841bd",
-          "publishedOn": "2021-09-10T12:28:05.000Z",
-          "wordCount": 389,
-          "title": "ArcFace の Additive Angular Margin Loss について",
-          "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--dB_8Xocc--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:HelloRusk%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_65_bold:ArcFace%2520%25E3%2581%25AE%2520Additive%2520Angular%2520Margin%2520Loss%2520%25E3%2581%25AB%25E3%2581%25A4%25E3%2581%2584%25E3%2581%25A6%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2ljb25fOGM2M2ZhYjk1MC5qcGVn%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1627274783/default/og-base_z4sxah.png",
-            "length": "0",
-            "type": "image/png"
-          }
-        },
-        {
-          "id": "https://zenn.dev/t_sumida/articles/9ed1fedcdca6a6",
-          "author": "T_Sumida",
-          "description": "はじめに\nICCV2021に投稿されたTexformerがGithubに公開されていたので、さっそく自宅のWindowsPCで動かしてみました。\nこの記事では、環境構築からdemoスクリプトをWindows上で実行するところまでの手順を備忘録として記載します。\n最後にオマケとして、少しdemoスクリプトを編集してREADMEにあるような生成3Dの回転gif作成についても記載します。\nTexformerのarxivはこちら\n本家のGithubはこちら\n\n 実行環境\n\nWindows10 64bit Home\nAnaconda3\nRTX2080Ti\nCUDA 10.1\n\n\n 環境構築\n基...",
-          "link": "https://zenn.dev/t_sumida/articles/9ed1fedcdca6a6",
-          "publishedOn": "2021-09-10T04:17:15.000Z",
-          "wordCount": 181,
-          "title": "TexformerをWindows10で動かしてみた",
-          "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--2-aW0mxw--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:T_Sumida%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_70_bold:Texformer%25E3%2582%2592Windows10%25E3%2581%25A7%25E5%258B%2595%25E3%2581%258B%25E3%2581%2597%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2huWDJaTTN1NkFPWWlDZzNWMWxmdHRiS1pmQVo3Sk5UMU8xeXg2cVE9czgwLWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1627274783/default/og-base_z4sxah.png",
-            "length": "0",
-            "type": "image/png"
-          }
-        },
-        {
-          "id": "https://zenn.dev/nekoallergy/articles/py-basic-ope01",
-          "author": "NekoAllergy",
-          "description": "今回は、Python で使える演算子についてまとめました。\n演算子（えんざんし）とは、足し算や掛け算などの 計算をする時に使う記号 のことです。\nまずは Python の基礎である演算子の使い方からマスターしましょう。\n\n\n 対象読者\n\nPython 初心者 🔰\nなんならプログラミング自体あまり詳しくない方 🔰\n\n\n\n\n 今回分かること\n\n演算子ってなに？\n演算子はどうやって使うの？\n演算子にはどんな種類があるの？\n\n\n\nPython の基礎を本にまとめています。併せてご覧いただけるととても嬉しいです ↓\nhttps://zenn.dev/nekoallergy/books/pytho...",
-          "link": "https://zenn.dev/nekoallergy/articles/py-basic-ope01",
-          "publishedOn": "2021-09-09T10:43:48.000Z",
-          "wordCount": 1173,
-          "title": "【Python入門】 演算子まとめ",
-          "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--1uG4pL9i--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:NekoAllergy%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_80_bold:%25E3%2580%2590Python%25E5%2585%25A5%25E9%2596%2580%25E3%2580%2591%2520%25E6%25BC%2594%25E7%25AE%2597%25E5%25AD%2590%25E3%2581%25BE%25E3%2581%25A8%25E3%2582%2581%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2ljb25fNTQ3ZTg3M2QxOC5qcGVn%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1627274783/default/og-base_z4sxah.png",
-            "length": "0",
-            "type": "image/png"
-          }
-        },
-        {
-          "id": "https://zenn.dev/xiongjie/articles/2443f5ec6b3651",
-          "author": "xiongjie",
-          "description": "既存のラベル付きデータセットから、新たなラベル付きデータを生成する方法\n学習データセットを自動生成する方法として、カメラ系のタスクであれば、Unityなどを使って、3DCGを使って合成するという手があります。CGでデータセットを構築する方法は、現状全く学習データがなかったたり、実データを収集することが困難である場合に非常に有用です。3DCGを合成する場合、3Dのモデルやシーンの構築が必要だったり、そういったことをやってくれる専用のサービスなどを利用する必要があり、そういう点では時間とお金がかかりますが、その時間コストと実データ収集のコストを天秤に欠けて採用するのはありだと思います。\n...",
-          "link": "https://zenn.dev/xiongjie/articles/2443f5ec6b3651",
-          "publishedOn": "2021-09-06T13:16:13.000Z",
-          "wordCount": 45,
-          "title": "既存のラベル付きデータセットから、新たなラベル付きデータを生成する方法",
-          "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--7mYd6HFP--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:xiongjie%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_70_bold:%25E6%2597%25A2%25E5%25AD%2598%25E3%2581%25AE%25E3%2583%25A9%25E3%2583%2599%25E3%2583%25AB%25E4%25BB%2598%25E3%2581%258D%25E3%2583%2587%25E3%2583%25BC%25E3%2582%25BF%25E3%2582%25BB%25E3%2583%2583%25E3%2583%2588%25E3%2581%258B%25E3%2582%2589%25E3%2580%2581%25E6%2596%25B0%25E3%2581%259F%25E3%2581%25AA%25E3%2583%25A9%25E3%2583%2599%25E3%2583%25AB%25E4%25BB%2598%25E3%2581%258D%25E3%2583%2587%25E3%2583%25BC%25E3%2582%25BF%25E3%2582%2592%25E7%2594%259F%25E6%2588%2590%25E3%2581%2599%25E3%2582%258B%25E6%2596%25B9%25E6%25B3%2595%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2ljb25fZGIwZmM0NTllNS5qcGVn%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1627274783/default/og-base_z4sxah.png",
-            "length": "0",
-            "type": "image/png"
-          }
-        },
-        {
-          "id": "https://zenn.dev/tsunomon_0810/articles/esikaku-article1",
-          "author": "TT",
-          "description": "はじめに\n私自身AIの学習をはじめた際は、独学での知識習得から始めました。\nその際、機械学習全般を基礎知識に体系的に習得することがうまくいかなく、かつ良い参考書も見つからなく困ったため、初学者の参考になればと思い本記事を執筆しました。\n本記事に記載する項目としては、E資格のシラバスをベースに整理しています。\n第１弾としては応用数学項についての情報を以下に整理します。\n\n本記事の内容に間違いがございましたら、ご指摘いただけると幸いです。\n\n\n 応用数学\n\n 線形代数\n\n\n\nNo\n用語\n概要\n数式\n\n\n\n\n1\n固有値分解\n計算コストが下げられたり、データ量が減らせたりします。行列Aは正方...",
-          "link": "https://zenn.dev/tsunomon_0810/articles/esikaku-article1",
-          "publishedOn": "2021-09-06T09:55:30.000Z",
-          "wordCount": 157,
-          "title": "機械学習基本用語集（第一弾：応用数学編）",
-          "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--TEo4WN2F--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:TT%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_70_bold:%25E6%25A9%259F%25E6%25A2%25B0%25E5%25AD%25A6%25E7%25BF%2592%25E5%259F%25BA%25E6%259C%25AC%25E7%2594%25A8%25E8%25AA%259E%25E9%259B%2586%25EF%25BC%2588%25E7%25AC%25AC%25E4%25B8%2580%25E5%25BC%25BE%25EF%25BC%259A%25E5%25BF%259C%25E7%2594%25A8%25E6%2595%25B0%25E5%25AD%25A6%25E7%25B7%25A8%25EF%25BC%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUFUWEFKeXBCX1RGNXh6QlRZUlA3VWNNRUczX0lkUEw4XzBpUm16ZVVLVHI9czk2LWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1627274783/default/og-base_z4sxah.png",
-            "length": "0",
-            "type": "image/png"
-          }
-        },
-        {
-          "id": "https://zenn.dev/t_ibe/articles/95597514bf5d2d",
-          "author": "t-ibe",
-          "description": "こんにちは。アダコテックのt-ibeです。\n私の普段の業務は、 C++ や Python などで機械学習のライブラリやツールを作ったり、エッジ環境で動く Windows アプリケーションを作ったりすることです。\n\n はじめてのくらうどかいはつ\n弊社では、クラウドで動く機械学習アプリ（AdaInspector Cloud）を開発しており、既にBtoBのお客様に提供を開始しております。\n弊社は十数名のエンジニアチームで、クラウド開発・エッジ開発・機械学習などの業務に従事しておりますが、人手が足りず、普段担当していない範囲開発を担当したりすることがあります。\nhttps://note.com...",
-          "link": "https://zenn.dev/t_ibe/articles/95597514bf5d2d",
-          "publishedOn": "2021-09-06T00:14:01.000Z",
-          "wordCount": 98,
-          "title": "クラウド開発に挑戦してみた",
-          "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--66NsWOrF--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:t-ibe%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_80_bold:%25E3%2582%25AF%25E3%2583%25A9%25E3%2582%25A6%25E3%2583%2589%25E9%2596%258B%25E7%2599%25BA%25E3%2581%25AB%25E6%258C%2591%25E6%2588%25A6%25E3%2581%2597%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2ljb25fZWUyOGMyZWQzOS5qcGVn%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1627274783/default/og-base_z4sxah.png",
-            "length": "0",
-            "type": "image/png"
-          }
-        },
-        {
-          "id": "https://zenn.dev/nekoallergy/articles/ml-basic-nn01",
-          "author": "NekoAllergy",
-          "description": "ニューラルネットワークの基礎を初心者向けにまとめました。図をたくさん使っているので、どの記事よりも理解しやすくなっていると思います。\n\n\n 対象読者\n\n機械学習 初心者 🔰\n機械学習や人工知能に興味がある方 🤔\nニューラルネットワークという言葉を聞いたことがあるけど詳しくない方 🤔\n\n\n\n\n この記事を読むと分かること\n\nニューラルネットワークってなに？\nニューロン、シナプス、重み、バイアスってなに？\n活性化関数ってなに？\n\n\nこのコンテンツの目的は、イメージをつかむキッカケになることです。砕いた解説のため、一部正確ではない場合があります。ご了承下さい。\n皆さんの理解が一歩でも進むと嬉...",
-          "link": "https://zenn.dev/nekoallergy/articles/ml-basic-nn01",
-          "publishedOn": "2021-09-05T06:42:04.000Z",
-          "wordCount": 116,
-          "title": "【初心者】ネコでも分かる「ニューラルネットワーク」ってなに？",
-          "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--NrdZZizZ--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:NekoAllergy%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_70_bold:%25E3%2580%2590%25E5%2588%259D%25E5%25BF%2583%25E8%2580%2585%25E3%2580%2591%25E3%2583%258D%25E3%2582%25B3%25E3%2581%25A7%25E3%2582%2582%25E5%2588%2586%25E3%2581%258B%25E3%2582%258B%25E3%2580%258C%25E3%2583%258B%25E3%2583%25A5%25E3%2583%25BC%25E3%2583%25A9%25E3%2583%25AB%25E3%2583%258D%25E3%2583%2583%25E3%2583%2588%25E3%2583%25AF%25E3%2583%25BC%25E3%2582%25AF%25E3%2580%258D%25E3%2581%25A3%25E3%2581%25A6%25E3%2581%25AA%25E3%2581%25AB%25EF%25BC%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2ljb25fNTQ3ZTg3M2QxOC5qcGVn%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1627274783/default/og-base_z4sxah.png",
-            "length": "0",
-            "type": "image/png"
-          }
-        },
-        {
-          "id": "https://zenn.dev/nekoallergy/articles/py-basic-var01",
-          "author": "NekoAllergy",
-          "description": "今回の内容は超初心者でも理解できるように丁寧に書きました。\n分かる人にとっては、まわりくどい説明や言い回しをしているので、イライラすると思います。中級者以上は読むことをオススメしません 🙃\n\n\n 対象読者\n\nPython 初心者 🔰\nなんならプログラミング自体あまり詳しくない方 🔰\n\n\n\n\n 今回分かること\n\n変数ってなに？\n変数の型ってなに？\n変数ってどうやって使うの？\n\n\n\nこちらの記事を読んでからの方が、理解がしやすいと思います。併せてご覧ください。↓\nhttps://zenn.dev/nekoallergy/articles/0adf4d57acf9b4\n皆さんの理解が一歩でも...",
-          "link": "https://zenn.dev/nekoallergy/articles/py-basic-var01",
-          "publishedOn": "2021-09-04T05:37:18.000Z",
-          "wordCount": 612,
-          "title": "【Python入門】 変数ってなに？",
-          "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--0UPS7f1---/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:NekoAllergy%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_80_bold:%25E3%2580%2590Python%25E5%2585%25A5%25E9%2596%2580%25E3%2580%2591%2520%25E5%25A4%2589%25E6%2595%25B0%25E3%2581%25A3%25E3%2581%25A6%25E3%2581%25AA%25E3%2581%25AB%25EF%25BC%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2ljb25fNTQ3ZTg3M2QxOC5qcGVn%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1627274783/default/og-base_z4sxah.png",
-            "length": "0",
-            "type": "image/png"
-          }
         }
       ]
     },
@@ -992,42 +1021,6 @@
           "publishedOn": "2021-09-14T00:00:00.000Z",
           "wordCount": 18207,
           "title": "EbookFoundation/free-programming-books Sep 14th, 2021"
-        },
-        {
-          "id": "https://www.trackawesomelist.com/EbookFoundation/free-programming-books/#2021-09-11",
-          "author": null,
-          "description": "Game Development\n2D Game Development: From Zero To Herostars59 - Daniele Penazzo (HTML, PDF, EBPUB, Kindle...) (🚧 in process)",
-          "link": "https://www.trackawesomelist.com/EbookFoundation/free-programming-books/#2021-09-11",
-          "publishedOn": "2021-09-11T00:00:00.000Z",
-          "wordCount": 18207,
-          "title": "EbookFoundation/free-programming-books Sep 11th, 2021"
-        },
-        {
-          "id": "https://www.trackawesomelist.com/EbookFoundation/free-programming-books/#2021-09-10",
-          "author": null,
-          "description": "Game Development\nCoding With Minecraft - Al Sweigart\nDesigning Virtual Worlds - Richard A. Bartle (PDF)\nGame AI Pro - Steve Rabin\nGame Design with AGS - Dave Ensminger, A. G. Madi\nGame Programming Patterns - Bob Nystrom\nProcedural Content Generation in Games - Noor Shaker, Julian Togelius, Mark Nelson",
-          "link": "https://www.trackawesomelist.com/EbookFoundation/free-programming-books/#2021-09-10",
-          "publishedOn": "2021-09-10T00:00:00.000Z",
-          "wordCount": 18207,
-          "title": "EbookFoundation/free-programming-books Sep 10th, 2021"
-        },
-        {
-          "id": "https://www.trackawesomelist.com/EbookFoundation/free-programming-books/#2021-08-31",
-          "author": null,
-          "description": "Arduino\nArduino Programming Notebook - Brian Evans (PDF) (🗃️ archived at unglue.it)\nLinux\nUbuntu Server Guide (PDF)",
-          "link": "https://www.trackawesomelist.com/EbookFoundation/free-programming-books/#2021-08-31",
-          "publishedOn": "2021-08-31T00:00:00.000Z",
-          "wordCount": 18207,
-          "title": "EbookFoundation/free-programming-books Aug 31st, 2021"
-        },
-        {
-          "id": "https://www.trackawesomelist.com/EbookFoundation/free-programming-books/#2021-08-29",
-          "author": null,
-          "description": "Fortran\nFortran 90 Tutorial - C.-K. Shene at Michigan Technological University (HTML)\nFortran 90 Tutorial - Sarah T. Whitlock, Paul H. Hargrove at Stanford University (HTML)\nFortran information & resources - fortranplus.co.uk (HTML)\nFORTRAN Performance Tuning co-Guide (1998) - Timothy C. Prince (HTML)\nIntroduction to Fortran - Sebastian Ehlert, Julius Stückrath, Marcel Mueller, Marcel Stahn (HTML)\nModern Fortran in Science and Technology - Jonas Lindemann and Ola Dahlblom (HTML, PDF, EPUB)\nModern Fortran Tutorial - Yutaka Masuda (HTML)\nProfessional Programmer’s Guide to Fortran77 (2005) - Clive G. Page (PDF)\nSelf Study Guide 2: Programming in Fortran 95 - Dr Rachael Padman (PDF)\nUser Notes On Fortran Programming (UNFP): An open cooperative practical guide (1998) - Abraham Agay, Arne Vajhoej et. al (HTML)",
-          "link": "https://www.trackawesomelist.com/EbookFoundation/free-programming-books/#2021-08-29",
-          "publishedOn": "2021-08-29T00:00:00.000Z",
-          "wordCount": 18207,
-          "title": "EbookFoundation/free-programming-books Aug 29th, 2021"
         }
       ]
     },
@@ -1035,35 +1028,7 @@
       "title": "josephmisiti/awesome-machine-learning Daily Updates RSS Feed",
       "feedUrl": "https://www.trackawesomelist.com/josephmisiti/awesome-machine-learning/rss.xml",
       "siteUrl": "https://www.trackawesomelist.com",
-      "articles": [
-        {
-          "id": "https://www.trackawesomelist.com/josephmisiti/awesome-machine-learning/#2021-09-04",
-          "author": null,
-          "description": "Tools\nMisc\nWeaviate – Weaviate is an open sourcestars1.8k vector search engine and vector database. Weaviate uses machine learning to vectorize and store data, and to find answers to natural language queries. With Weaviate you can also bring your custom ML models to production scale.",
-          "link": "https://www.trackawesomelist.com/josephmisiti/awesome-machine-learning/#2021-09-04",
-          "publishedOn": "2021-09-04T00:00:00.000Z",
-          "wordCount": 17764,
-          "title": "josephmisiti/awesome-machine-learning Sep 4th, 2021"
-        },
-        {
-          "id": "https://www.trackawesomelist.com/josephmisiti/awesome-machine-learning/#2021-09-03",
-          "author": null,
-          "description": "Java\nData Analysis / Data Visualization\nDr. Michael Thomas Flanagan's Java Scientific Library. [Deprecated]",
-          "link": "https://www.trackawesomelist.com/josephmisiti/awesome-machine-learning/#2021-09-03",
-          "publishedOn": "2021-09-03T00:00:00.000Z",
-          "wordCount": 17764,
-          "title": "josephmisiti/awesome-machine-learning Sep 3rd, 2021"
-        },
-        {
-          "id": "https://www.trackawesomelist.com/josephmisiti/awesome-machine-learning/#2021-09-02",
-          "author": null,
-          "description": "Tools\nMisc\nMore tools to improve the ML lifecycle: Catalyststars2.7k, PachydermIO. The following are Github-alike and targeting teams Weights & Biases, Neptune.ai, Comet.ml, Valohai.ai, DAGsHub.",
-          "link": "https://www.trackawesomelist.com/josephmisiti/awesome-machine-learning/#2021-09-02",
-          "publishedOn": "2021-09-02T00:00:00.000Z",
-          "wordCount": 17764,
-          "title": "josephmisiti/awesome-machine-learning Sep 2nd, 2021"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "趣味の大学数学",
@@ -1209,24 +1174,6 @@
           "publishedOn": "2021-09-17T11:00:14.000Z",
           "wordCount": null,
           "title": "【深層学習】XLNet 後編 - 事前学習と推論時のモデルの違いを押さえよう【ディープラーニングの世界vol.34-2】#115 #VRアカデミア #DeepLearning"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=AhEb8kICwIQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=AhEb8kICwIQ",
-          "publishedOn": "2021-09-10T11:00:12.000Z",
-          "wordCount": null,
-          "title": "【深層学習】XLNet 前編 - BERT の事前学習を工夫して強くなりました【ディープラーニングの世界vol.34-1】#114 #VRアカデミア #DeepLearning"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=lyXwZmf8GJM",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=lyXwZmf8GJM",
-          "publishedOn": "2021-09-05T13:21:46.000Z",
-          "wordCount": null,
-          "title": "【LIVE】強化学習で将棋を指したい！【part7. GPU動くまで祈る】 #VRアカデミア"
         }
       ]
     },
@@ -1270,51 +1217,6 @@
           "publishedOn": "2021-09-15T15:14:28.000Z",
           "wordCount": null,
           "title": "Can An AI Design A Good Game Level? 🤖"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=81rBzfbFLiE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=81rBzfbFLiE",
-          "publishedOn": "2021-09-11T15:03:24.000Z",
-          "wordCount": null,
-          "title": "OpenAI Codex: Your Robot Assistant! 🤖"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=6hkiTejoyms",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=6hkiTejoyms",
-          "publishedOn": "2021-09-08T15:38:11.000Z",
-          "wordCount": null,
-          "title": "Watch Tesla’s Self-Driving Car Learn In a Simulation! 🚘"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=_9Bli4zCzZY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=_9Bli4zCzZY",
-          "publishedOn": "2021-09-04T15:53:41.000Z",
-          "wordCount": null,
-          "title": "This AI Creates Virtual Fingers! 🤝"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=UrB-tqA8oeg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=UrB-tqA8oeg",
-          "publishedOn": "2021-09-02T15:15:19.000Z",
-          "wordCount": null,
-          "title": "This AI Helps Making A Music Video! 💃"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=SsJ_AusntiU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=SsJ_AusntiU",
-          "publishedOn": "2021-08-29T15:09:14.000Z",
-          "wordCount": null,
-          "title": "This AI Learned Boxing…With Serious Knockout Power! 🥊"
         }
       ]
     },
@@ -1349,24 +1251,6 @@
           "publishedOn": "2021-09-14T09:00:34.000Z",
           "wordCount": null,
           "title": "高校数学からはじめる深層学習入門(畳み込みニューラルネットワークの理解)"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=as9AtrZadPk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=as9AtrZadPk",
-          "publishedOn": "2021-09-08T09:00:02.000Z",
-          "wordCount": null,
-          "title": "振動を電気に変える化学【学術対談】"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=tVxevP-0tno",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=tVxevP-0tno",
-          "publishedOn": "2021-09-04T12:51:59.000Z",
-          "wordCount": null,
-          "title": "高校化学で勉強した『電池』の先の世界【学術対談】"
         }
       ]
     },
