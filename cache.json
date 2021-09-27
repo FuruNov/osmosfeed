@@ -1,0 +1,1222 @@
+{
+  "sources": [
+    {
+      "title": "Release notes from osmosfeed",
+      "feedUrl": "https://github.com/osmoscraft/osmosfeed/releases.atom",
+      "siteUrl": "https://github.com/osmoscraft/osmosfeed/releases",
+      "articles": [
+        {
+          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.2",
+          "author": null,
+          "description": "Fixed: unicode characters in URL caused download error\nFixed: project root npm install error\nAdded: unit test library\nChore: Dependency updates\nThank you: @CaptNo1",
+          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.2",
+          "publishedOn": "2021-09-26T18:45:39.000Z",
+          "wordCount": 354,
+          "title": "v1.11.2"
+        },
+        {
+          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.1",
+          "author": null,
+          "description": "Fixed: Unexpected nested element in author field crashes the parser\nThank you @ad-m",
+          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.1",
+          "publishedOn": "2021-09-16T06:39:32.000Z",
+          "wordCount": 344,
+          "title": "v1.11.1"
+        }
+      ]
+    },
+    {
+      "title": "学術英語アカデミー",
+      "feedUrl": "https://www.ulatus.jp/academy/feed/",
+      "siteUrl": "https://www.ulatus.jp/academy",
+      "articles": []
+    },
+    {
+      "title": "Deep Learning Weekly",
+      "feedUrl": "https://www.deeplearningweekly.com/feed/",
+      "siteUrl": "https://www.deeplearningweekly.com",
+      "articles": [
+        {
+          "id": "https://www.deeplearningweekly.com/p/deep-learning-weekly-issue-216",
+          "author": "Gr&#233;goire Jauvion",
+          "description": "AI Hardware Summit, Maze for Applied Reinforcement Learning, Neurips Data-Centric AI Workshop, PECOS (Predictions for Enormous and Correlated Output Spaces), OpenAI Codex, and more",
+          "link": "https://www.deeplearningweekly.com/p/deep-learning-weekly-issue-216",
+          "publishedOn": "2021-09-22T14:19:55.000Z",
+          "wordCount": null,
+          "title": "Deep Learning Weekly: Issue #216",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/5f87e5bf-9ea0-4fec-a25d-f48477452317_1100x220.png",
+            "length": "0",
+            "type": "image/jpeg"
+          }
+        },
+        {
+          "id": "https://www.deeplearningweekly.com/p/deep-learning-weekly-issue-215",
+          "author": "Miko Planas",
+          "description": "TensorFlow Similarity, faster quantized inference with XNNPACK, an introduction to generative spoken language models, lettuce-picking robots, transformer-based 3D dance generation, and more",
+          "link": "https://www.deeplearningweekly.com/p/deep-learning-weekly-issue-215",
+          "publishedOn": "2021-09-15T14:26:51.000Z",
+          "wordCount": null,
+          "title": "Deep Learning Weekly: Issue #215",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/c93f41fc-e4fd-4dcf-9c14-280f9eb15692_420x300.png",
+            "length": "0",
+            "type": "image/jpeg"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Qiita - 人気の記事",
+      "feedUrl": "https://qiita.com/popular-items/feed.atom",
+      "siteUrl": "https://qiita.com/popular-items",
+      "articles": [
+        {
+          "id": "https://qiita.com/kazuki43zoo/items/47ed3b15077773f02448?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "Spring Bootで簡易的なバッチアプリケーション(CLIアプリケーション)を作る方法を紹介してみたいと思います。SpringにはSpring Batchというバッチアプリケーション向けのフレー…",
+          "link": "https://qiita.com/kazuki43zoo/items/47ed3b15077773f02448?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-09-26T12:18:26.000Z",
+          "wordCount": null,
+          "title": "Spring Bootで簡易バッチ(CLI)アプリケーションを作る！！"
+        },
+        {
+          "id": "https://qiita.com/yukimatsu/items/783316924e8e296cbe33?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\n少しずつ秋が近づいてきて、真夏のように洗濯物がすぐに乾いて、すぐに畳めるという時期もだんだん終わりに近づいてきてます。そして、これから冬にかけて少しずつ大変になってくる洗濯物の乾かない問題…",
+          "link": "https://qiita.com/yukimatsu/items/783316924e8e296cbe33?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-09-26T11:42:05.000Z",
+          "wordCount": null,
+          "title": "洗濯物の乾き具合を知りたくて、M5StickCで物干し部屋の湿度を測って Azure IoT Central で分かるようにしてみた"
+        },
+        {
+          "id": "https://qiita.com/soepy/items/60594f47e4977fdb0ef6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "今回は実際にローカルでGolangのフレームワークGinを用いて、ブラウザに「Hello World」を描画してみようじゃないかということで、\n結構苦戦した結果、Hello Worldできたので、苦…",
+          "link": "https://qiita.com/soepy/items/60594f47e4977fdb0ef6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-09-26T08:58:38.000Z",
+          "wordCount": null,
+          "title": "Javaで飯食ってるエンジニアがGolangを学んでみる～Ginを使ってHelloWorld編～"
+        },
+        {
+          "id": "https://qiita.com/zacky1972/items/5c45466d760acfbc3578?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "順次書いていきます。\n\ndefn の中に記述できないNx関数\n\n次のようなプログラムは Nx.to_batched_list/2 is not allowed inside defn\n というエラーになり…",
+          "link": "https://qiita.com/zacky1972/items/5c45466d760acfbc3578?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-09-26T08:27:10.000Z",
+          "wordCount": null,
+          "title": "Nxのdefnで書けること書けないこと"
+        },
+        {
+          "id": "https://qiita.com/o83184206/items/d7f94e43114c3da5f0e3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめまして、エンジニア転職に向けてプログラミングスクールで主にRailsを学習しているパピヨンちゃんです。\nRails一筋で数ヶ月を生き抜いてきた私ですが、ある日を境にVue.js学びたい期に入り…",
+          "link": "https://qiita.com/o83184206/items/d7f94e43114c3da5f0e3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-09-26T07:35:32.000Z",
+          "wordCount": null,
+          "title": "Vue.jsをこれから学ぶなら抑えておきたいおすすめ書籍&サイト"
+        },
+        {
+          "id": "https://qiita.com/fuziki/items/93d86457afc5d72185a8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "iOS15でNetwork.frameworkにNWProtocolQUICが来たのでquic-goと双方向ストリームしてみた\n\n\niOS15 から iOS が QUIC が諸々使えるようになりました…",
+          "link": "https://qiita.com/fuziki/items/93d86457afc5d72185a8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-09-26T04:29:26.000Z",
+          "wordCount": null,
+          "title": "[QUIC]iOS15でNetwork.frameworkにNWProtocolQUICが来たのでquic-goと双方向ストリーム"
+        },
+        {
+          "id": "https://qiita.com/matsujirushi/items/ff55ee0ff134fdae72be?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "上図は、デバイスとAzure IoT Hubの間をモニタリングしている風に書きましたが、実際のツールは、Azure IoT Hubに接続してAzure IoT Hubから情報を取得しています。\n\n\nA…",
+          "link": "https://qiita.com/matsujirushi/items/ff55ee0ff134fdae72be?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-09-26T03:03:11.000Z",
+          "wordCount": null,
+          "title": "デバイスとAzure IoT Hub間の通信をのぞき見するツール"
+        },
+        {
+          "id": "https://qiita.com/c60evaporator/items/bf9d5ad2d13876a670cf?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\n本記事は、話題のニュースを分析シリーズ第2弾となります（第1弾はこちら）\n以下にご留意頂ければと思います。\n\n・ゴシップなテーマではありますが、内容は技術の共有を目的としているため、個人名…",
+          "link": "https://qiita.com/c60evaporator/items/bf9d5ad2d13876a670cf?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-09-25T23:28:28.000Z",
+          "wordCount": null,
+          "title": "インフルエンサー炎上に学ぶ、YouTube視聴者行動の分析"
+        },
+        {
+          "id": "https://qiita.com/tmaehara/items/300e61e4a7a0907e441b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\n代理モデル (surrogate model) とは複雑な機械学習モデル（e.g., DNN, GBDT）を近似する簡単なモデル（e.g., パラメタ数の少ないDNN, 単純決定木, e…",
+          "link": "https://qiita.com/tmaehara/items/300e61e4a7a0907e441b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-09-25T16:49:42.000Z",
+          "wordCount": null,
+          "title": "代理モデルによる機械学習モデルの説明"
+        },
+        {
+          "id": "https://qiita.com/kazama1209/items/3e48e285cc9406397050?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "概要\n\n記事タイトル通り、巷で人気のSuperTrendインジケーターをPythonで再現してみます。\n\n現在における相場の方向性が視覚的にわかりやすく、なおかつトレンドが明確な曲面においては強力なパ…",
+          "link": "https://qiita.com/kazama1209/items/3e48e285cc9406397050?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-09-25T13:16:28.000Z",
+          "wordCount": null,
+          "title": "【仮想通貨・株・FX】巷で人気のSuperTrendインジケーターをPythonで再現してみる"
+        },
+        {
+          "id": "https://qiita.com/toki_k/items/f9c2258ea6d24247e661?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\n小さなLTに挑戦してみたので、その時に調べた事をまとめました\nLTの内容を Apolloのキャッシュとリストの更新の記事と2つに分割しています。\n\n使用技術\n\n\nReact\nApollo Cl…",
+          "link": "https://qiita.com/toki_k/items/f9c2258ea6d24247e661?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-09-25T09:43:18.000Z",
+          "wordCount": null,
+          "title": "ApolloのFragmentの使い方"
+        },
+        {
+          "id": "https://qiita.com/toki_k/items/945670f580c5cf507d97?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\n小さなLTに挑戦してみたので、その時に調べた事をまとめました。\nLTの内容をApolloのFragmentの使い方の記事と2つに分割してます。\n\n使用技術\n\n\nReact\nApollo Cli…",
+          "link": "https://qiita.com/toki_k/items/945670f580c5cf507d97?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-09-25T09:41:41.000Z",
+          "wordCount": null,
+          "title": "Apolloのキャッシュとリストの更新"
+        },
+        {
+          "id": "https://qiita.com/yuki_ink/items/417a52b8f42fca258171?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\nこの度、Microsoft Certified: Azure Fundamentals（AZ-900）に合格しました。\n\n私は仕事上AWSに携わることが多くAWS認定資格も保有していますが…",
+          "link": "https://qiita.com/yuki_ink/items/417a52b8f42fca258171?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-09-25T09:39:22.000Z",
+          "wordCount": null,
+          "title": "AWSエンジニアのためのAzure Fundamentals対策"
+        },
+        {
+          "id": "https://qiita.com/Hiroya_W/items/049bfb4c6ad3dfe6ff0c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "CMake\n\nCMakeは、C/C++プロジェクト向け、マルチプラットフォームのビルドツールです。\n僕が初めてプログラミングに触りC/C++を勉強していた当時、難しそうという雰囲気から避けてしまって…",
+          "link": "https://qiita.com/Hiroya_W/items/049bfb4c6ad3dfe6ff0c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-09-25T08:38:22.000Z",
+          "wordCount": null,
+          "title": "C/C++プロジェクトをCMakeでビルドする"
+        },
+        {
+          "id": "https://qiita.com/tsuzuki817/items/bc081e29af9726c466ac?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\nこの度、「WidgetQiita」というQiitaの記事をWidgetで見れるアプリをリリースしました  \nWidgetに表示された記事をタップするとSafariなどのデフォルトのブラウザで…",
+          "link": "https://qiita.com/tsuzuki817/items/bc081e29af9726c466ac?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-09-24T23:05:48.000Z",
+          "wordCount": null,
+          "title": "Qiitaの人気記事を見られるiOS用Widgetアプリリリースしました🤖"
+        },
+        {
+          "id": "https://qiita.com/kondo97/items/b97b02c69b6761f70dd1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\nこの度、個人開発にて、Qiitaライクな投稿型ブログサービスをFirebaseを利用して制作しました。\n本経験を基に、改めてFirestoreのDB設計について考えてみたいと思います。\n…",
+          "link": "https://qiita.com/kondo97/items/b97b02c69b6761f70dd1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-09-24T16:25:29.000Z",
+          "wordCount": null,
+          "title": "Qiitaを題材に、FirestoreのDB設計について考えてみる。"
+        },
+        {
+          "id": "https://qiita.com/kobori_akira/items/73488918d6fb2a1ae020?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "Docker開発において、あまり把握せずやり過ごしてしまうものの1つに「ファイル共有」があります。\n\n自分がその一人なのですが、yarn installが遅かったことをキッカケに調べてみました。\n\nタイ…",
+          "link": "https://qiita.com/kobori_akira/items/73488918d6fb2a1ae020?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-09-24T12:48:31.000Z",
+          "wordCount": null,
+          "title": "\"なんとなく”Dockerのファイル共有について語れるようになる"
+        },
+        {
+          "id": "https://qiita.com/komanaki/items/237161a43285471ad3c9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "Unityで作っているノベルゲームのために、いい背景のように面白い方法を調べました。Pythonのライブラリと小さいスクリプト、写真からいいドット絵風に画像ができます。\n\n\n\nなぜ写真から？\n\nノベルゲーム…",
+          "link": "https://qiita.com/komanaki/items/237161a43285471ad3c9?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-09-24T11:14:05.000Z",
+          "wordCount": null,
+          "title": "Pythonで写真がドット絵へ変換！ノベルゲーム背景のために。"
+        },
+        {
+          "id": "https://qiita.com/KWS_0901/items/e5f7d88f14d479746698?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "Playwrightとは\n\n\nMicrosoft を中心に開発されているNode.js上からブラウザを操作するためのライブラリ。\n特徴\n\n\nブラウザ操作しながらテストコードを自動生成\nクロスブラウザテスト…",
+          "link": "https://qiita.com/KWS_0901/items/e5f7d88f14d479746698?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-09-24T10:42:44.000Z",
+          "wordCount": null,
+          "title": "[Python]Playwright ブラウザ操作自動化 メモ"
+        },
+        {
+          "id": "https://qiita.com/diskszk/items/333511fb97d24f52a439?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\n記事を聞くに至った経緯\n\nプログラミングに触れて初めて自分から勉強しにいったのがReactでした。当時はとりあえず動くものをつくるので精一杯だった為useEffectをなんとなく使うことは…",
+          "link": "https://qiita.com/diskszk/items/333511fb97d24f52a439?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-09-24T05:09:03.000Z",
+          "wordCount": null,
+          "title": "【React】useEffectをちゃんと理解する"
+        },
+        {
+          "id": "https://qiita.com/cabacho/items/1b3d4565f8f40aa52873?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\nさんまが食べたいなぁと思いましたが、なかなかさんまを食べる機会がないなぁと思ったので、さんまを焼けるアプリを作成しました。\n\n名前の通り、さんまを焼くだけのアプリです。\n就活の息抜きなので…",
+          "link": "https://qiita.com/cabacho/items/1b3d4565f8f40aa52873?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-09-24T04:54:31.000Z",
+          "wordCount": null,
+          "title": "【個人開発】さんまを焼くだけのアプリを作ってみた"
+        },
+        {
+          "id": "https://qiita.com/takumi--kobayashi/items/3a608383219814cdf555?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\nこんにちは、情報戦略テクノロジーの小林と申します。\n今回は初めて記事を書くということで、私が最も実務で触れているバッチ処理におけるlambdaとglueについてまとめることにしました。\n…",
+          "link": "https://qiita.com/takumi--kobayashi/items/3a608383219814cdf555?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-09-24T04:07:16.000Z",
+          "wordCount": null,
+          "title": "AWS LambdaとGlue、どっちを選ぶ？"
+        },
+        {
+          "id": "https://qiita.com/ikdysk/items/c224e4598c90e51d2406?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "アプリ説明\n\n占いたい時期を西暦で入力して、上半期か下半期を選択。占いたい星座を入力すると、占いサイトより該当の星座占いをスクレイピングして、結果をテキストマイニングして画像を生成させます。\n生成し…",
+          "link": "https://qiita.com/ikdysk/items/c224e4598c90e51d2406?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-09-24T01:52:47.000Z",
+          "wordCount": null,
+          "title": "Pythonでスクレイピングした結果をテキストマイニングしてLINEに送信する"
+        },
+        {
+          "id": "https://qiita.com/EBIHARA_kenji/items/2727c03335ddaea9c520?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "Webアプリ開発基本シリーズ\n\n※ 下記の人が対象のシリーズとなっています。\n\n\nWebアプリ開発をこれから学ぶ人\nなんとなくで開発していたので、基礎からしっかり学びたい人\nAlt JS や WebPac…",
+          "link": "https://qiita.com/EBIHARA_kenji/items/2727c03335ddaea9c520?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-09-24T01:46:32.000Z",
+          "wordCount": null,
+          "title": "Webアプリケーションのアーキテクチャ (Webアプリ開発基本シリーズ　1)"
+        },
+        {
+          "id": "https://qiita.com/junp007/items/02febf389880fa8cd3d3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "初めに\n\n本記事は扇風機のファームウェアを書き換えて潜在能力を引き出した話(その1)の続きです。\n前回思わず動かなくしてしまった扇風機を生き返らせます。\nところどころ組み込み独特の用語が出てくるので…",
+          "link": "https://qiita.com/junp007/items/02febf389880fa8cd3d3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-09-23T23:31:05.000Z",
+          "wordCount": null,
+          "title": "扇風機のファームウェアを書き換えて潜在能力を引き出した話(その2)"
+        },
+        {
+          "id": "https://qiita.com/k_kazukiiiiii/items/7f8be401631ce40e56f1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "やりたいこと\n\nyarn ではなく npm install を叩いたらエラーを出す仕組みを作りたい\n\n実現方法\n\n\nnpmrc に engine-strict=true を記載する\nnpmrc とは np…",
+          "link": "https://qiita.com/k_kazukiiiiii/items/7f8be401631ce40e56f1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-09-23T21:09:14.000Z",
+          "wordCount": null,
+          "title": "yarn ではなく npm install を叩いたらエラーを出したいを実現する方法が簡単だった"
+        },
+        {
+          "id": "https://qiita.com/matsuji/items/1c4ff827d73b330c2c55?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "最近、ハーフモーダル(セミモーダル)を使っているアプリが増えてきましたね。\n僕も個人開発しているアプリでハーフモーダルを使いたい時がよくあるのですが、SwiftUIで手軽に実装する方法がなかったので…",
+          "link": "https://qiita.com/matsuji/items/1c4ff827d73b330c2c55?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-09-23T14:57:26.000Z",
+          "wordCount": null,
+          "title": "SwiftUIでハーフモーダルを表示するライブラリ ResizableSheet"
+        },
+        {
+          "id": "https://qiita.com/toki_k/items/a3cde6f300a626112334?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\n8/23~8/27の5日間で、サイボウズのサマーインターンに参加してきました。\nサマーインターンへの参加は初めてで、すごく緊張していたのですが、\n楽しくて、会社の雰囲気も知れて、学びもあ…",
+          "link": "https://qiita.com/toki_k/items/a3cde6f300a626112334?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-09-23T02:22:32.000Z",
+          "wordCount": null,
+          "title": "サイボウズのインターンに参加してきました"
+        },
+        {
+          "id": "https://qiita.com/gen_nospare/items/44d8e3530c66309c611f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "こんにちは，株式会社Nospare・千葉大学の小林です．本記事ではGelman and Vehtari (2020)の`What are the most important statistical…",
+          "link": "https://qiita.com/gen_nospare/items/44d8e3530c66309c611f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-09-22T05:32:01.000Z",
+          "wordCount": null,
+          "title": "【論文紹介】統計学の過去50年における最も重要なアイディアとは？"
+        },
+        {
+          "id": "https://qiita.com/mokio/items/e19f90b126a1027cfec0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\nこんにちは、未経験からエンジニア転職を目指している27歳です。\nエンジニア転職を目指す際、ふと「未経験とプロのエンジニアの違いってなんだ？」と思ったことはないでしょうか？私もそのうちの1…",
+          "link": "https://qiita.com/mokio/items/e19f90b126a1027cfec0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-09-17T11:52:59.000Z",
+          "wordCount": null,
+          "title": "未経験から実案件やったら見事に苦労した件〜実務案件体験記〜"
+        }
+      ]
+    },
+    {
+      "title": "Zennのトレンド",
+      "feedUrl": "https://zenn.dev/feed",
+      "siteUrl": "https://zenn.dev",
+      "articles": [
+        {
+          "id": "https://zenn.dev/tkithrta/articles/4ff685b007bc79",
+          "author": "黒ヰ樹",
+          "description": "TL;DR\nGitpodではScalaやKotlinといったJVM言語を使う方法が以前公式ドキュメントにあったのですが、最近はClojureしか掲載されなくなってしまい、GitpodのJavaについて初心者へ紹介しづらくなってしまいました。\nそんなわけでSDKMAN!と一緒に紹介します。\n\n SDKMAN!\nhttps://sdkman.io/\n感嘆符が重要らしいこちらのツールはJavaで使えるSDKマネージャーです。\nGitpod内部でもAzul SystemsのZulu JDKをインストールするために使われております。\nそのためGitpod内でもsdk installコマンドが使...",
+          "link": "https://zenn.dev/tkithrta/articles/4ff685b007bc79",
+          "publishedOn": "2021-09-26T13:15:17.000Z",
+          "wordCount": 282,
+          "title": "じゃあ、みんなでGitpodのJDK & SDKをやってみよう",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--WRDp7vCI--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:%25E9%25BB%2592%25E3%2583%25B0%25E6%25A8%25B9%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_70_bold:%25E3%2581%2598%25E3%2582%2583%25E3%2581%2582%25E3%2580%2581%25E3%2581%25BF%25E3%2582%2593%25E3%2581%25AA%25E3%2581%25A7Gitpod%25E3%2581%25AEJDK%2520%2526%2520SDK%25E3%2582%2592%25E3%2582%2584%25E3%2581%25A3%25E3%2581%25A6%25E3%2581%25BF%25E3%2582%2588%25E3%2581%2586%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2ljb25fYTQ0NGUxMDhmOS5qcGVn%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1627274783/default/og-base_z4sxah.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://zenn.dev/ymd_h/articles/381fa7cc4070e8",
+          "author": "山田(ymd)",
+          "description": "0. はじめに\n先日書いたPyBulletの調査記事の続きです。\nhttps://zenn.dev/ymd_h/articles/14397e6ae7ea3d\n前回、PyBulletの基本的な情報や、単純なオブジェクトの構築について調査して記載しましたが、今回は複数のコンポーネントから構成されるより複雑なモデルの構築について調べた事を記載します。（前回の記事を未読の方は、そちらから目を通してください。）\n細かい中身は必要なく、既存のURDF形式のファイルに保存されたモデルを使って、さくっと強化学習を実行したいという場合はFacebook Research製の pybulletX が良...",
+          "link": "https://zenn.dev/ymd_h/articles/381fa7cc4070e8",
+          "publishedOn": "2021-09-26T12:23:19.000Z",
+          "wordCount": 313,
+          "title": "PyBulletの調査2: 複数コンポーネントから構成されるオブジェクト",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--UBlE-z3y--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:%25E5%25B1%25B1%25E7%2594%25B0%2528ymd%2529%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_70_bold:PyBullet%25E3%2581%25AE%25E8%25AA%25BF%25E6%259F%25BB2%253A%2520%25E8%25A4%2587%25E6%2595%25B0%25E3%2582%25B3%25E3%2583%25B3%25E3%2583%259D%25E3%2583%25BC%25E3%2583%258D%25E3%2583%25B3%25E3%2583%2588%25E3%2581%258B%25E3%2582%2589%25E6%25A7%258B%25E6%2588%2590%25E3%2581%2595%25E3%2582%258C%25E3%2582%258B%25E3%2582%25AA%25E3%2583%2596%25E3%2582%25B8%25E3%2582%25A7%25E3%2582%25AF%25E3%2583%2588%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2ljb25fNDJjMmE3ZGRkMC5qcGVn%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1627274783/default/og-base_z4sxah.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://zenn.dev/tiwu_dev/articles/2504a20732d305",
+          "author": "Wataru Taguchi",
+          "description": "はじめに\n今までは実装方法がわからず調査し試行錯誤して実装できた方法を書いたりしていましたが、\n今回は実装自体はできているが、より良い実装はないか？という方向性で書いてみたいと思います。\n書いていく内容は Next.js で実装された一覧と検索機能を持った画面のコンポーネントと状態管理のファイル分割と設計についてです。\n自分は Next.js(React) については書き始めて1年位で、仕事では書いたことなく他PJの構成をほぼ知らないですが、一旦自分の中の設計が落ち着いたので書こうと思った次第です🙏\n\n 解説するページ\n今回解説するページは自分が実装しているサイトのツイッターの呟き一...",
+          "link": "https://zenn.dev/tiwu_dev/articles/2504a20732d305",
+          "publishedOn": "2021-09-26T11:28:53.000Z",
+          "wordCount": 560,
+          "title": "【Next.js】コンポーネントと状態管理のファイル分割と設計",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--vPiU5GMl--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:Wataru%2520Taguchi%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_70_bold:%25E3%2580%2590Next.js%25E3%2580%2591%25E3%2582%25B3%25E3%2583%25B3%25E3%2583%259D%25E3%2583%25BC%25E3%2583%258D%25E3%2583%25B3%25E3%2583%2588%25E3%2581%25A8%25E7%258A%25B6%25E6%2585%258B%25E7%25AE%25A1%25E7%2590%2586%25E3%2581%25AE%25E3%2583%2595%25E3%2582%25A1%25E3%2582%25A4%25E3%2583%25AB%25E5%2588%2586%25E5%2589%25B2%25E3%2581%25A8%25E8%25A8%25AD%25E8%25A8%2588%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2ljb25fZTIyZWFlYzZmYy5qcGVn%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1627274783/default/og-base_z4sxah.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://zenn.dev/kato_k/articles/3aa7217a1636ca",
+          "author": "kat0h",
+          "description": "初めに\nVim/NeoVim両対応のMarkdownプレビュープラグインを作成しました。\nこの記事では作った経緯とこのプラグインについて紹介します。\n\nhttps://github.com/kat0h/dps-bufpreview.vim\n\n 使い方\n\n インストール\nこのプラグインはDenoとdenops.vimに依存しています。\n初めにDenoを公式のインストールからインストールしてください。\ndenops.vimは通常のVimプラグインと同じようにインストールしてください。\nPlug-Vim:\n\n      \n        \n        Plug 'vim-denops...",
+          "link": "https://zenn.dev/kato_k/articles/3aa7217a1636ca",
+          "publishedOn": "2021-09-26T10:31:19.000Z",
+          "wordCount": 76,
+          "title": "Vim/NeoVimでMarkdownをプレビューするプラグインを作った",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--2kJktU2s--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:kat0h%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_70_bold:Vim%252FNeoVim%25E3%2581%25A7Markdown%25E3%2582%2592%25E3%2583%2597%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC%25E3%2581%2599%25E3%2582%258B%25E3%2583%2597%25E3%2583%25A9%25E3%2582%25B0%25E3%2582%25A4%25E3%2583%25B3%25E3%2582%2592%25E4%25BD%259C%25E3%2581%25A3%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2ljb25fMDA1MWRmMmFlMi5qcGVn%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1627274783/default/og-base_z4sxah.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://zenn.dev/k_ino/articles/c4290ad326144d",
+          "author": "K.Inoue",
+          "description": "お疲れさまです。k-inoです\n今回は、自宅にRTX1200を導入したので\n導入のきっかけと感想を書いていきます。宜しくお願い致します。\n\n 誤家庭　って？\n某界隈では、一般家庭に業務用ルーターを導入した構成を誤家庭というらしいです。\nここでもそれに従い(？)、誤家庭と表記します。\n\n 導入のきっかけ\n\nWi-fiでLINEのビデオ通話や、モンストでマルチプレイをしていると30分ほどでWi-fiがDownするようになった\n　☞無線と有線で機器を別にすれば解消するのでは。\nネットワークエンジニア志望で業界に入ったので、一度YAMAHAの機器設定をしてみたかった\n　☞YAMAHAの実務経験が...",
+          "link": "https://zenn.dev/k_ino/articles/c4290ad326144d",
+          "publishedOn": "2021-09-26T10:21:55.000Z",
+          "wordCount": 390,
+          "title": "家庭にRTX1200を導入して、誤家庭の仲間入りをしてみた",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--b-e2vmhC--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:K.Inoue%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_70_bold:%25E5%25AE%25B6%25E5%25BA%25AD%25E3%2581%25ABRTX1200%25E3%2582%2592%25E5%25B0%258E%25E5%2585%25A5%25E3%2581%2597%25E3%2581%25A6%25E3%2580%2581%25E8%25AA%25A4%25E5%25AE%25B6%25E5%25BA%25AD%25E3%2581%25AE%25E4%25BB%25B2%25E9%2596%2593%25E5%2585%25A5%25E3%2582%258A%25E3%2582%2592%25E3%2581%2597%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly96ZW5uLWRldi5naXRodWIuaW8vZGVmYXVsdC1hdmF0YXJzL2Rhcmsvay5zdmc=%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1627274783/default/og-base_z4sxah.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://zenn.dev/ritou/articles/015b7bb7801613",
+          "author": "ritou",
+          "description": "こんばんは、ritou です。\n\n今日は　JWTの無効化の方法はいっぱいあるよ って話を書きます。\n\n 単体での無効化(jti, 文字列全体のハッシュ)\nこれが最も一般的な JWT無効化の方法 と言えるかもしれません。\nちょっと前に話題になった「Stateless」なユースケースにおける無効化できないみたいな話に絡むところでしょう。\n\nThe \"jti\" (JWT ID) claim provides a unique identifier for the JWT.\n\n例えば失効対象の jti のリストを管理することで無効化判定ができるでしょう。\n有効期限を持つかどうかにより対象の jt...",
+          "link": "https://zenn.dev/ritou/articles/015b7bb7801613",
+          "publishedOn": "2021-09-26T09:47:42.000Z",
+          "wordCount": 91,
+          "title": "JWTの無効化実装例",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--JVaSB0Zc--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:ritou%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_80_bold:JWT%25E3%2581%25AE%25E7%2584%25A1%25E5%258A%25B9%25E5%258C%2596%25E5%25AE%259F%25E8%25A3%2585%25E4%25BE%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2pRX2Zjd3NJUms2TGFsYm5qQ0hXeldmazdCa1l2WDlYQWtaUDhiOFE9czgwLWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1627274783/default/og-base_z4sxah.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://zenn.dev/karaage0703/articles/211d89cc0a29a1",
+          "author": "karaage0703",
+          "description": "はじめに\n10年くらいMacばかり触ってて、久しぶりにWindowsに戻ってきた人のメモです。同じような境遇の人の何かの参考になれば幸いです。\n基本的に個人的メモなのであまり期待はしないでください。購入したPCに関しては、以下記事参照ください。\nhttps://karaage.hatenadiary.jp/entry/2021/09/20/073000\n\n OSセットアップ\n最初にLinuxも動くようにしています。Windows環境とは直接関係ないのですが、参考まで。\n可能ならWindowsの大型アップグレードを済ませてからLinux環境を構築したほうが良いと思います（アップグレード...",
+          "link": "https://zenn.dev/karaage0703/articles/211d89cc0a29a1",
+          "publishedOn": "2021-09-26T09:11:30.000Z",
+          "wordCount": 137,
+          "title": "ゲーミングPCのWindows環境セットアップ",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--06YP6QPa--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:karaage0703%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_70_bold:%25E3%2582%25B2%25E3%2583%25BC%25E3%2583%259F%25E3%2583%25B3%25E3%2582%25B0PC%25E3%2581%25AEWindows%25E7%2592%25B0%25E5%25A2%2583%25E3%2582%25BB%25E3%2583%2583%25E3%2583%2588%25E3%2582%25A2%25E3%2583%2583%25E3%2583%2597%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2hDZEtvakJfZXdDTjNCV1Z0WXIteFNIZ0hmRjlXZmt3QzI5c0Y0aXYwPXM4MC1j%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1627274783/default/og-base_z4sxah.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://zenn.dev/okazuki/articles/blazor-wasm-rc1-queryparam",
+          "author": "Kazuki Ota",
+          "description": "内容としては、ここらへんで紹介されているものになります。\nhttps://devblogs.microsoft.com/aspnet/asp-net-core-updates-in-net-6-preview-7/\nhttps://devblogs.microsoft.com/aspnet/asp-net-core-updates-in-net-6-rc-1/\nBlazor のコンポーネントで URL のクエリ パラメーターを使うのが凄く簡単になりました。今までは自分でクエリパラメーターを取得するような処理を書かないといけなかったのですが、.NET 6 では基本的にこの機能で賄えるように...",
+          "link": "https://zenn.dev/okazuki/articles/blazor-wasm-rc1-queryparam",
+          "publishedOn": "2021-09-26T04:25:31.000Z",
+          "wordCount": 230,
+          "title": ".NET 6 の Blazor のコンポーネントでクエリ パラメーターを使うのが簡単になりました",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--KPDhsVM_--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:Kazuki%2520Ota%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_65_bold:.NET%25206%2520%25E3%2581%25AE%2520Blazor%2520%25E3%2581%25AE%25E3%2582%25B3%25E3%2583%25B3%25E3%2583%259D%25E3%2583%25BC%25E3%2583%258D%25E3%2583%25B3%25E3%2583%2588%25E3%2581%25A7%25E3%2582%25AF%25E3%2582%25A8%25E3%2583%25AA%2520%25E3%2583%2591%25E3%2583%25A9%25E3%2583%25A1%25E3%2583%25BC%25E3%2582%25BF%25E3%2583%25BC%25E3%2582%2592%25E4%25BD%25BF%25E3%2581%2586%25E3%2581%25AE%25E3%2581%258C%25E7%25B0%25A1%25E5%258D%2598%25E3%2581%25AB%25E3%2581%25AA%25E3%2582%258A%25E3%2581%25BE%25E3%2581%2597%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2ljb25fOGY3ODc0MmM0NC5qcGVn%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1627274783/default/og-base_z4sxah.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://zenn.dev/h_yoshikawa0724/articles/2021-09-26-material-ui-v5",
+          "author": "よし",
+          "description": "どうもよしです。久しぶりの投稿になります。\n元々、Material Design をベースとした UI コンポーネントライブラリである、Material UI の v5 が遂にリリースされました！\nv4 からどう変わったのか自分でも試すなど、さらっと見てみたので、ここにまとめてみました。\n\nこの記事は、個人ブログへ投稿した記事の転載です。\n\n\n Material UI とは？\n元々、Google の Material Design をベースに開発された、UI コンポーネントライブラリです。\nMaterial UI の概要や v4 の機能に関しては、以前に記事を書いていますので、よろしけれ...",
+          "link": "https://zenn.dev/h_yoshikawa0724/articles/2021-09-26-material-ui-v5",
+          "publishedOn": "2021-09-26T03:58:52.000Z",
+          "wordCount": 2917,
+          "title": "こんにちはMUI！ 新しくなったMaterial UI v5",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--3okbZ3F---/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:%25E3%2582%2588%25E3%2581%2597%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_70_bold:%25E3%2581%2593%25E3%2582%2593%25E3%2581%25AB%25E3%2581%25A1%25E3%2581%25AFMUI%25EF%25BC%2581%2520%25E6%2596%25B0%25E3%2581%2597%25E3%2581%258F%25E3%2581%25AA%25E3%2581%25A3%25E3%2581%259FMaterial%2520UI%2520v5%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2l3RDVWRUhGaUh0Nmw1SEhtQ3FfVkFGSnRKS21NMmtVd2VicFp4PXM4MC1j%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1627274783/default/og-base_z4sxah.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://zenn.dev/spiegel/books/a-study-in-postgresql",
+          "author": "Spiegel",
+          "description": "少し前に PostgreSQL サービスに Go でアクセスする方法についてちょっとした調べものをした。そのときの作業メモをブログ記事として残そうと思ったのだが，単ページで収まりそうになかったので Zenn 本の体裁で書き記しておく。体裁は「本」だが，中身はただの作業記録である。ちゃんとした解説をご所望の方にはあしからずご了承のほどを。\n\n講釈はいいから動くコードをくれ！ という方には多少なりと参考になるかもしれない。",
+          "link": "https://zenn.dev/spiegel/books/a-study-in-postgresql",
+          "publishedOn": "2021-09-26T03:56:10.000Z",
+          "wordCount": 71,
+          "title": "PostgreSQL と ORM と Logging と",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--ZZXkS3Sw--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci9kNDMyMDgwODgxLmpwZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          }
+        },
+        {
+          "id": "https://zenn.dev/dumblepy/articles/6d9d614502c249",
+          "author": "medy🐍👑",
+          "description": "この記事は以下の翻訳です\nWhy I Use Nim instead of Python for Data Processing\n怠け者のプログラマーは、計算の手間をプログラミングの手間に置き換えたがるものです。私はまさにそのようなプログラマーです。私の研究では、テラバイト級の大規模データを対象としたアルゴリズムを設計・実行することがよくあります。NIHのフェローである私は、10万台以上のプロセッサを搭載したクラスターであるBiowulfを利用していますが、大きなMapReduceを実行すればよいのであれば、1つの実験のためにシングルスレッドのパフォーマンスを最適化するために膨大な時間を...",
+          "link": "https://zenn.dev/dumblepy/articles/6d9d614502c249",
+          "publishedOn": "2021-09-26T02:32:59.000Z",
+          "wordCount": 256,
+          "title": "なぜ私はデータ処理においてNimをPythonの代わりに使うのか（翻訳）",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--aenSqs2A--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:medy%2520%2520%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_70_bold:%25E3%2581%25AA%25E3%2581%259C%25E7%25A7%2581%25E3%2581%25AF%25E3%2583%2587%25E3%2583%25BC%25E3%2582%25BF%25E5%2587%25A6%25E7%2590%2586%25E3%2581%25AB%25E3%2581%258A%25E3%2581%2584%25E3%2581%25A6Nim%25E3%2582%2592Python%25E3%2581%25AE%25E4%25BB%25A3%25E3%2582%258F%25E3%2582%258A%25E3%2581%25AB%25E4%25BD%25BF%25E3%2581%2586%25E3%2581%25AE%25E3%2581%258B%25EF%25BC%2588%25E7%25BF%25BB%25E8%25A8%25B3%25EF%25BC%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2ljb25fODc1MjYzMmI0MS5qcGVn%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1627274783/default/og-base_z4sxah.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://zenn.dev/kumackey/articles/c3acbd928d1d510268ab",
+          "author": "熊木",
+          "description": "先に結論\n\nsetterは悪。\ngetterは必要なケースがあり、一概に悪といえない。\ngetterによりビジネスロジックをオブジェクト外に流出させてしまうのは悪。\n\n\n 想定読者\n\nオブジェクト指向に入門した方々\ngetter/setterがNGというのは概念的に理解したけど、具体的な改善方法を知りたい方々\nというか1年前の僕\n\nネットでgetter/setterについて検索すると、「必要ない」だとか「カプセル化を破る」だとか「Tell, Don't Ask」だとかが出てきます。\ngetter setter 使わない - Google Search\n普通の人なら「getter/se...",
+          "link": "https://zenn.dev/kumackey/articles/c3acbd928d1d510268ab",
+          "publishedOn": "2021-09-26T01:47:02.000Z",
+          "wordCount": 1693,
+          "title": "【入門】結局getter/setterは悪なのか",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--qdaLTlAg--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:%25E7%2586%258A%25E6%259C%25A8%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_70_bold:%25E3%2580%2590%25E5%2585%25A5%25E9%2596%2580%25E3%2580%2591%25E7%25B5%2590%25E5%25B1%2580getter%252Fsetter%25E3%2581%25AF%25E6%2582%25AA%25E3%2581%25AA%25E3%2581%25AE%25E3%2581%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2ljb25fODIzZTM3ZWMwNy5qcGVn%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1627274783/default/og-base_z4sxah.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://zenn.dev/elpnt/articles/1af1047612992d",
+          "author": "elpnt",
+          "description": "はじめに\nhttps://next-auth.js.org/\nNextAuth.js は Next.js のために作られた OSS の認証ライブラリです。\nこのライブラリは主に OAuth もしくは Email で認証したユーザーの情報やセッションを連携したデータベースで自動管理できるのが売りです。他の認証システムで既に認証済みのユーザーを管理する方法もありはするのですが、OAuth や Email 認証に比べるとあまり分かりやすいサンプルコードがありません。防備録も兼ねて、ここで知見を共有したいと思います。\nなお、NextAuth ではログイン中のユーザーの情報は firebase...",
+          "link": "https://zenn.dev/elpnt/articles/1af1047612992d",
+          "publishedOn": "2021-09-25T15:16:05.000Z",
+          "wordCount": 695,
+          "title": "NextAuth.js と Firebase Authentication の連携",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--Z0Oiutaz--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:elpnt%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_65_bold:NextAuth.js%2520%25E3%2581%25A8%2520Firebase%2520Authentication%2520%25E3%2581%25AE%25E9%2580%25A3%25E6%2590%25BA%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2ljb25fYTZjYzMxZjE5NS5qcGVn%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1627274783/default/og-base_z4sxah.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://zenn.dev/tsuruo/articles/6cc7b5bf24bb65",
+          "author": "ツルオカ",
+          "description": "はじめに\n非常に有り触れたタイトルになっていますが、最近私の周辺でFlutterを始める方が増えてきており（推奨している影響もある）、その都度同じリンクを貼るのが億劫になってきたのでまとめることとしました。ただこの手の内容だと「ただリンクを貼るだけ」みたいな記事も散見されますが、それだけだとつまらないのでそのリンク先で何が学べたか、どう感じたかも一言添えて紹介していきます。私も1年半前からFlutterに出会い1から学習した身ですので、これからFlutterを始める方とも感覚的には近いと認識しています。より再現性が高くなるよう、私が実際に学習で使用した内容を中心に取り扱っておりますの...",
+          "link": "https://zenn.dev/tsuruo/articles/6cc7b5bf24bb65",
+          "publishedOn": "2021-09-25T12:00:50.000Z",
+          "wordCount": 232,
+          "title": "2021年 - これからFlutterを始める人へ学習方法のススメ",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--ydAZjUkt--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:%25E3%2583%2584%25E3%2583%25AB%25E3%2582%25AA%25E3%2582%25AB%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_70_bold:2021%25E5%25B9%25B4%2520-%2520%25E3%2581%2593%25E3%2582%258C%25E3%2581%258B%25E3%2582%2589Flutter%25E3%2582%2592%25E5%25A7%258B%25E3%2582%2581%25E3%2582%258B%25E4%25BA%25BA%25E3%2581%25B8%25E5%25AD%25A6%25E7%25BF%2592%25E6%2596%25B9%25E6%25B3%2595%25E3%2581%25AE%25E3%2582%25B9%25E3%2582%25B9%25E3%2583%25A1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2ljb25fMTQyMjVkNjQ0NC5qcGVn%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1627274783/default/og-base_z4sxah.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://zenn.dev/petamoriken/articles/062461b79e0d8f",
+          "author": "petamoriken",
+          "description": "イテレーターのインターフェースについて\nES2015 から Iterable インターフェースを実装したオブジェクトに対して for-of やスプレッド構文を使うことが出来ます。インターフェースについて詳しくは qnighy さんの記事を御覧ください。\nhttps://zenn.dev/qnighy/articles/112af47edfda96\n\n 遅延リストを扱うライブラリ\n整数が入った配列があったとします。その配列に対して要素を二乗し、一つ足し、その後で偶数のみを取り出すことを考えます。愚直に実装すると以下のようになります。\n\n      \n        \n        c...",
+          "link": "https://zenn.dev/petamoriken/articles/062461b79e0d8f",
+          "publishedOn": "2021-09-25T11:06:31.000Z",
+          "wordCount": 618,
+          "title": "遅延リストを扱うライブラリと Stage 2 Iterator Helpers",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--UG-VpWSC--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:petamoriken%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_70_bold:%25E9%2581%2585%25E5%25BB%25B6%25E3%2583%25AA%25E3%2582%25B9%25E3%2583%2588%25E3%2582%2592%25E6%2589%25B1%25E3%2581%2586%25E3%2583%25A9%25E3%2582%25A4%25E3%2583%2596%25E3%2583%25A9%25E3%2583%25AA%25E3%2581%25A8%2520Stage%25202%2520Iterator%2520Helpers%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2ljb25fNTUwZjE2MTc1Ni5qcGVn%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1627274783/default/og-base_z4sxah.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://zenn.dev/ooooooo_q/books/rails_deserialize",
+          "author": "ooooooo_q",
+          "description": "Ruby on Railsで使われているDeserializeとその危険性について調べたものをまとめました。",
+          "link": "https://zenn.dev/ooooooo_q/books/rails_deserialize",
+          "publishedOn": "2021-09-25T10:28:35.000Z",
+          "wordCount": 25,
+          "title": "Deserialization on Rails",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--SLIMCcCY--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci9kYmE4M2RkZjViLmpwZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          }
+        },
+        {
+          "id": "https://zenn.dev/sprout2000/books/76a279bb90c3f3",
+          "author": "k_touge",
+          "description": "React と TypeScript でつくるプログレッシブ・ウェブアプリ入門",
+          "link": "https://zenn.dev/sprout2000/books/76a279bb90c3f3",
+          "publishedOn": "2021-09-25T07:51:49.000Z",
+          "wordCount": 92,
+          "title": "React Hooks と TypeScript でつくる Todo PWA アプリ",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--qnh55JQJ--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci84MzY4Yzc5MjA5LmpwZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          }
+        },
+        {
+          "id": "https://zenn.dev/qnighy/articles/345aa9cae02d9d",
+          "author": "Masaki Hara",
+          "description": "対象読者と目的\n\n非同期処理の実装方法は知っているが、仕組みを詳しく知らないのでベストプラクティスがわからないときがある\n実行順序の保証がよくわからないので自信をもってデプロイできない変更がある\nより詳しい仕組みを理解することでより計画的な実装をできるようになりたい\n\nという動機で書かれた記事です。同様の課題を抱える人を対象読者として想定しています。\n\n 目次\n\n実行モデルとタスクキュー\nPromise (執筆中)\nasync/await (執筆中)\nAbortSignal, EventTarget, EventEmitter (執筆中)\nWHATWG Streams / Node....",
+          "link": "https://zenn.dev/qnighy/articles/345aa9cae02d9d",
+          "publishedOn": "2021-09-25T07:50:38.000Z",
+          "wordCount": 576,
+          "title": "JavaScriptの非同期処理をじっくり理解する (1) 実行モデルとタスクキュー",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--5Bbla0nD--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:Masaki%2520Hara%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_65_bold:JavaScript%25E3%2581%25AE%25E9%259D%259E%25E5%2590%258C%25E6%259C%259F%25E5%2587%25A6%25E7%2590%2586%25E3%2582%2592%25E3%2581%2598%25E3%2581%25A3%25E3%2581%258F%25E3%2582%258A%25E7%2590%2586%25E8%25A7%25A3%25E3%2581%2599%25E3%2582%258B%2520%25281%2529%2520%25E5%25AE%259F%25E8%25A1%258C%25E3%2583%25A2%25E3%2583%2587%25E3%2583%25AB%25E3%2581%25A8%25E3%2582%25BF%25E3%2582%25B9%25E3%2582%25AF%25E3%2582%25AD%25E3%2583%25A5%25E3%2583%25BC%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2l3aEI4dTM5cFZyM09sWVFLcUU5Z1ozV2d3MHlsMS03cUZad0huYWc9czgwLWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1627274783/default/og-base_z4sxah.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://zenn.dev/vvakame/articles/gha-and-gcp-workload-identity",
+          "author": "vvakame",
+          "description": "要約： GitHub ActionsでCI/CD的なことやろうとしたとき、SecretsとかにGCPのService AccountのKeyとか置かなくてもデプロイとかできるようになったらしいのでやったらできた。\n\n 経緯\nAWS federation comes to GitHub Actions という記事が出て。\nGitHub ActionsのOIDC id tokenでGCPにアクセスしてみた といってGCPでもやれるか確かめた人が出て。\nUse gcloud with credentials from identity federation with OIDC に\n\nFor G...",
+          "link": "https://zenn.dev/vvakame/articles/gha-and-gcp-workload-identity",
+          "publishedOn": "2021-09-25T07:14:26.000Z",
+          "wordCount": 377,
+          "title": "GitHub Actions + google-github-actions/auth で GCP keyless CI/CD",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--hD-JpXrc--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:vvakame%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_57_bold:GitHub%2520Actions%2520%252B%2520google-github-actions%252Fauth%2520%25E3%2581%25A7%2520GCP%2520keyless%2520CI%252FCD%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2lvOWV2bjZ5NkFabnhpU2x5S2xEdldkMG5VSmp0Ml82WmlCWFlSdkxJPXM4MC1j%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1627274783/default/og-base_z4sxah.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://zenn.dev/monado/articles/e984d52bd6a894",
+          "author": "モナド",
+          "description": "エンジニアになるのに英語は必要？\n\n はじめに\n「エンジニアになるために英語は必要でしょうか？」\nもし私がそのように聞かれたとしたら以下のように答えます。\n「身につけていると便利な場面が多いのは間違いないですが、英会話やTOEICで出るような文法問題はあまり必要ありません。エンジニアならではの方法で英語を身につけるのが良いと思います。」\nなんとも微妙な回答です。この回答をもう少し分解してわかりやすくお伝えしようと思います。\n\n 英語を身につけていると便利な場面\n先ほど英語を身につけていると便利だと書きましたが、ではどんな場面で役に立つのでしょうか？\n\n変数名や関数名を決める時\nフレー...",
+          "link": "https://zenn.dev/monado/articles/e984d52bd6a894",
+          "publishedOn": "2021-09-25T06:11:00.000Z",
+          "wordCount": 84,
+          "title": "エンジニアに英語は必要か？",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--_DlmInE0--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:%25E3%2583%25A2%25E3%2583%258A%25E3%2583%2589%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_80_bold:%25E3%2582%25A8%25E3%2583%25B3%25E3%2582%25B8%25E3%2583%258B%25E3%2582%25A2%25E3%2581%25AB%25E8%258B%25B1%25E8%25AA%259E%25E3%2581%25AF%25E5%25BF%2585%25E8%25A6%2581%25E3%2581%258B%25EF%25BC%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2ljb25fNmExNDJkYmI0Mi5qcGVn%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1627274783/default/og-base_z4sxah.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://zenn.dev/hiroya_w/articles/c13f2153fe8bd16dd947",
+          "author": "Hiroya-W",
+          "description": "OSS の Python ライブラリ開発をする機会があり、コードを綺麗に保つ環境を整えた方が良いだろうということで、 pysen を導入してみました。\nこの記事では、 pysen をしばらく使ってみた感想を書きました。\nhttps://github.com/pfnet/pysen\n\n Pythonのlinterとformatter\nPython Enhancement Proposal(PEP) という Python に関するドキュメント集があり、そのうち、8 番目の PEP 8 が Style Guide for Python Code について書かれています。コーディング規約はこの ...",
+          "link": "https://zenn.dev/hiroya_w/articles/c13f2153fe8bd16dd947",
+          "publishedOn": "2021-09-25T06:08:10.000Z",
+          "wordCount": 476,
+          "title": "Pythonライブラリ開発にpysenを導入してみた",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--vSnAIXQV--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:Hiroya-W%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_70_bold:Python%25E3%2583%25A9%25E3%2582%25A4%25E3%2583%2596%25E3%2583%25A9%25E3%2583%25AA%25E9%2596%258B%25E7%2599%25BA%25E3%2581%25ABpysen%25E3%2582%2592%25E5%25B0%258E%25E5%2585%25A5%25E3%2581%2597%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2ljb25fN2I5NGFhMDgzOS5qcGVn%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1627274783/default/og-base_z4sxah.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://zenn.dev/tsugitta/articles/concurrency-lock",
+          "author": "tsugitta",
+          "description": "Promise.all で同時に実行される数を制限したい\n\n\nPromise Pool のようなライブラリがある\n\n\nそれに加えて、100 並行で動かすとして突然 100 個の処理を実行し始めるのでなく、少しずつ 100 に向けて増やしていきたい\n\n例えば最小実行間隔を設けるようにしたい\n\n\n\n\n 実装\n\n      \n        \n        export class ConcurrencyLock {\n  private readonly concurrency: number;\n  private readonly interval: number;\n\n  privat...",
+          "link": "https://zenn.dev/tsugitta/articles/concurrency-lock",
+          "publishedOn": "2021-09-25T05:36:58.000Z",
+          "wordCount": 321,
+          "title": "Promise.all で同時に実行される数を制限したい",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--_e9AYeJ0--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:tsugitta%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_70_bold:Promise.all%2520%25E3%2581%25A7%25E5%2590%258C%25E6%2599%2582%25E3%2581%25AB%25E5%25AE%259F%25E8%25A1%258C%25E3%2581%2595%25E3%2582%258C%25E3%2582%258B%25E6%2595%25B0%25E3%2582%2592%25E5%2588%25B6%25E9%2599%2590%25E3%2581%2597%25E3%2581%259F%25E3%2581%2584%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2ljb25fMWMxNzE3MmEzZS5qcGVn%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1627274783/default/og-base_z4sxah.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://zenn.dev/chooyan/articles/93599ae313e6f7",
+          "author": "中條 剛（ちゅーやん）",
+          "description": "provider パッケージを使って「状態」と UI を分離する際によく使われるパターンのひとつに 「画面を表す状態オブジェクトを作る」 というものがあるかと思います。\n例えば「記事一覧画面」を「記事一覧画面を表す状態オブジェクト」を使って作る場合は以下のようなコードになります。\n\n      \n        \n        /// 記事一覧画面を表す Widget （ただし ArticleListPageState を _Screen が受け取れるようにしてあげるだけ）\nclass ArticleListPage extends StatelessWidget {\n  @overr...",
+          "link": "https://zenn.dev/chooyan/articles/93599ae313e6f7",
+          "publishedOn": "2021-09-24T17:30:23.000Z",
+          "wordCount": 815,
+          "title": "【Flutter】Provider + StatefulWidget というパターンの考察",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--qZ7vMGgQ--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:%25E4%25B8%25AD%25E6%25A2%259D%2520%25E5%2589%259B%25EF%25BC%2588%25E3%2581%25A1%25E3%2582%2585%25E3%2583%25BC%25E3%2582%2584%25E3%2582%2593%25EF%25BC%2589%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_65_bold:%25E3%2580%2590Flutter%25E3%2580%2591Provider%2520%252B%2520StatefulWidget%2520%25E3%2581%25A8%25E3%2581%2584%25E3%2581%2586%25E3%2583%2591%25E3%2582%25BF%25E3%2583%25BC%25E3%2583%25B3%25E3%2581%25AE%25E8%2580%2583%25E5%25AF%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2ljb25fNDU2NzhmZGI3Mi5qcGVn%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1627274783/default/og-base_z4sxah.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://zenn.dev/snishiyama/books/jspsych-tutorial",
+          "author": "snishiyama",
+          "description": "心理学の研究において，オンライン実験・調査は研究法の１つとして市民権を得ています。 この本では，オンラインでの実施が可能な実験・調査を作成するツールの１つであるjsPsychの初歩的な使い方を解説します。 プログラミングに馴染みのない方にも読みやすいように作成したつもりです。 皆さまのデータ収集のお役に立てれば幸いです。",
+          "link": "https://zenn.dev/snishiyama/books/jspsych-tutorial",
+          "publishedOn": "2021-09-24T11:47:42.000Z",
+          "wordCount": 20,
+          "title": "jsPsychを用いた心理学実験・調査作成チュートリアル",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--S2OAXTZ9--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci9jMzkxNDFmMjE0LmpwZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          }
+        },
+        {
+          "id": "https://zenn.dev/leaner_tech/articles/20210922-ubiquitous-language",
+          "author": "リーナーテックブログ",
+          "description": "こんにちは、 Leaner Technologies の石渡（@mishiwata1015）です。\n最近、レヴィアスというボードゲームにハマっていて、子供が寝た後に妻と遊んでいます。\nhttps://twitter.com/mishiwata1015/status/1440821319189159940\n今回は、Leaner見積 におけるユビキタス言語を策定したので、その話をします。\n\n ユビキタス言語とは\nユビキタス言語は、開発者やドメインエキスパートを含むチーム全体の共通言語として定義され、チーム内の会話、ドキュメントやコードに至るまで統一的に使用される言葉になります。\nDDD の文...",
+          "link": "https://zenn.dev/leaner_tech/articles/20210922-ubiquitous-language",
+          "publishedOn": "2021-09-24T04:23:56.000Z",
+          "wordCount": 215,
+          "title": "ユビキタス言語策定したらビジネス理解がめっちゃ捗った話",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--RFJBJnIw--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:%25E3%2583%25AA%25E3%2583%25BC%25E3%2583%258A%25E3%2583%25BC%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_70_bold:%25E3%2583%25A6%25E3%2583%2593%25E3%2582%25AD%25E3%2582%25BF%25E3%2582%25B9%25E8%25A8%2580%25E8%25AA%259E%25E7%25AD%2596%25E5%25AE%259A%25E3%2581%2597%25E3%2581%259F%25E3%2582%2589%25E3%2583%2593%25E3%2582%25B8%25E3%2583%258D%25E3%2582%25B9%25E7%2590%2586%25E8%25A7%25A3%25E3%2581%258C%25E3%2582%2581%25E3%2581%25A3%25E3%2581%25A1%25E3%2582%2583%25E6%258D%2597%25E3%2581%25A3%25E3%2581%259F%25E8%25A9%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2ljb25fNGZiYzhkYzg5MS5qcGVn%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1627274783/default/og-base_z4sxah.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Zennの「機械学習」のフィード",
+      "feedUrl": "https://zenn.dev/topics/%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92/feed",
+      "siteUrl": "https://zenn.dev/topics/%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92",
+      "articles": [
+        {
+          "id": "https://zenn.dev/xiongjie/articles/f6ffdbca901158",
+          "author": "xiongjie",
+          "description": "How I annotated 300 images with instance segmentation mask\nThis is an article about how I annotate hand dataset fast.\nFirstly I'll explain annotation data formats and what I chose because this is important to choose the annotation tol.\n\n Annotation data formats\nThere are several segmentation ta...",
+          "link": "https://zenn.dev/xiongjie/articles/f6ffdbca901158",
+          "publishedOn": "2021-09-26T08:13:12.000Z",
+          "wordCount": 706,
+          "title": "How I annotated 300 images with instance segmentation mask",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--XB6aB3KJ--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:xiongjie%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_60_bold:How%2520I%2520annotated%2520300%2520images%2520with%2520instance%2520segmentation%2520mask%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2ljb25fZGIwZmM0NTllNS5qcGVn%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1627274783/default/og-base_z4sxah.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://zenn.dev/xiongjie/articles/b60a5d9febffbb",
+          "author": "xiongjie",
+          "description": "Interactive Segmentationという手法があります。\nこれらの手法はSemantic Segmentationとは異なり、\nユーザ入力をヒントとして、Segmentationを行う手法です。\nアノテーション支援機能や画像編集ツールへの活用が期待されています。\nこれらの最新の手法の整理と、どれを使うか決めるまでのメモを公開します。\n\n 1. Getting to 99% Accuracy in Interactive Segmentation\n\nコード\nディープラーニングモデルのInteractive Segmentationの性能停滞の原因を\n\nユーザとのインタラクショ...",
+          "link": "https://zenn.dev/xiongjie/articles/b60a5d9febffbb",
+          "publishedOn": "2021-09-24T12:15:36.000Z",
+          "wordCount": 133,
+          "title": "Interactive Segmentationの最新の手法(2020, 2021)について少しだけ調査",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--OQBbGm7t--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:xiongjie%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_60_bold:Interactive%2520Segmentation%25E3%2581%25AE%25E6%259C%2580%25E6%2596%25B0%25E3%2581%25AE%25E6%2589%258B%25E6%25B3%2595%25282020%252C%25202021%2529%25E3%2581%25AB%25E3%2581%25A4%25E3%2581%2584%25E3%2581%25A6%25E5%25B0%2591%25E3%2581%2597%25E3%2581%25A0%25E3%2581%2591%25E8%25AA%25BF%25E6%259F%25BB%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2ljb25fZGIwZmM0NTllNS5qcGVn%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1627274783/default/og-base_z4sxah.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://zenn.dev/xiongjie/articles/104a29d8d58f8d",
+          "author": "xiongjie",
+          "description": "CVATを使ってみた。\nCVATはアノテーションツールです。\nこのツールの機能としては、\n\n基本的なアノテーション機能\n自動ラベリング機能\n半自動のラベリング支援機能\nユーザ管理、タスク管理機能\n\nがあります。基本的な使い方は公式ドキュメントも、日本語の説明もたくさんありますので、\nここでは、CVATのロードマップとか設計とか一部機能とか面白そうなところとか見ていきます。\n公式サイトのロードマップを見てみると、Intelのロシア拠点の開発者が開発していて、\n最終的にはのデータプラットフォームにしたいようです。インフラも合わせて提供するかは不明です。\nこのアノテーションツールの（現時点...",
+          "link": "https://zenn.dev/xiongjie/articles/104a29d8d58f8d",
+          "publishedOn": "2021-09-23T08:01:46.000Z",
+          "wordCount": 63,
+          "title": "CVATを使ってみた",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--CrKHjoqw--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:xiongjie%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_80_bold:CVAT%25E3%2582%2592%25E4%25BD%25BF%25E3%2581%25A3%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2ljb25fZGIwZmM0NTllNS5qcGVn%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1627274783/default/og-base_z4sxah.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://zenn.dev/takilog/articles/e97348b67de016d5670b",
+          "author": "たきろぐ",
+          "description": "まえがき\n最尤推定法 (maximum likelihood method) は機械学習における基本的なアプローチとして頻出します．細かい話は置いておくとして，観測したデータから尤度関数 L(\\theta) やその対数 \\log L(\\theta) を最大化するような \\theta^\\star_\\mathrm{MLE}=\\arg\\max \\log L(\\theta; \\text{observed data }\\mathcal{D}) を推定値とするアプローチです．そのため対数尤度関数 \\log L(\\theta) の微分などの情報を利用して推定を行います．\n\n 最尤推定 | コインの...",
+          "link": "https://zenn.dev/takilog/articles/e97348b67de016d5670b",
+          "publishedOn": "2021-09-21T15:02:33.000Z",
+          "wordCount": 542,
+          "title": "[Package] Optim.jlを使って最尤推定 | コイン・多項ロジット",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--QdWHlpU9--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:%25E3%2581%259F%25E3%2581%258D%25E3%2582%258D%25E3%2581%2590%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_70_bold:%255BPackage%255D%2520Optim.jl%25E3%2582%2592%25E4%25BD%25BF%25E3%2581%25A3%25E3%2581%25A6%25E6%259C%2580%25E5%25B0%25A4%25E6%258E%25A8%25E5%25AE%259A%2520%257C%2520%25E3%2582%25B3%25E3%2582%25A4%25E3%2583%25B3%25E3%2583%25BB%25E5%25A4%259A%25E9%25A0%2585%25E3%2583%25AD%25E3%2582%25B8%25E3%2583%2583%25E3%2583%2588%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2ljb25fNTEzMjAyNTFkMi5qcGVn%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1627274783/default/og-base_z4sxah.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://zenn.dev/oreno_dinner/articles/ee8e414abcb2d1",
+          "author": "oreno_ dinner",
+          "description": "pro+で個人が深層学習で動画を扱える時代になった。\nGoogle Colab Pro+が登場しました。\n無料版ではバックグラウンド処理が無く、最大12時間稼働させるためには定期的に監視するマクロを作らなきゃいけませんでしたが、なんとPro+では最大24時間でバックグラウンド処理が可能に！\n月額5000円は電気代だけでも元が取れるくらい安いのに、高確率でV100が使えるんだからマジヤバイ。\n遊ぶだけなら無料版で十分なんだけど、V100を24時間使えるならpix2pixの推論も画像だけでなくHD動画処理も実用に手が届く処理時間になった。未来スゲェや。\nというわけで、GoogleCola...",
+          "link": "https://zenn.dev/oreno_dinner/articles/ee8e414abcb2d1",
+          "publishedOn": "2021-09-19T13:42:28.000Z",
+          "wordCount": 128,
+          "title": "Google Colab Pro+で実用的な機械学習使用法",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--gJ68Jcr---/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:oreno_%2520dinner%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_70_bold:Google%2520Colab%2520Pro%252B%25E3%2581%25A7%25E5%25AE%259F%25E7%2594%25A8%25E7%259A%2584%25E3%2581%25AA%25E6%25A9%259F%25E6%25A2%25B0%25E5%25AD%25A6%25E7%25BF%2592%25E4%25BD%25BF%25E7%2594%25A8%25E6%25B3%2595%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2k2Z1VHbUpMQTNqeFZrRFJGcllsR3hFdnQtNWt2RGJYeHlOWllBWVE9czgwLWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1627274783/default/og-base_z4sxah.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://zenn.dev/matsutakk/articles/75ef57fcd67334",
+          "author": "matsutakk",
+          "description": "修士の研究でMLflowを使っている．これは機械学習のライフサイクルの管理を楽にしてくれるオープンソースのソフトウェアだ．まだ解説記事がたくさんあるわけではないので，公式ドキュメントを読んだ方が良い．（本来はまず何よりも先に公式ドキュメントを読むべきであるだろうが）．ただ，以下の記事も素晴らしいのでさっさと始めたいという人や英語が嫌いな人は参照してみると良い．\nハイパラ管理のすすめ -ハイパーパラメータをHydra+MLflowで管理しよう-\nhttps://ymym3412.hatenablog.com/entry/2020/02/09/034644\n公式ドキュメント冒頭にあるように．...",
+          "link": "https://zenn.dev/matsutakk/articles/75ef57fcd67334",
+          "publishedOn": "2021-09-17T05:51:50.000Z",
+          "wordCount": 382,
+          "title": "MLflowの使い方　〜高レベルAPIでの簡単入門と低レベルAPIでの簡単入門〜",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--0wiAJeyB--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:matsutakk%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_70_bold:MLflow%25E3%2581%25AE%25E4%25BD%25BF%25E3%2581%2584%25E6%2596%25B9%25E3%2580%2580%25E3%2580%259C%25E9%25AB%2598%25E3%2583%25AC%25E3%2583%2599%25E3%2583%25ABAPI%25E3%2581%25A7%25E3%2581%25AE%25E7%25B0%25A1%25E5%258D%2598%25E5%2585%25A5%25E9%2596%2580%25E3%2581%25A8%25E4%25BD%258E%25E3%2583%25AC%25E3%2583%2599%25E3%2583%25ABAPI%25E3%2581%25A7%25E3%2581%25AE%25E7%25B0%25A1%25E5%258D%2598%25E5%2585%25A5%25E9%2596%2580%25E3%2580%259C%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2kzQW5UMHNsWXRXTWhrZ2p4WG1IeTdiLXRTUmhBbEdOWmlWVmExcEE9czk2LWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1627274783/default/og-base_z4sxah.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://zenn.dev/xiongjie/articles/2f2ea4fb0a4f27",
+          "author": "xiongjie",
+          "description": "Active Learningって？\nActive Learningとは、モデルの苦手なデータを特定して効率よく学習するための方法です。\nこの手法ですが、論文をいくつか読んでいると、ラベル付け画像枚数が同じ場合、\n\n平均性能UPが1-2%程度\n苦手ケースの性能UPが8%程度\n\nという感じで、性能向上分だけ見ると、劇的に向上するわけではありません。\nただ、もちろん導入しないよりは導入するほうが良いですし、\n私は、ラベリングコストがかけられない個人MLでこそ、\nActive Learningを導入する価値があると感じていますし、\nまた、企業でも、性能要求が高い場合はActive Lear...",
+          "link": "https://zenn.dev/xiongjie/articles/2f2ea4fb0a4f27",
+          "publishedOn": "2021-09-16T12:24:58.000Z",
+          "wordCount": 80,
+          "title": "Active Learningを導入するべき人って？",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--0HEhXCny--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:xiongjie%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_70_bold:Active%2520Learning%25E3%2582%2592%25E5%25B0%258E%25E5%2585%25A5%25E3%2581%2599%25E3%2582%258B%25E3%2581%25B9%25E3%2581%258D%25E4%25BA%25BA%25E3%2581%25A3%25E3%2581%25A6%25EF%25BC%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2ljb25fZGIwZmM0NTllNS5qcGVn%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1627274783/default/og-base_z4sxah.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://zenn.dev/nek0n0mimi/articles/e8d0d71198e719",
+          "author": "nek0n0mimi",
+          "description": "動作環境\n\nWindows 10\nPyhton 3.9.6\n\n\n 事前準備\n\n icrawlerのインストール\nコマンドプロンプトを開いて、以下のコマンドを実行\n\n      \n        \n        pip install icrawler\n\n\n      \n      \n いよいよ画像収集\n条件は期間・ライセンス・カラー・画像サイズなど色々指定できますが\n今回は、「猫の写真をGoogle crawlerで50枚」集めてみます。\nクローラは、BingやBaiduでも収集可能です。\n\nテキストエディタで以下のファイルを作成\n\n\n      \n        \n       ...",
+          "link": "https://zenn.dev/nek0n0mimi/articles/e8d0d71198e719",
+          "publishedOn": "2021-09-15T10:16:50.000Z",
+          "wordCount": 56,
+          "title": "簡単にデータセットを作る",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--RInJNZTy--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:nek0n0mimi%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_80_bold:%25E7%25B0%25A1%25E5%258D%2598%25E3%2581%25AB%25E3%2583%2587%25E3%2583%25BC%25E3%2582%25BF%25E3%2582%25BB%25E3%2583%2583%25E3%2583%2588%25E3%2582%2592%25E4%25BD%259C%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2ljb25fZGFkYzA4ZTRiNi5qcGVn%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1627274783/default/og-base_z4sxah.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://zenn.dev/supersatton/articles/8958ee82d5cafe",
+          "author": "さっとん",
+          "description": "はじめに\n応用情報技術者の問題を解く上で、「教師あり学習」「教師なし学習」等の用語が登場したが、覚えづらかったため記事にアウトプットします。\n\n それぞれの用語について\n\n 教師あり学習\n訓練データとして、ラベル(正解)付きデータを使用する学習方法。\n入力に対する正しい出力の例を与えることで、入力と出力の関係を学習させる。\n代表的なものは、分類と回帰になります。\n\n\n\n項目\n内容\n具体例\n\n\n\n\n回帰\n連続する数値を予測するもの\n以下を予測し、将来のお弁当の販売個数を予測する。・平均気温や天候等のデータ・お弁当の販売個数\n\n\n分類\nあるデータがどのクラスに属するかを予測するもの\n迷惑...",
+          "link": "https://zenn.dev/supersatton/articles/8958ee82d5cafe",
+          "publishedOn": "2021-09-15T02:25:56.000Z",
+          "wordCount": 73,
+          "title": "【機械学習】教師あり学習、教師なし学習等(備忘録)",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--6nY99JXq--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:%25E3%2581%2595%25E3%2581%25A3%25E3%2581%25A8%25E3%2582%2593%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_70_bold:%25E3%2580%2590%25E6%25A9%259F%25E6%25A2%25B0%25E5%25AD%25A6%25E7%25BF%2592%25E3%2580%2591%25E6%2595%2599%25E5%25B8%25AB%25E3%2581%2582%25E3%2582%258A%25E5%25AD%25A6%25E7%25BF%2592%25E3%2580%2581%25E6%2595%2599%25E5%25B8%25AB%25E3%2581%25AA%25E3%2581%2597%25E5%25AD%25A6%25E7%25BF%2592%25E7%25AD%2589%2528%25E5%2582%2599%25E5%25BF%2598%25E9%258C%25B2%2529%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2ljb25fZGI4ZmJmNTk1NC5qcGVn%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1627274783/default/og-base_z4sxah.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://zenn.dev/mattn/articles/9fbbab42308f96",
+          "author": "mattn",
+          "description": "はじめに\n最近、deno が面白くなり始めています。deno はコマンドラインバイナリを1つインストールすれば、import によりパッケージの読み込みはインターネットからダウンロードしてキャッシュされ、開発者が package.json を書く事もなく、とてもお手軽に TypeScript を書くことができます。\nもし、機械学習をやりたいとして、事前準備(npm でインストールしたり、conda/pip 等で依存物をインストールしたり)が大幅に削減できるなら、とても便利だと思いませんか？\n\n deno で機械学習\ndeno で機械学習と聞くと tensorflow.js を使いたく...",
+          "link": "https://zenn.dev/mattn/articles/9fbbab42308f96",
+          "publishedOn": "2021-09-15T02:02:14.000Z",
+          "wordCount": 222,
+          "title": "deno で機械学習",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--zvvbMok8--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:mattn%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_80_bold:deno%2520%25E3%2581%25A7%25E6%25A9%259F%25E6%25A2%25B0%25E5%25AD%25A6%25E7%25BF%2592%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2ljb25fNmRmMjliN2ZiZi5qcGVn%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1627274783/default/og-base_z4sxah.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://zenn.dev/nekoallergy/articles/py-env-docker01",
+          "author": "NekoAllergy",
+          "description": "5 分で Python 環境を作ります。\n何もない状態から、プロのデータサイエンティストが使っているような環境を作ります。\n\nこのコンテンツの目的は、イメージをつかむキッカケになることです。\n砕いた解説のため、一部正確ではない場合があります。ご了承下さい。\n\n【予備知識】Homebrew って？\nMac OS X 上でいろんなソフトウェアを簡単にインストールできるシステムです。\n\n【予備知識】Docker って？\nプログラミングに必要な環境を簡単に作れるソフトウェアです。\n\n【予備知識】Anaconda って？\nデータサイエンスをする時に使うライブラリがたくさんまとまったものです。\n\n【...",
+          "link": "https://zenn.dev/nekoallergy/articles/py-env-docker01",
+          "publishedOn": "2021-09-13T22:30:22.000Z",
+          "wordCount": 342,
+          "title": "【初心者】5分でPython環境を作る",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--UYCdvt1M--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:NekoAllergy%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_80_bold:%25E3%2580%2590%25E5%2588%259D%25E5%25BF%2583%25E8%2580%2585%25E3%2580%25915%25E5%2588%2586%25E3%2581%25A7Python%25E7%2592%25B0%25E5%25A2%2583%25E3%2582%2592%25E4%25BD%259C%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2ljb25fNTQ3ZTg3M2QxOC5qcGVn%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1627274783/default/og-base_z4sxah.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        }
+      ]
+    },
+    {
+      "title": "vinta/awesome-python Daily Updates RSS Feed",
+      "feedUrl": "https://www.trackawesomelist.com/vinta/awesome-python/rss.xml",
+      "siteUrl": "https://www.trackawesomelist.com",
+      "articles": []
+    },
+    {
+      "title": "EbookFoundation/free-programming-books Daily Updates RSS Feed",
+      "feedUrl": "https://www.trackawesomelist.com/EbookFoundation/free-programming-books/rss.xml",
+      "siteUrl": "https://www.trackawesomelist.com",
+      "articles": [
+        {
+          "id": "https://www.trackawesomelist.com/EbookFoundation/free-programming-books/#2021-09-24",
+          "author": null,
+          "description": "Make\nMakefile tutorial - Chase Lambert",
+          "link": "https://www.trackawesomelist.com/EbookFoundation/free-programming-books/#2021-09-24",
+          "publishedOn": "2021-09-24T00:00:00.000Z",
+          "wordCount": null,
+          "title": "EbookFoundation/free-programming-books Sep 24th, 2021"
+        },
+        {
+          "id": "https://www.trackawesomelist.com/EbookFoundation/free-programming-books/#2021-09-19",
+          "author": null,
+          "description": "C\nC Programming Boot Camp - Paul Gribble",
+          "link": "https://www.trackawesomelist.com/EbookFoundation/free-programming-books/#2021-09-19",
+          "publishedOn": "2021-09-19T00:00:00.000Z",
+          "wordCount": 18207,
+          "title": "EbookFoundation/free-programming-books Sep 19th, 2021"
+        },
+        {
+          "id": "https://www.trackawesomelist.com/EbookFoundation/free-programming-books/#2021-09-17",
+          "author": null,
+          "description": "React\nReact Enlightenment\nReact In-depth: An exploration of UI development",
+          "link": "https://www.trackawesomelist.com/EbookFoundation/free-programming-books/#2021-09-17",
+          "publishedOn": "2021-09-17T00:00:00.000Z",
+          "wordCount": 18207,
+          "title": "EbookFoundation/free-programming-books Sep 17th, 2021"
+        },
+        {
+          "id": "https://www.trackawesomelist.com/EbookFoundation/free-programming-books/#2021-09-14",
+          "author": null,
+          "description": "AngularJS\nAngular 1 Style Guide - John Papa (HTML)\nAngular for the jQuery developer - ng-newsletter, Ari Lerner, David Wu, Nate Murray (HTML)\nAngularJS - Step by Logical Step - Nicholas Johnson (HTML)\nAngularJS Guide (HTML)\nAngularJS Material Designing (HTML)\nAngularJS Notes for Professionals - Compiled from StackOverflow Documentation (PDF)\nAngularJS Style Guide for teamsstars6.1k - Todd Motto (HTML)\nAngularJS Succinctly - Frederik Dietz (PDF, EPUB, Kindle) (email address requested, not required)\nAngularJS Tutorial (HTML)\nAngularJS vs EmberJs - Brendan Graetz (HTML, PDF, EBOOK, Kindle) (Leanpub account / email address not required)\nSeven-Part Introduction to AngularJS - Keving Ngo (HTML, 📦 demos, open-sourced examplesstars1)\nUnit Testing Best Practices in AngularJS - Andy Shora (HTML)\nEmber.js\nAngularJs vs EmberJs - Brendan Graetz (HTML, PDF, EPUB, Kindle) (Leanpub account / email address not required)\nAngular\nAngular 2 Style Guide - John Papa (HTML)\nAngular 2+ Notes for Professionals - Compiled from StackOverflow documentation (PDF)\nAngular Docs (HTML)\nAngular Material (HTML)\nAngular Tutorial (HTML)\nBuild a Full-Stack Web Application Using Angular & Firebase - Ankit Sharma (PDF, 📦 code samplesstars28)",
+          "link": "https://www.trackawesomelist.com/EbookFoundation/free-programming-books/#2021-09-14",
+          "publishedOn": "2021-09-14T00:00:00.000Z",
+          "wordCount": 18207,
+          "title": "EbookFoundation/free-programming-books Sep 14th, 2021"
+        }
+      ]
+    },
+    {
+      "title": "josephmisiti/awesome-machine-learning Daily Updates RSS Feed",
+      "feedUrl": "https://www.trackawesomelist.com/josephmisiti/awesome-machine-learning/rss.xml",
+      "siteUrl": "https://www.trackawesomelist.com",
+      "articles": []
+    },
+    {
+      "title": "趣味の大学数学",
+      "feedUrl": "https://math-fun.net/feed/",
+      "siteUrl": "https://math-fun.net",
+      "articles": [
+        {
+          "id": "https://math-fun.net/?p=18874",
+          "author": "kimu3",
+          "description": "どうも、木村（@kimu3_slime）です。 今回は、ヴォルテラの積分方程式とは何か、そのラプラス変換による解き方を紹介します。   ヴォルテラの積分方程式 積分方程式（integral equation）と ...\nヴォルテラの積分方程式とは、ラプラス変換による解き方 first appeared on 趣味の大学数学.",
+          "link": "https://math-fun.net/20210926/18874/",
+          "publishedOn": "2021-09-26T03:59:21.000Z",
+          "wordCount": 494,
+          "title": "ヴォルテラの積分方程式とは、ラプラス変換による解き方"
+        },
+        {
+          "id": "https://math-fun.net/?p=18841",
+          "author": "kimu3",
+          "description": "どうも、木村（@kimu3_slime）です。 今回は、関数の畳み込み（合成積）とは何か、そのラプラス変換の性質を紹介します。   畳み込みとは 関数\\(f,g\\)の畳み込み（合成積 convolution）\\ ...\n畳み込み（合成積）とは：ラプラス変換の性質と導出 first appeared on 趣味の大学数学.",
+          "link": "https://math-fun.net/20210925/18841/",
+          "publishedOn": "2021-09-25T06:37:17.000Z",
+          "wordCount": 602,
+          "title": "畳み込み（合成積）とは：ラプラス変換の性質と導出"
+        },
+        {
+          "id": "https://math-fun.net/?p=18802",
+          "author": "kimu3",
+          "description": "どうも、木村（@kimu3_slime）です。 今回は、デルタ関数とは何か、そのラプラス変換、微分方程式への応用を紹介します。   デルタ関数、超関数とは デルタ関数は、瞬間的な外力、衝撃力（impulsive ...\nデルタ関数、超関数とは：ラプラス変換、微分方程式への応用 first appeared on 趣味の大学数学.",
+          "link": "https://math-fun.net/20210924/18802/",
+          "publishedOn": "2021-09-24T04:45:49.000Z",
+          "wordCount": 664,
+          "title": "デルタ関数、超関数とは：ラプラス変換、微分方程式への応用"
+        },
+        {
+          "id": "https://math-fun.net/?p=18783",
+          "author": "kimu3",
+          "description": "どうも、木村（@kimu3_slime）です。 今回は、ラプラス変換の第一シフト定理（s推移法則）とは何か、その証明と応用例を紹介します。   その主張は、次の通りです。 第一シフト定理（first shift ...\nラプラス変換の第一シフト定理（s推移法則）とは、証明、応用例 first appeared on 趣味の大学数学.",
+          "link": "https://math-fun.net/20210923/18783/",
+          "publishedOn": "2021-09-22T23:39:18.000Z",
+          "wordCount": 486,
+          "title": "ラプラス変換の第一シフト定理（s推移法則）とは、証明、応用例"
+        },
+        {
+          "id": "https://math-fun.net/?p=18729",
+          "author": "kimu3",
+          "description": "どうも、木村（@kimu3_slime）です。 今回は、単位ステップ関数（ヘビサイド関数）とは何かを紹介し、そのラプラス変換、微分方程式への応用を紹介します。   単位ステップ関数とは 単位ステップ関数（uni ...\n単位ステップ関数とは、ラプラス変換と微分方程式への応用 first appeared on 趣味の大学数学.",
+          "link": "https://math-fun.net/20210922/18729/",
+          "publishedOn": "2021-09-22T06:35:50.000Z",
+          "wordCount": 605,
+          "title": "単位ステップ関数とは、ラプラス変換と微分方程式への応用"
+        },
+        {
+          "id": "https://math-fun.net/?p=18703",
+          "author": "kimu3",
+          "description": "どうも、木村（@kimu3_slime）です。 今回は、微分（導関数）のラプラス変換の求め方、証明を紹介します。   \\(f(t)\\)を実数値関数として、そのラプラス変換は \\[L(f)(s) := \\int_ ...\n微分（導関数）のラプラス変換の求め方、証明 first appeared on 趣味の大学数学.",
+          "link": "https://math-fun.net/20210921/18703/",
+          "publishedOn": "2021-09-21T05:07:23.000Z",
+          "wordCount": 507,
+          "title": "微分（導関数）のラプラス変換の求め方、証明"
+        },
+        {
+          "id": "https://math-fun.net/?p=18671",
+          "author": "kimu3",
+          "description": "どうも、木村（@kimu3_slime）です。 今回は、ラプラス変換とは何か、その定義と微分方程式への応用を紹介します。 手っ取り早く全体像をつかむための導入なので、公式の導出などは一旦省略します。   ラプラ ...\nラプラス変換とは：定義と微分方程式への応用 first appeared on 趣味の大学数学.",
+          "link": "https://math-fun.net/20210920/18671/",
+          "publishedOn": "2021-09-20T06:00:04.000Z",
+          "wordCount": 555,
+          "title": "ラプラス変換とは：定義と微分方程式への応用"
+        },
+        {
+          "id": "https://math-fun.net/?p=18609",
+          "author": "kimu3",
+          "description": "どうも、木村（@kimu3_slime）です。 今回は、フロベニウスの方法について、次数0の第二種ベッセル関数の求め方を例に紹介します。   フロベニウスの方法とは フロベニウスの方法（Frobenius\b ...\nフロベニウスの方法：次数0の第二種ベッセル関数の求め方 first appeared on 趣味の大学数学.",
+          "link": "https://math-fun.net/20210919/18609/",
+          "publishedOn": "2021-09-19T07:51:22.000Z",
+          "wordCount": 794,
+          "title": "フロベニウスの方法：次数0の第二種ベッセル関数の求め方"
+        },
+        {
+          "id": "https://math-fun.net/?p=18592",
+          "author": "kimu3",
+          "description": "どうも、木村（@kimu3_slime）です。 今回は、第一種ベッセル関数のガンマ関数による表示式を紹介します。   ベッセル方程式とは \\[x^2 y^{\\prime \\prime}+xy^{\\prime}  ...\n第一種ベッセル関数のガンマ関数による表示式 first appeared on 趣味の大学数学.",
+          "link": "https://math-fun.net/20210918/18592/",
+          "publishedOn": "2021-09-18T07:14:05.000Z",
+          "wordCount": 529,
+          "title": "第一種ベッセル関数のガンマ関数による表示式"
+        },
+        {
+          "id": "https://math-fun.net/?p=18552",
+          "author": "kimu3",
+          "description": "どうも、木村（@kimu3_slime）です。 今回は、微分方程式を解法であるフロベニウスの方法とは何か、ベッセル方程式、第一種ベッセル関数を例に紹介します。   フロベニウスの方法とは ベッセル方程式（Bes ...\nフロベニウスの方法とは：ベッセル方程式、第一種ベッセル関数を例に first appeared on 趣味の大学数学.",
+          "link": "https://math-fun.net/20210917/18552/",
+          "publishedOn": "2021-09-17T03:30:13.000Z",
+          "wordCount": 624,
+          "title": "フロベニウスの方法とは：ベッセル方程式、第一種ベッセル関数を例に"
+        }
+      ]
+    },
+    {
+      "title": "What's new",
+      "feedUrl": "https://terrytao.wordpress.com/feed/",
+      "siteUrl": "https://terrytao.wordpress.com",
+      "articles": [
+        {
+          "id": "http://terrytao.wordpress.com/?p=12563",
+          "author": "Terence Tao",
+          "description": "Joni Teräväinen and I have just uploaded to the arXiv our preprint “The Hardy–Littlewood–Chowla conjecture in the presence of a Siegel zero“. This paper is a development of the theme that certain conjectures in analytic number theory become easier if one makes the hypothesis that Siegel zeroes exist; this places one in a presumably “illusory” […]",
+          "link": "https://terrytao.wordpress.com/2021/09/15/the-hardy-littlewood-chowla-conjecture-in-the-presence-of-a-siegel-zero/",
+          "publishedOn": "2021-09-15T19:10:48.000Z",
+          "wordCount": 5097,
+          "title": "The Hardy–Littlewood–Chowla conjecture in the presence of a Siegel zero"
+        },
+        {
+          "id": "http://terrytao.wordpress.com/?p=12553",
+          "author": "Terence Tao",
+          "description": "A few months ago I posted a question about analytic functions that I received from a bright high school student, which turned out to be studied and resolved by de Bruijn. Based on this positive resolution, I thought I might try my luck again and list three further questions that this student asked which do […]",
+          "link": "https://terrytao.wordpress.com/2021/09/14/more-analysis-questions-from-a-high-school-student/",
+          "publishedOn": "2021-09-15T00:32:40.000Z",
+          "wordCount": 4231,
+          "title": "More analysis questions from a high school student"
+        }
+      ]
+    },
+    {
+      "title": "AIcia Solid Project",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC2lJYodMaAfFeFQrGUwhlaQ",
+      "siteUrl": "https://www.youtube.com/channel/UC2lJYodMaAfFeFQrGUwhlaQ",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=dFm9bTP53cA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=dFm9bTP53cA",
+          "publishedOn": "2021-09-26T11:42:51.000Z",
+          "wordCount": null,
+          "title": "【LIVE】強化学習で将棋を指したい！【part8. 将棋所を動かしたい】 #VRアカデミア"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=tG-WI9qMluE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=tG-WI9qMluE",
+          "publishedOn": "2021-09-17T11:00:14.000Z",
+          "wordCount": null,
+          "title": "【深層学習】XLNet 後編 - 事前学習と推論時のモデルの違いを押さえよう【ディープラーニングの世界vol.34-2】#115 #VRアカデミア #DeepLearning"
+        }
+      ]
+    },
+    {
+      "title": "Two Minute Papers",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCbfYPyITQ-7l4upoX8nvctg",
+      "siteUrl": "https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=ogL-2IClOug",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ogL-2IClOug",
+          "publishedOn": "2021-09-25T15:07:55.000Z",
+          "wordCount": null,
+          "title": "NVIDIA’s New Technique: Beautiful Models For Less! 🌲"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=CfJ074h9K8s",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=CfJ074h9K8s",
+          "publishedOn": "2021-09-21T13:08:43.000Z",
+          "wordCount": null,
+          "title": "The Tale Of The Unscrewable Bolt! 🔩"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=rawsSOLNYE0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=rawsSOLNYE0",
+          "publishedOn": "2021-09-18T15:49:21.000Z",
+          "wordCount": null,
+          "title": "This AI Makes Digital Copies of Humans! 👤"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=HnkVoOdTiSo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=HnkVoOdTiSo",
+          "publishedOn": "2021-09-15T15:14:28.000Z",
+          "wordCount": null,
+          "title": "Can An AI Design A Good Game Level? 🤖"
+        }
+      ]
+    },
+    {
+      "title": "予備校のノリで学ぶ「大学の数学・物理」",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqmWJJolqAgjIdLqK3zD1QQ",
+      "siteUrl": "https://www.youtube.com/channel/UCqmWJJolqAgjIdLqK3zD1QQ",
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=Yjc8R3X1WyA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Yjc8R3X1WyA",
+          "publishedOn": "2021-09-24T09:00:22.000Z",
+          "wordCount": null,
+          "title": "【科学者紹介】アインシュタインの業績を一挙に解説【大天才】"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=0itH0iDO8BE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=0itH0iDO8BE",
+          "publishedOn": "2021-09-20T12:20:24.000Z",
+          "wordCount": null,
+          "title": "絶対に理解させる誤差逆伝播法【深層学習】"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=xzzTYL90M8s",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=xzzTYL90M8s",
+          "publishedOn": "2021-09-14T09:00:34.000Z",
+          "wordCount": null,
+          "title": "高校数学からはじめる深層学習入門(畳み込みニューラルネットワークの理解)"
+        }
+      ]
+    },
+    {
+      "title": "3Blue1Brown",
+      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYO_jab_esuFRV4b17AJtAw",
+      "siteUrl": "https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw",
+      "articles": []
+    },
+    {
+      "title": "takminの書きっぱなし備忘録 @はてなブログ",
+      "feedUrl": "https://takmin.hatenablog.com/rss",
+      "siteUrl": "https://takmin.hatenablog.com/",
+      "articles": []
+    },
+    {
+      "title": "CV CG CP ML CMOS",
+      "feedUrl": "https://klb.hatenablog.com/rss",
+      "siteUrl": "https://klb.hatenablog.com/",
+      "articles": []
+    },
+    {
+      "title": "Taste of Tech Topics",
+      "feedUrl": "https://acro-engineer.hatenablog.com/rss",
+      "siteUrl": "https://acro-engineer.hatenablog.com/",
+      "articles": []
+    },
+    {
+      "title": "渋谷駅前で働くデータサイエンティストのブログ",
+      "feedUrl": "https://tjo.hatenablog.com/rss",
+      "siteUrl": "https://tjo.hatenablog.com/",
+      "articles": []
+    },
+    {
+      "title": "u++の備忘録",
+      "feedUrl": "https://upura.hatenablog.com/rss",
+      "siteUrl": "https://upura.hatenablog.com/",
+      "articles": []
+    },
+    {
+      "title": "kanayamaのブログ",
+      "feedUrl": "https://tepppei.hatenablog.com/rss",
+      "siteUrl": "https://tepppei.hatenablog.com/",
+      "articles": []
+    },
+    {
+      "title": "ちょーさんメモ出張版 気まぐれブログ",
+      "feedUrl": "https://cho-san.hatenablog.jp/rss",
+      "siteUrl": "https://cho-san.hatenablog.jp/",
+      "articles": [
+        {
+          "id": "hatenablog://entry/13574176438015560996",
+          "author": null,
+          "description": "第2回すうがく徒のつどいオンラインに参加しました。\n今回はなんと2枠講演させてもらいました。\n \n入門枠/一般枠について\n今回のつどいでは講演枠が入門枠と一般枠という2つの枠が用意されていました。入門枠は学部低回生や非数学科の人などの初級者向け、一般枠は数学専門院生等の上級者向けです。入門枠・一般枠それぞれ1枠ずつの計2枠講演を担当させていただきました。\n \n入門枠\n「合同条件が合同条件であることの証明」というタイトルで講演させていただきました。中学数学の話なので中学生向けです(嘘)。\n\n\n一般枠\n一般枠では「ホモトピーとかホモロジーとか」という講演をしました。特異ホモロジーをざっと定義して基本的な性質を証明する話です。\n\nこれは以前にこのブログでも上げたHurewiczの定理pdfの内容と同じものになります。\n\n\nつどい関係者や講演を聞きにきてくれた皆様、今回もありがとうございました。",
+          "link": "https://cho-san.hatenablog.jp/entry/2021/09/25/121107",
+          "publishedOn": "2021-09-25T03:11:07.000Z",
+          "wordCount": 75,
+          "title": "第2回すうがく徒のつどいオンラインに参加した",
+          "enclosure": {
+            "url": "https://cdn.blog.st-hatena.com/images/theme/og-image-1500.png",
+            "type": "image/png",
+            "length": "0"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Jij Tech Blog",
+      "feedUrl": "https://jijtech.hatenablog.com/rss",
+      "siteUrl": "https://jijtech.hatenablog.com/",
+      "articles": []
+    },
+    {
+      "title": "tsujimotterのノートブック",
+      "feedUrl": "https://tsujimotter.hatenablog.com/rss",
+      "siteUrl": "https://tsujimotter.hatenablog.com/",
+      "articles": []
+    }
+  ],
+  "cliVersion": "1.11.2"
+}

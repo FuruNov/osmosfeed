@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://FuruNov.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-09-27T00:47:51.055Z</updated>
+    <updated>2021-09-27T01:41:44.109Z</updated>
     <generator>osmosfeed 1.11.2</generator>
     <link rel="alternate" href="https://FuruNov.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://FuruNov.github.io/osmosfeed/feed.atom"/>
@@ -72,7 +72,7 @@ https://zenn.dev/ymd_h/articles/14397e6ae7ea3d
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[洗濯物の乾き具合を知りたくて、物干し部屋の湿度を測って Azure IoT Central で分かるようにしてみた]]></title>
+        <title type="html"><![CDATA[洗濯物の乾き具合を知りたくて、M5StickCで物干し部屋の湿度を測って Azure IoT Central で分かるようにしてみた]]></title>
         <id>https://qiita.com/yukimatsu/items/783316924e8e296cbe33?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
         <link href="https://qiita.com/yukimatsu/items/783316924e8e296cbe33?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
         <updated>2021-09-26T11:42:05.000Z</updated>
@@ -385,21 +385,6 @@ getter setter 使わない - Google Search
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[EmacsでFish Scriptをガチる]]></title>
-        <id>https://zenn.dev/takeokunn/articles/650eba2532585a</id>
-        <link href="https://zenn.dev/takeokunn/articles/650eba2532585a"/>
-        <updated>2021-09-25T16:06:57.000Z</updated>
-        <summary type="html"><![CDATA[はじめに
-ちょっとしたデータの整形や処理をサクっと終わらせたい時、みなさんは何を使いますか?
-自分の好きな言語で書く人、テキストエディタのマクロ機能などを使う人、シェルスクリプトを書く人、気合で手作業でやる人など色々あると思います。
-私は再現性も考慮してシェルスクリプトを書くことが多いです。
-シェルスクリプトで一番書かれてるのはbash scriptな気がしますが、文法が現代プログラミング言語から乖離してるので中々理解しづらいです。
-最近はzxというjavscript likeなシェルスクリプトもあるようなのですが、ログインシェルを使うほうが今後のことも考えると筋が良いように思えます...]]></summary>
-        <author>
-            <name>take</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[NextAuth.js と Firebase Authentication の連携]]></title>
         <id>https://zenn.dev/elpnt/articles/1af1047612992d</id>
         <link href="https://zenn.dev/elpnt/articles/1af1047612992d"/>
@@ -672,6 +657,32 @@ Promise Pool のようなライブラリがある
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[第2回すうがく徒のつどいオンラインに参加した]]></title>
+        <id>hatenablog://entry/13574176438015560996</id>
+        <link href="https://cho-san.hatenablog.jp/entry/2021/09/25/121107"/>
+        <updated>2021-09-25T03:11:07.000Z</updated>
+        <summary type="html"><![CDATA[第2回すうがく徒のつどいオンラインに参加しました。
+今回はなんと2枠講演させてもらいました。
+ 
+入門枠/一般枠について
+今回のつどいでは講演枠が入門枠と一般枠という2つの枠が用意されていました。入門枠は学部低回生や非数学科の人などの初級者向け、一般枠は数学専門院生等の上級者向けです。入門枠・一般枠それぞれ1枠ずつの計2枠講演を担当させていただきました。
+ 
+入門枠
+「合同条件が合同条件であることの証明」というタイトルで講演させていただきました。中学数学の話なので中学生向けです(嘘)。
+
+
+一般枠
+一般枠では「ホモトピーとかホモロジーとか」という講演をしました。特異ホモロジーをざっと定義して基本的な性質を証明する話です。
+
+これは以前にこのブログでも上げたHurewiczの定理pdfの内容と同じものになります。
+
+
+つどい関係者や講演を聞きにきてくれた皆様、今回もありがとうございました。]]></summary>
+        <author>
+            <name>ちょーさんメモ出張版 気まぐれブログ</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Qiitaの人気記事を見られるiOS用Widgetアプリリリースしました🤖]]></title>
         <id>https://qiita.com/tsuzuki817/items/bc081e29af9726c466ac?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
         <link href="https://qiita.com/tsuzuki817/items/bc081e29af9726c466ac?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -716,24 +727,6 @@ class ArticleListPage extends StatelessWidget {
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Google Analytics4 から連携されたイベントデータを BigQuery のユーザー定義関数やビューで扱いやすくする]]></title>
-        <id>https://zenn.dev/waddy/articles/bigquery-from-terraform</id>
-        <link href="https://zenn.dev/waddy/articles/bigquery-from-terraform"/>
-        <updated>2021-09-24T16:08:42.000Z</updated>
-        <summary type="html"><![CDATA[Google Analytics4 と BigQuery の連携について調べる機会がありました。
-https://zenn.dev/waddy/scraps/940ac10e7c3f94
-構成としては Google Tag Manager を経由する以下の形を検討中です。
-graph TB;
-webapp[ Web Next.js]-->|タグマネージャー用\nスクリプト|gtm([Google タグマネージャー]);
-subgraph 管理コンソールで設定
-gtm-->|設定により自動転送|ga4[(Google Analytics 4)];
-end
-subgraph Go...]]></summary>
-        <author>
-            <name>waddy_u</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA["なんとなく”Dockerのファイル共有について語れるようになる]]></title>
         <id>https://qiita.com/kobori_akira/items/73488918d6fb2a1ae020?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
         <link href="https://qiita.com/kobori_akira/items/73488918d6fb2a1ae020?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -766,21 +759,6 @@ subgraph Go...]]></summary>
 ユーザとのインタラクショ...]]></summary>
         <author>
             <name>xiongjie</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CloudWatch Logs のログを Athena で手軽に分析する]]></title>
-        <id>https://zenn.dev/wipiano/articles/cloudwatch-athena</id>
-        <link href="https://zenn.dev/wipiano/articles/cloudwatch-athena"/>
-        <updated>2021-09-24T11:53:16.000Z</updated>
-        <summary type="html"><![CDATA[Athena の Federated Query を使用して， CloudWatch Logs に溜め込んだログを最小限の手間で分析する方法と，そのためのログストリーム設計のちょっとしたコツについて紹介します．
-
- 目的
-CloudWatch Logs はログを溜め込むのにはたいへん手軽でよいサービスです．
-たとえば私がいま携わっているプロダクトでは，操作ログやバッチの実行ログなど，件数が多くなりがちで参照頻度の低いものは CloudWatch Logs にとりあえず放り込んでいくような運用をしています．
-CloudWatch Logs は構築・実装・運用にかかるコストが低く，導入もしや...]]></summary>
-        <author>
-            <name>いしころ</name>
         </author>
     </entry>
     <entry>
@@ -908,48 +886,6 @@ DDD の文...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[出来る100%TypeScript  作って学ぶNext.js + GraphQL + Prisma(上) - GCP編]]></title>
-        <id>https://zenn.dev/oubakiou/books/181b750dfb6838</id>
-        <link href="https://zenn.dev/oubakiou/books/181b750dfb6838"/>
-        <updated>2021-09-24T03:46:49.000Z</updated>
-        <summary type="html"><![CDATA[クライアントサイドでは広く普及したTypeScriptですが、その一方サーバーサイドでは比較すると緩やかな採用拡大に留まっています。もしも両方を一貫してTypeScriptでの開発が出来たら？
-
-本書ではTypeScriptの強みである静的型の力を最大限活かした構成でのアプリケーション開発について、SNS開発を題材に学べる実践的なチュートリアルです。]]></summary>
-        <author>
-            <name>oubakiou</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[useSWR で作る Form 画面の備忘録]]></title>
-        <id>https://zenn.dev/takepepe/articles/form-with-useswr</id>
-        <link href="https://zenn.dev/takepepe/articles/form-with-useswr"/>
-        <updated>2021-09-24T03:03:28.000Z</updated>
-        <summary type="html"><![CDATA[管理画面のような CRUD 中心のプロダクトでは Form と CSR をよく利用します。SWR は開発体験に優れたライブラリですが、Form に利用する場合注意点があるので、備忘録として共有します（広義の SWR と紛わない様に、タイトルはuseSWRとしました）
-
- 視覚的安定性とキャッシュ
-はじめに、SWR や React Query を利用するモチベーションについて言及します。SWR は一意のキーに紐づいたキャッシュが無い場合、loading fallback を表示します。fallback 表示はたとえ一瞬であっても「チカっ」とした表示になるため「スムーズではない印象」を利用者...]]></summary>
-        <author>
-            <name>Takepepe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VSCodeでよくあるgit操作をキーボードだけでする(tigみたいに）]]></title>
-        <id>https://zenn.dev/bun913/articles/750754b8cf79be</id>
-        <link href="https://zenn.dev/bun913/articles/750754b8cf79be"/>
-        <updated>2021-09-24T02:39:58.000Z</updated>
-        <summary type="html"><![CDATA[私は普段VSCode + Neovim拡張を利用しています。
-https://zenn.dev/bun913/articles/02785aed0ba50e
-私自身似非vimmerなのですが、「vimの効率的なキーバインドで高速に業務を進める」という精神みたいなのものは凄く素敵だと思っています。
-今回は私が頻繁に使っているgitの操作をキーボードだけで行えるようにショートカットを設定してみました（日々改善中です）
-
- VSCodeのGit機能って凄く便利
-VSCodeのサイドバーに配置してくれているgitの機能凄く便利じゃないですか？
-編集したファイルや新規追加したファイルの差分を見れて...]]></summary>
-        <author>
-            <name>bun</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Pythonでスクレイピングした結果をテキストマイニングしてLINEに送信する]]></title>
         <id>https://qiita.com/ikdysk/items/c224e4598c90e51d2406?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
         <link href="https://qiita.com/ikdysk/items/c224e4598c90e51d2406?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1005,43 +941,6 @@ Makefile tutorial - Chase Lambert]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[yarn ではなく npm install を叩いたらエラーを出したい！を実現する方法が意外に簡単だった]]></title>
-        <id>https://zenn.dev/k_kazukiiiiii/articles/7c7c14d2241c9e</id>
-        <link href="https://zenn.dev/k_kazukiiiiii/articles/7c7c14d2241c9e"/>
-        <updated>2021-09-23T21:12:24.000Z</updated>
-        <summary type="html"><![CDATA[やりたいこと
-yarn ではなく npm install を叩いたらエラーを出す仕組みを作りたい
-
- 実現方法
-
-npmrc に engine-strict=true を記載する
-npmrc とは npmの設定ファイル のことである
-
-
-      
-        
-        // .npmrc
-engine-strict=true
-
-
-      
-      
-package.jsonの engines を設定する
-
-
-      
-        
-        "engines": {
-  "npm": "npmではなくyarnを使用してください"
-}
-
-
-    ...]]></summary>
-        <author>
-            <name>Kimura Kazuki</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[yarn ではなく npm install を叩いたらエラーを出したいを実現する方法が簡単だった]]></title>
         <id>https://qiita.com/k_kazukiiiiii/items/7f8be401631ce40e56f1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
         <link href="https://qiita.com/k_kazukiiiiii/items/7f8be401631ce40e56f1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1057,29 +956,6 @@ npmrc に engine-strict=true を記載する
 npmrc とは np…]]></summary>
         <author>
             <name>Qiita - 人気の記事</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[環境変数 PATH に空文字があるとカレントディレクトリが指定されているのと同じ意味になる]]></title>
-        <id>https://zenn.dev/kariya_mitsuru/articles/2f05751ccf4cca</id>
-        <link href="https://zenn.dev/kariya_mitsuru/articles/2f05751ccf4cca"/>
-        <updated>2021-09-23T19:04:36.000Z</updated>
-        <summary type="html"><![CDATA[何だと！？
-タイトルのまんま。
-恥ずかしながらこれ今まで知らなかった。
-もしかして常識だったりする？
-ちなみに確認したのは Linux だけど、glibc の posix サブディレクトリ配下の execl*execvpe の挙動なので glibc 使ってればみんな一緒じゃないかな？知らんけど…
-
- 環境変数 PATH が設定されていない時
-unset PATH とした状態。
-この場合、PATH=/bin:/usr/bin と設定されているのと同じ意味になる（追記も参照のこと）。
-当然カレントディレクトリは含まれていない。
-
- 環境変数 PATH が空の時
-PATH= とした状態。
-...]]></summary>
-        <author>
-            <name>かりやみつる</name>
         </author>
     </entry>
     <entry>
