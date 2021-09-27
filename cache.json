@@ -878,183 +878,6 @@
       ]
     },
     {
-      "title": "vinta/awesome-python Daily Updates RSS Feed",
-      "feedUrl": "https://www.trackawesomelist.com/vinta/awesome-python/rss.xml",
-      "siteUrl": "https://www.trackawesomelist.com",
-      "articles": []
-    },
-    {
-      "title": "EbookFoundation/free-programming-books Daily Updates RSS Feed",
-      "feedUrl": "https://www.trackawesomelist.com/EbookFoundation/free-programming-books/rss.xml",
-      "siteUrl": "https://www.trackawesomelist.com",
-      "articles": [
-        {
-          "id": "https://www.trackawesomelist.com/EbookFoundation/free-programming-books/#2021-09-24",
-          "author": null,
-          "description": "Make\nMakefile tutorial - Chase Lambert",
-          "link": "https://www.trackawesomelist.com/EbookFoundation/free-programming-books/#2021-09-24",
-          "publishedOn": "2021-09-24T00:00:00.000Z",
-          "wordCount": null,
-          "title": "EbookFoundation/free-programming-books Sep 24th, 2021"
-        },
-        {
-          "id": "https://www.trackawesomelist.com/EbookFoundation/free-programming-books/#2021-09-19",
-          "author": null,
-          "description": "C\nC Programming Boot Camp - Paul Gribble",
-          "link": "https://www.trackawesomelist.com/EbookFoundation/free-programming-books/#2021-09-19",
-          "publishedOn": "2021-09-19T00:00:00.000Z",
-          "wordCount": 18207,
-          "title": "EbookFoundation/free-programming-books Sep 19th, 2021"
-        },
-        {
-          "id": "https://www.trackawesomelist.com/EbookFoundation/free-programming-books/#2021-09-17",
-          "author": null,
-          "description": "React\nReact Enlightenment\nReact In-depth: An exploration of UI development",
-          "link": "https://www.trackawesomelist.com/EbookFoundation/free-programming-books/#2021-09-17",
-          "publishedOn": "2021-09-17T00:00:00.000Z",
-          "wordCount": 18207,
-          "title": "EbookFoundation/free-programming-books Sep 17th, 2021"
-        },
-        {
-          "id": "https://www.trackawesomelist.com/EbookFoundation/free-programming-books/#2021-09-14",
-          "author": null,
-          "description": "AngularJS\nAngular 1 Style Guide - John Papa (HTML)\nAngular for the jQuery developer - ng-newsletter, Ari Lerner, David Wu, Nate Murray (HTML)\nAngularJS - Step by Logical Step - Nicholas Johnson (HTML)\nAngularJS Guide (HTML)\nAngularJS Material Designing (HTML)\nAngularJS Notes for Professionals - Compiled from StackOverflow Documentation (PDF)\nAngularJS Style Guide for teamsstars6.1k - Todd Motto (HTML)\nAngularJS Succinctly - Frederik Dietz (PDF, EPUB, Kindle) (email address requested, not required)\nAngularJS Tutorial (HTML)\nAngularJS vs EmberJs - Brendan Graetz (HTML, PDF, EBOOK, Kindle) (Leanpub account / email address not required)\nSeven-Part Introduction to AngularJS - Keving Ngo (HTML, 📦 demos, open-sourced examplesstars1)\nUnit Testing Best Practices in AngularJS - Andy Shora (HTML)\nEmber.js\nAngularJs vs EmberJs - Brendan Graetz (HTML, PDF, EPUB, Kindle) (Leanpub account / email address not required)\nAngular\nAngular 2 Style Guide - John Papa (HTML)\nAngular 2+ Notes for Professionals - Compiled from StackOverflow documentation (PDF)\nAngular Docs (HTML)\nAngular Material (HTML)\nAngular Tutorial (HTML)\nBuild a Full-Stack Web Application Using Angular & Firebase - Ankit Sharma (PDF, 📦 code samplesstars28)",
-          "link": "https://www.trackawesomelist.com/EbookFoundation/free-programming-books/#2021-09-14",
-          "publishedOn": "2021-09-14T00:00:00.000Z",
-          "wordCount": 18207,
-          "title": "EbookFoundation/free-programming-books Sep 14th, 2021"
-        }
-      ]
-    },
-    {
-      "title": "josephmisiti/awesome-machine-learning Daily Updates RSS Feed",
-      "feedUrl": "https://www.trackawesomelist.com/josephmisiti/awesome-machine-learning/rss.xml",
-      "siteUrl": "https://www.trackawesomelist.com",
-      "articles": []
-    },
-    {
-      "title": "趣味の大学数学",
-      "feedUrl": "https://math-fun.net/feed/",
-      "siteUrl": "https://math-fun.net",
-      "articles": [
-        {
-          "id": "https://math-fun.net/?p=18874",
-          "author": "kimu3",
-          "description": "どうも、木村（@kimu3_slime）です。 今回は、ヴォルテラの積分方程式とは何か、そのラプラス変換による解き方を紹介します。   ヴォルテラの積分方程式 積分方程式（integral equation）と ...\nヴォルテラの積分方程式とは、ラプラス変換による解き方 first appeared on 趣味の大学数学.",
-          "link": "https://math-fun.net/20210926/18874/",
-          "publishedOn": "2021-09-26T03:59:21.000Z",
-          "wordCount": 494,
-          "title": "ヴォルテラの積分方程式とは、ラプラス変換による解き方"
-        },
-        {
-          "id": "https://math-fun.net/?p=18841",
-          "author": "kimu3",
-          "description": "どうも、木村（@kimu3_slime）です。 今回は、関数の畳み込み（合成積）とは何か、そのラプラス変換の性質を紹介します。   畳み込みとは 関数\\(f,g\\)の畳み込み（合成積 convolution）\\ ...\n畳み込み（合成積）とは：ラプラス変換の性質と導出 first appeared on 趣味の大学数学.",
-          "link": "https://math-fun.net/20210925/18841/",
-          "publishedOn": "2021-09-25T06:37:17.000Z",
-          "wordCount": 602,
-          "title": "畳み込み（合成積）とは：ラプラス変換の性質と導出"
-        },
-        {
-          "id": "https://math-fun.net/?p=18802",
-          "author": "kimu3",
-          "description": "どうも、木村（@kimu3_slime）です。 今回は、デルタ関数とは何か、そのラプラス変換、微分方程式への応用を紹介します。   デルタ関数、超関数とは デルタ関数は、瞬間的な外力、衝撃力（impulsive ...\nデルタ関数、超関数とは：ラプラス変換、微分方程式への応用 first appeared on 趣味の大学数学.",
-          "link": "https://math-fun.net/20210924/18802/",
-          "publishedOn": "2021-09-24T04:45:49.000Z",
-          "wordCount": 664,
-          "title": "デルタ関数、超関数とは：ラプラス変換、微分方程式への応用"
-        },
-        {
-          "id": "https://math-fun.net/?p=18783",
-          "author": "kimu3",
-          "description": "どうも、木村（@kimu3_slime）です。 今回は、ラプラス変換の第一シフト定理（s推移法則）とは何か、その証明と応用例を紹介します。   その主張は、次の通りです。 第一シフト定理（first shift ...\nラプラス変換の第一シフト定理（s推移法則）とは、証明、応用例 first appeared on 趣味の大学数学.",
-          "link": "https://math-fun.net/20210923/18783/",
-          "publishedOn": "2021-09-22T23:39:18.000Z",
-          "wordCount": 486,
-          "title": "ラプラス変換の第一シフト定理（s推移法則）とは、証明、応用例"
-        },
-        {
-          "id": "https://math-fun.net/?p=18729",
-          "author": "kimu3",
-          "description": "どうも、木村（@kimu3_slime）です。 今回は、単位ステップ関数（ヘビサイド関数）とは何かを紹介し、そのラプラス変換、微分方程式への応用を紹介します。   単位ステップ関数とは 単位ステップ関数（uni ...\n単位ステップ関数とは、ラプラス変換と微分方程式への応用 first appeared on 趣味の大学数学.",
-          "link": "https://math-fun.net/20210922/18729/",
-          "publishedOn": "2021-09-22T06:35:50.000Z",
-          "wordCount": 605,
-          "title": "単位ステップ関数とは、ラプラス変換と微分方程式への応用"
-        },
-        {
-          "id": "https://math-fun.net/?p=18703",
-          "author": "kimu3",
-          "description": "どうも、木村（@kimu3_slime）です。 今回は、微分（導関数）のラプラス変換の求め方、証明を紹介します。   \\(f(t)\\)を実数値関数として、そのラプラス変換は \\[L(f)(s) := \\int_ ...\n微分（導関数）のラプラス変換の求め方、証明 first appeared on 趣味の大学数学.",
-          "link": "https://math-fun.net/20210921/18703/",
-          "publishedOn": "2021-09-21T05:07:23.000Z",
-          "wordCount": 507,
-          "title": "微分（導関数）のラプラス変換の求め方、証明"
-        },
-        {
-          "id": "https://math-fun.net/?p=18671",
-          "author": "kimu3",
-          "description": "どうも、木村（@kimu3_slime）です。 今回は、ラプラス変換とは何か、その定義と微分方程式への応用を紹介します。 手っ取り早く全体像をつかむための導入なので、公式の導出などは一旦省略します。   ラプラ ...\nラプラス変換とは：定義と微分方程式への応用 first appeared on 趣味の大学数学.",
-          "link": "https://math-fun.net/20210920/18671/",
-          "publishedOn": "2021-09-20T06:00:04.000Z",
-          "wordCount": 555,
-          "title": "ラプラス変換とは：定義と微分方程式への応用"
-        },
-        {
-          "id": "https://math-fun.net/?p=18609",
-          "author": "kimu3",
-          "description": "どうも、木村（@kimu3_slime）です。 今回は、フロベニウスの方法について、次数0の第二種ベッセル関数の求め方を例に紹介します。   フロベニウスの方法とは フロベニウスの方法（Frobenius\b ...\nフロベニウスの方法：次数0の第二種ベッセル関数の求め方 first appeared on 趣味の大学数学.",
-          "link": "https://math-fun.net/20210919/18609/",
-          "publishedOn": "2021-09-19T07:51:22.000Z",
-          "wordCount": 794,
-          "title": "フロベニウスの方法：次数0の第二種ベッセル関数の求め方"
-        },
-        {
-          "id": "https://math-fun.net/?p=18592",
-          "author": "kimu3",
-          "description": "どうも、木村（@kimu3_slime）です。 今回は、第一種ベッセル関数のガンマ関数による表示式を紹介します。   ベッセル方程式とは \\[x^2 y^{\\prime \\prime}+xy^{\\prime}  ...\n第一種ベッセル関数のガンマ関数による表示式 first appeared on 趣味の大学数学.",
-          "link": "https://math-fun.net/20210918/18592/",
-          "publishedOn": "2021-09-18T07:14:05.000Z",
-          "wordCount": 529,
-          "title": "第一種ベッセル関数のガンマ関数による表示式"
-        },
-        {
-          "id": "https://math-fun.net/?p=18552",
-          "author": "kimu3",
-          "description": "どうも、木村（@kimu3_slime）です。 今回は、微分方程式を解法であるフロベニウスの方法とは何か、ベッセル方程式、第一種ベッセル関数を例に紹介します。   フロベニウスの方法とは ベッセル方程式（Bes ...\nフロベニウスの方法とは：ベッセル方程式、第一種ベッセル関数を例に first appeared on 趣味の大学数学.",
-          "link": "https://math-fun.net/20210917/18552/",
-          "publishedOn": "2021-09-17T03:30:13.000Z",
-          "wordCount": 624,
-          "title": "フロベニウスの方法とは：ベッセル方程式、第一種ベッセル関数を例に"
-        }
-      ]
-    },
-    {
-      "title": "What's new",
-      "feedUrl": "https://terrytao.wordpress.com/feed/",
-      "siteUrl": "https://terrytao.wordpress.com",
-      "articles": [
-        {
-          "id": "http://terrytao.wordpress.com/?p=12563",
-          "author": "Terence Tao",
-          "description": "Joni Teräväinen and I have just uploaded to the arXiv our preprint “The Hardy–Littlewood–Chowla conjecture in the presence of a Siegel zero“. This paper is a development of the theme that certain conjectures in analytic number theory become easier if one makes the hypothesis that Siegel zeroes exist; this places one in a presumably “illusory” […]",
-          "link": "https://terrytao.wordpress.com/2021/09/15/the-hardy-littlewood-chowla-conjecture-in-the-presence-of-a-siegel-zero/",
-          "publishedOn": "2021-09-15T19:10:48.000Z",
-          "wordCount": 5097,
-          "title": "The Hardy–Littlewood–Chowla conjecture in the presence of a Siegel zero"
-        },
-        {
-          "id": "http://terrytao.wordpress.com/?p=12553",
-          "author": "Terence Tao",
-          "description": "A few months ago I posted a question about analytic functions that I received from a bright high school student, which turned out to be studied and resolved by de Bruijn. Based on this positive resolution, I thought I might try my luck again and list three further questions that this student asked which do […]",
-          "link": "https://terrytao.wordpress.com/2021/09/14/more-analysis-questions-from-a-high-school-student/",
-          "publishedOn": "2021-09-15T00:32:40.000Z",
-          "wordCount": 4231,
-          "title": "More analysis questions from a high school student"
-        }
-      ]
-    },
-    {
       "title": "AIcia Solid Project",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC2lJYodMaAfFeFQrGUwhlaQ",
       "siteUrl": "https://www.youtube.com/channel/UC2lJYodMaAfFeFQrGUwhlaQ",
@@ -1123,44 +946,221 @@
       ]
     },
     {
-      "title": "予備校のノリで学ぶ「大学の数学・物理」",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqmWJJolqAgjIdLqK3zD1QQ",
-      "siteUrl": "https://www.youtube.com/channel/UCqmWJJolqAgjIdLqK3zD1QQ",
+      "title": "Amazon Science Homepage",
+      "feedUrl": "https://www.amazon.science/index.rss",
+      "siteUrl": "https://www.amazon.science/",
       "articles": [
         {
-          "id": "https://www.youtube.com/watch?v=Yjc8R3X1WyA",
+          "id": "https://www.amazon.science/blog/amazon-at-recsys-evaluation-bias-and-algorithms",
           "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Yjc8R3X1WyA",
-          "publishedOn": "2021-09-24T09:00:22.000Z",
-          "wordCount": null,
-          "title": "【科学者紹介】アインシュタインの業績を一挙に解説【大天才】"
+          "description": "Amazon Scholar Pablo Castells on the trends he sees in recommender-system research.",
+          "link": "https://www.amazon.science/blog/amazon-at-recsys-evaluation-bias-and-algorithms",
+          "publishedOn": "2021-09-24T13:06:52.000Z",
+          "wordCount": 9145,
+          "title": "Amazon at RecSys: Evaluation, bias, and algorithms"
         },
         {
-          "id": "https://www.youtube.com/watch?v=0itH0iDO8BE",
+          "id": "https://www.amazon.science/videos-webinars/alexa-friends-features-jasha-droppo-senior-principal-applied-scientist-alexa-ai",
           "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=0itH0iDO8BE",
-          "publishedOn": "2021-09-20T12:20:24.000Z",
-          "wordCount": null,
-          "title": "絶対に理解させる誤差逆伝播法【深層学習】"
+          "description": "Droppo discusses his work in the field of speech recognition and signal processing.",
+          "link": "https://www.amazon.science/videos-webinars/alexa-friends-features-jasha-droppo-senior-principal-applied-scientist-alexa-ai",
+          "publishedOn": "2021-09-23T22:24:13.000Z",
+          "wordCount": 8208,
+          "title": "Alexa & Friends features Jasha Droppo, Alexa AI senior principal applied scientist"
         },
         {
-          "id": "https://www.youtube.com/watch?v=xzzTYL90M8s",
+          "id": "https://www.amazon.science/blog/automated-fact-checking-using-evidence-from-tables-and-text",
           "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=xzzTYL90M8s",
-          "publishedOn": "2021-09-14T09:00:34.000Z",
-          "wordCount": null,
-          "title": "高校数学からはじめる深層学習入門(畳み込みニューラルネットワークの理解)"
+          "description": "The Amazon-sponsored FEVEROUS dataset and shared task challenge researchers to create more advanced fact-checking systems.",
+          "link": "https://www.amazon.science/blog/automated-fact-checking-using-evidence-from-tables-and-text",
+          "publishedOn": "2021-09-23T13:36:03.000Z",
+          "wordCount": 8975,
+          "title": "Automated fact-checking using evidence from tables and text"
+        },
+        {
+          "id": "https://www.amazon.science/latest-news/creating-sustainable-data-driven-buildings",
+          "author": null,
+          "description": "As office buildings become smarter, it is easier to configure them with sustainability management in mind.",
+          "link": "https://www.amazon.science/latest-news/creating-sustainable-data-driven-buildings",
+          "publishedOn": "2021-09-22T12:42:32.000Z",
+          "wordCount": 10025,
+          "title": "Creating sustainable, data-driven buildings"
+        },
+        {
+          "id": "https://www.amazon.science/blog/amazon-releases-new-dataset-for-commonsense-dialogue",
+          "author": null,
+          "description": "Dataset contains more than 11,000 newly collected dialogues to aid research in open-domain conversation.",
+          "link": "https://www.amazon.science/blog/amazon-releases-new-dataset-for-commonsense-dialogue",
+          "publishedOn": "2021-09-21T13:58:06.000Z",
+          "wordCount": 8769,
+          "title": "Amazon releases new dataset for commonsense dialogue"
+        },
+        {
+          "id": "https://www.amazon.science/working-at-amazon/how-erica-aduh-learned-to-love-robots",
+          "author": null,
+          "description": "Today she’s a research scientist working on significant challenges for Amazon Robotics, but it was a college class that proved fateful.",
+          "link": "https://www.amazon.science/working-at-amazon/how-erica-aduh-learned-to-love-robots",
+          "publishedOn": "2021-09-20T13:16:52.000Z",
+          "wordCount": 9186,
+          "title": "How Erica Aduh learned to love robots"
+        },
+        {
+          "id": "https://www.amazon.science/blog/using-learning-to-rank-to-precisely-locate-where-to-deliver-packages",
+          "author": null,
+          "description": "Models adapted from information retrieval deal well with noisy GPS input and can leverage map information.",
+          "link": "https://www.amazon.science/blog/using-learning-to-rank-to-precisely-locate-where-to-deliver-packages",
+          "publishedOn": "2021-09-15T13:01:17.000Z",
+          "wordCount": 9261,
+          "title": "Using learning-to-rank to precisely locate where to deliver packages"
+        },
+        {
+          "id": "https://www.amazon.science/working-at-amazon/estimating-causality-from-data-how-one-amazon-intern-used-data-to-make-an-impact",
+          "author": null,
+          "description": "Oritseweyinmi Henry Ajagbawa utilized causal inference to help examine the interaction between changes in marketing content and Amazon customer behavior.",
+          "link": "https://www.amazon.science/working-at-amazon/estimating-causality-from-data-how-one-amazon-intern-used-data-to-make-an-impact",
+          "publishedOn": "2021-09-14T13:34:32.000Z",
+          "wordCount": 8849,
+          "title": "Estimating causality from data: How one Amazon intern used data to make an impact"
+        },
+        {
+          "id": "https://www.amazon.science/working-at-amazon/alexa-how-do-you-know-everything",
+          "author": null,
+          "description": "How Amazon intern Michael Saxon uses his experience with automatic speech recognition models to help Alexa answer complex queries.",
+          "link": "https://www.amazon.science/working-at-amazon/alexa-how-do-you-know-everything",
+          "publishedOn": "2021-09-13T17:42:41.000Z",
+          "wordCount": 9348,
+          "title": "“Alexa, how do you know everything?”"
         }
       ]
     },
     {
-      "title": "3Blue1Brown",
-      "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYO_jab_esuFRV4b17AJtAw",
-      "siteUrl": "https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw",
+      "title": "The AI Blog",
+      "feedUrl": "https://blogs.microsoft.com/ai?feed=rss2",
+      "siteUrl": "https://blogs.microsoft.com/ai",
       "articles": []
+    },
+    {
+      "title": "Latest Post",
+      "feedUrl": "https://deepmind.com/blog/feed/basic/",
+      "siteUrl": "https://deepmind.com/blog/",
+      "articles": []
+    },
+    {
+      "title": "Comments on: Machine Learning",
+      "feedUrl": "https://research.fb.com/category/machine-learning/feed",
+      "siteUrl": "https://research.fb.com/category/machine-learning/",
+      "articles": []
+    },
+    {
+      "title": "piqcy",
+      "feedUrl": "https://www.getrevue.co/profile/icoxfog417?format=rss",
+      "siteUrl": "https://www.getrevue.co/profile/icoxfog417",
+      "articles": [
+        {
+          "id": "https://www.getrevue.co/profile/icoxfog417/issues/weekly-machine-learning-247-771637",
+          "author": null,
+          "description": "News:\n医療文書に対する固有表現認識のシェアードタスクが公開されました。少量データでの学習やTable2Textなど、実応用につながるタスクが提示されているので興味がある方はぜひ。KaggleでNotebookの自動実行ができるようになったのは注目です。数に制限はありますが、気軽にPythonスクリプトを定期実行できるプラットフォームとしてあり難いですね。\nArticles:\nPix2seqはシンプルな物体検出の解き方を提示しています。このまま精度が上がったらパラダイムシフトになりますね。OpenAIの長文要約は久々に強化学習を要約に適用した研究です。単純に見えて結構複雑な学習の仕方をしているので、正確に理解できているか自信がないです。要約研究されている方の解説が出てくることを期待しています！\nResources:\n機械学習系YouTuberリストは興味深いです(日本だとAIcia Solid Projectさんとかが有名ですね)。何人かの方をみたんですが、語り口はテンション低めでした。YouTubeらしく、もうちょいテンション高めな動画があると嬉しいですね(今日はAttentionを紹介するぜ！みたいな)。SIGIRの論文紹介には興味深い論文がありました。自然言語のTransformerや画像のSimCLRが取り入れられていて、機械学習は本当に分野横断だなあと感じられます。\nListeners:\nPix2seqやOpenAIの要約など今週は面白い研究が多かったです。スケーラビリティが保証されている言語モデルの方式で解いたり、タスクを分割し繰り返すなど、いずれも解き方を変えた研究ですね。面白い論文があった！という方はぜひお便りをお寄せください。\n✉Weekly Machine Learningへのお便りはこちら\n📻Weekly Machine Learning スポンサー申込みはこちら($5/月)\nTwitterハッシュタグ: #weeklyml\nWeekly Machine Learningは機械学習の開発者・研究者を応援するメディアを目指しています。掲載記事の選択や記事執筆に興味がある方がいたら、ぜひご連絡いただければと思います。\n※9月も引き続き縮退運用中です。新しい家庭の予定があり、運用形態の変更を検討しています。決まり次第ご連絡します。",
+          "link": "https://www.getrevue.co/profile/icoxfog417/issues/weekly-machine-learning-247-771637",
+          "publishedOn": "2021-09-25T11:37:52.000Z",
+          "wordCount": 412,
+          "title": "Weekly Machine Learning #247"
+        },
+        {
+          "id": "https://www.getrevue.co/profile/icoxfog417/issues/weekly-machine-learning-246-761488",
+          "author": null,
+          "description": "News:\n9/20に対話知能学のシンポジウムが開催されます。巷で話題のエアフレンドで精度に驚かされた方は、参加すると裏側の仕組みに触れられるかもしれません。テキストレスのNLPは驚きました、大規模な音声コーパスがあれば、音声から言語構造を復元できるかもしれませんね。テキスト情報がない言語への応用に使えそうです。IOSCOのガイドラインは、機械学習モデルがガバナンスの対象に入りつつあることを感じさせられます。\nArticles:\n言語モデルの無毒化は要チェックです。Toxic(有毒)な情報を抑制するとそもそも話題に触れなくなる挙動は、人間社会でも観測できそうです。むしろ、情報量を増やして偏りを平滑化するアプローチが正道と思います。CPU/GPUによる性能差は興味深いです。NVIDIAが大半を占めるので検証が難しいという説はありますが。。。\nResources:\nDeepMindの深層学習講座は丁寧でした。DeepMind=難しいのではと身構えますが、講義の語り口はソフトでした。JAX/Haikuを使った実装は珍しいので興味がある方は要チェックです。Data Centricの記事は、Snorkel開発者の回顧録的記事になっています。OSSから初め、Google/Appleのエンジニアとの交流を通じSnorkel Flowとしてビジネス化する流れはすばらしいです。ドキュメントが全然優しくない頃から知っていたので、とても感銘を受けました。\nListeners:\n今週はテキストレスNLP、IOSCOのガイドライン、Data Centricの回顧録など印象的な記事が多かったです。皆さんの感想も寄せて抱ければ幸いです！\n✉Weekly Machine Learningへのお便りはこちら\n📻Weekly Machine Learning スポンサー申込みはこちら($5/月)\nTwitterハッシュタグ: #weeklyml\nWeekly Machine Learningは機械学習の開発者・研究者を応援するメディアを目指しています。掲載記事の選択や記事執筆に興味がある方がいたら、ぜひご連絡いただければと思います。\n※9月も引き続き縮退運用中です。新しい家庭の予定があり、運用形態の変更を検討しています。決まり次第ご連絡します。",
+          "link": "https://www.getrevue.co/profile/icoxfog417/issues/weekly-machine-learning-246-761488",
+          "publishedOn": "2021-09-19T07:13:41.000Z",
+          "wordCount": 352,
+          "title": "Weekly Machine Learning #246"
+        }
+      ]
+    },
+    {
+      "title": "Akira's Machine Learning News (ja)",
+      "feedUrl": "https://www.getrevue.co/profile/akiratosei_ja?format=rss",
+      "siteUrl": "https://www.getrevue.co/profile/akiratosei_ja",
+      "articles": [
+        {
+          "id": "https://www.getrevue.co/profile/akiratosei_ja/issues/akira-s-machine-learning-news-ja-issue-32-780600",
+          "author": null,
+          "description": "機械学習関連の記事や論文を毎週紹介します。\nまた、月ごとや半期毎にその期間で有力そうな研究のまとめ記事を出していきます。",
+          "link": "https://www.getrevue.co/profile/akiratosei_ja/issues/akira-s-machine-learning-news-ja-issue-32-780600",
+          "publishedOn": "2021-09-25T05:49:07.000Z",
+          "wordCount": 493,
+          "title": "Akira's Machine Learning News (ja) - Issue #32"
+        },
+        {
+          "id": "https://www.getrevue.co/profile/akiratosei_ja/issues/copy-akira-s-machine-learning-news-ja-issue-31-671720",
+          "author": null,
+          "description": "機械学習関連の記事や論文を毎週紹介します。\nまた、月ごとや半期毎にその期間で有力そうな研究のまとめ記事を出していきます。",
+          "link": "https://www.getrevue.co/profile/akiratosei_ja/issues/copy-akira-s-machine-learning-news-ja-issue-31-671720",
+          "publishedOn": "2021-09-18T04:00:03.000Z",
+          "wordCount": 422,
+          "title": "(Copy) Akira's Machine Learning News (ja) - Issue #31"
+        }
+      ]
+    },
+    {
+      "title": "arXivTimes / @arxivtimes",
+      "feedUrl": "https://nitter.net/arxivtimes/rss",
+      "siteUrl": "https://nitter.net/arxivtimes",
+      "articles": [
+        {
+          "id": "https://nitter.net/arxivtimes/status/1441704144658644992#m",
+          "author": "@arxivtimes",
+          "description": "Pix2seq: A Language Modeling Framework for Object Detection zpr.io/iZELugPdzkCs",
+          "link": "https://nitter.net/arxivtimes/status/1441704144658644992#m",
+          "publishedOn": "2021-09-25T10:00:28.000Z",
+          "wordCount": 59,
+          "title": "Pix2seq: A Language Modeling Framework for Object Detection https://zpr.io/iZELugPdzkCs"
+        },
+        {
+          "id": "https://nitter.net/arxivtimes/status/1441700229565321216#m",
+          "author": "@arxivtimes",
+          "description": "The Low-Resource Double Bind: An Empirical Study of Pruning for Low-Resource Machine Translation zpr.io/VLGCD7WihRX2",
+          "link": "https://nitter.net/arxivtimes/status/1441700229565321216#m",
+          "publishedOn": "2021-09-25T09:44:54.000Z",
+          "wordCount": 70,
+          "title": "The Low-Resource Double Bind: An Empirical Study of Pruning for Low-Resource Machine Translation https://zpr.io/VLGCD7WihRX2"
+        },
+        {
+          "id": "https://nitter.net/arxivtimes/status/1441696786708586496#m",
+          "author": "@arxivtimes",
+          "description": "Recursively Summarizing Books with Human Feedback zpr.io/LdgQEfixAksZ",
+          "link": "https://nitter.net/arxivtimes/status/1441696786708586496#m",
+          "publishedOn": "2021-09-25T09:31:14.000Z",
+          "wordCount": 53,
+          "title": "Recursively Summarizing Books with Human Feedback https://zpr.io/LdgQEfixAksZ"
+        },
+        {
+          "id": "https://nitter.net/arxivtimes/status/1441681712518418432#m",
+          "author": "@arxivtimes",
+          "description": "Primer: Searching for Efficient Transformers for Language Modeling zpr.io/k89c7rr8dnJT",
+          "link": "https://nitter.net/arxivtimes/status/1441681712518418432#m",
+          "publishedOn": "2021-09-25T08:31:20.000Z",
+          "wordCount": 55,
+          "title": "Primer: Searching for Efficient Transformers for Language Modeling https://zpr.io/k89c7rr8dnJT"
+        },
+        {
+          "id": "https://nitter.net/arxivtimes/status/1439222606222217217#m",
+          "author": "@arxivtimes",
+          "description": "Impact of GPU uncertainty on the training of predictive deep neural networks zpr.io/Fmxk5GaK4yxj",
+          "link": "https://nitter.net/arxivtimes/status/1439222606222217217#m",
+          "publishedOn": "2021-09-18T13:39:43.000Z",
+          "wordCount": 69,
+          "title": "Impact of GPU uncertainty on the training of predictive deep neural networks https://zpr.io/Fmxk5GaK4yxj"
+        },
+        {
+          "id": "https://nitter.net/arxivtimes/status/1439188580086296576#m",
+          "author": "@arxivtimes",
+          "description": "Challenges in Detoxifying Language Models zpr.io/tAypt6YYEUut",
+          "link": "https://nitter.net/arxivtimes/status/1439188580086296576#m",
+          "publishedOn": "2021-09-18T11:24:30.000Z",
+          "wordCount": 51,
+          "title": "Challenges in Detoxifying Language Models https://zpr.io/tAypt6YYEUut"
+        }
+      ]
     }
   ],
   "cliVersion": "1.11.2"
