@@ -6,9 +6,9 @@ sources:
   - href: https://www.deeplearningweekly.com/feed/ # deeplearning weekly
 
   # Qiita & Zenn
-  - href: https://qiita.com/popular-items/feed.atom
-  - href: https://zenn.dev/feed
-  - href: https://zenn.dev/topics/%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92/feed
+  # - href: https://qiita.com/popular-items/feed.atom
+  # - href: https://zenn.dev/feed
+  # - href: https://zenn.dev/topics/%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92/feed
   
   # track awesome list
   - href: https://www.trackawesomelist.com/vinta/awesome-python/rss.xml
@@ -45,8 +45,8 @@ sources:
   # - href: https://tsujimotter.hatenablog.com/rss
 
   # getrevue 
-  # - href: https://www.getrevue.co/profile/icoxfog417?format=rss
-  # - href: https://www.getrevue.co/profile/akiratosei_ja?format=rss
+  - href: https://www.getrevue.co/profile/icoxfog417?format=rss
+  - href: https://www.getrevue.co/profile/akiratosei_ja?format=rss
 
   # Twitter
   # - href: https://nitter.net/DeNAxTech/rss
