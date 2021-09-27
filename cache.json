@@ -74,6 +74,87 @@
       "siteUrl": "https://qiita.com/popular-items",
       "articles": [
         {
+          "id": "https://qiita.com/anan-k/items/93d0f22f23aaa5b042ab?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\n株式会社Speeeでの12日間のエンジニアインターンシップで学んだことを書きます。技術的なことではなく、何かを成し遂げるにあたって意識するといいことについてです。\n\nインターンシップの概要…",
+          "link": "https://qiita.com/anan-k/items/93d0f22f23aaa5b042ab?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-09-27T02:54:38.000Z",
+          "wordCount": 228,
+          "title": "目的思考について株式会社Speeeのインターンシップで学んだこと"
+        },
+        {
+          "id": "https://qiita.com/kai-utsunomiya/items/453ddaa06096a12f4886?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "こんにちは。前回はランダムに単語が表示される単語学習アプリを作りましたが、今回も自分の外国語学習に役立てようという魂胆で、外国語ニュースサイトの記事を取得してくる機能を作ってみます。\n\nこの記事ではN…",
+          "link": "https://qiita.com/kai-utsunomiya/items/453ddaa06096a12f4886?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-09-27T02:47:37.000Z",
+          "wordCount": 744,
+          "title": "Javaでニュースサイトの記事を取得する"
+        },
+        {
+          "id": "https://qiita.com/yoshimi-yzrh/items/fba847a94afda61202cf?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\nshopifyにありそうでない機能の一つが、商品購入時の希望配送日時指定。\n\nもちろん、shopify app storeには決済画面にて配送日時指定ができるようになるアプリもあるのですが…",
+          "link": "https://qiita.com/yoshimi-yzrh/items/fba847a94afda61202cf?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-09-27T01:51:46.000Z",
+          "wordCount": 477,
+          "title": "Shopifyに無料で希望配送日時指定を追加"
+        },
+        {
+          "id": "https://qiita.com/yuji_saito/items/e7d9107cd69c5695201d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "背景\n\n昨今DXやRPAという言葉も定着してきました。\nそれでも分野や業務、環境によっては今もなお「エクセルにデータを貼って手動で数表を作る業務」というのは発生していそうです。\n\nそして、、、手動で運…",
+          "link": "https://qiita.com/yuji_saito/items/e7d9107cd69c5695201d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-09-27T01:45:42.000Z",
+          "wordCount": 311,
+          "title": "計算式ミスを救いたい"
+        },
+        {
+          "id": "https://qiita.com/ps010/items/ea83eea63162f6105641?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\n最近、KaggleでTabnetというニューラルネットワークモデルが流行っていると知りました。\nテーブルデータコンペといえばGBDT最強のイメージでしたが、ここでもニューラルネットワーク…",
+          "link": "https://qiita.com/ps010/items/ea83eea63162f6105641?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-09-26T22:31:14.000Z",
+          "wordCount": 537,
+          "title": "Tabnetはどのように使えるのか"
+        },
+        {
+          "id": "https://qiita.com/taqro/items/41fb5a97f2b6a52bf86b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\nQiitaのトレンドではよく上位に翻訳記事がくることが多いですよね。僕も見つけたらすぐにLGTMとストックの両方をしています。ただ、翻訳記事は精選されている、日本語で読めるなどの多くの利…",
+          "link": "https://qiita.com/taqro/items/41fb5a97f2b6a52bf86b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-09-26T22:00:46.000Z",
+          "wordCount": 187,
+          "title": "Qiitaのトレンドでよく上位にくる翻訳記事の翻訳元のイカした海外エンジニア向けサイト6選まとめ"
+        },
+        {
+          "id": "https://qiita.com/e99h2121/items/a25f0485f8281d793d3c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "これを書いている2021年9月末。「100日後に退職する47歳」というTwitter連載が佳境を迎えている。この記事は\n\n\n「円満退職したい！」と考えている人向けに、どうすれば円満退職できるのか\nつまり…",
+          "link": "https://qiita.com/e99h2121/items/a25f0485f8281d793d3c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-09-26T21:05:36.000Z",
+          "wordCount": 282,
+          "title": "エンジニアはどこまで好かれればよいのか - 嫌われる勇気と円満退職の極意"
+        },
+        {
+          "id": "https://qiita.com/surapunoyousei/items/4d592b1137ceef1c30e3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "10年後の自分へ\n\n＊まだ初めて5か月ぐらいのプログラミング初心者のうわごとをお聞きください。技術系ではないかもしれません。キャンペーン参加もかねて一筆\n\nキャンペーンはこちら→　https://qi…",
+          "link": "https://qiita.com/surapunoyousei/items/4d592b1137ceef1c30e3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-09-26T14:15:30.000Z",
+          "wordCount": 227,
+          "title": "未来の自分へ。今何をしていますか？"
+        },
+        {
+          "id": "https://qiita.com/mo256man/items/f81b7106184474e2a197?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\n初学者を脱しつつある者を襲う贅沢な悩み\n\nクラスについて学ぼうと多くの解説サイトを訪れたが、ほとんどの解説サイトは私を満足させなかった。\nFlaskの学習をしたときも同様だった。Pytho…",
+          "link": "https://qiita.com/mo256man/items/f81b7106184474e2a197?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-09-26T12:37:03.000Z",
+          "wordCount": 249,
+          "title": "Pythonのクラスを習得した記念にゲームを作る"
+        },
+        {
           "id": "https://qiita.com/kazuki43zoo/items/47ed3b15077773f02448?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "author": null,
           "description": "Spring Bootで簡易的なバッチアプリケーション(CLIアプリケーション)を作る方法を紹介してみたいと思います。SpringにはSpring Batchというバッチアプリケーション向けのフレー…",
@@ -326,6 +407,15 @@
           "title": "サイボウズのインターンに参加してきました"
         },
         {
+          "id": "https://qiita.com/DeepTama/items/0aa2c4840571ba789e85?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "本書は、numpyチュートリアル（ビギナーズ向け） を翻訳及び加筆（※）でしたものです。\n\n※：わかりにくいと思われる箇所の補足や、ipythonでコードが実行できるようにテストデータを作成するコード…",
+          "link": "https://qiita.com/DeepTama/items/0aa2c4840571ba789e85?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-09-22T09:54:44.000Z",
+          "wordCount": 2075,
+          "title": "numpyチュートリアル（ビギナーズ向け）"
+        },
+        {
           "id": "https://qiita.com/gen_nospare/items/44d8e3530c66309c611f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "author": null,
           "description": "こんにちは，株式会社Nospare・千葉大学の小林です．本記事ではGelman and Vehtari (2020)の`What are the most important statistical…",
@@ -351,6 +441,62 @@
       "siteUrl": "https://zenn.dev",
       "articles": [
         {
+          "id": "https://zenn.dev/cube/articles/4ce18a672fc991",
+          "author": "cube",
+          "description": "いきなり結論\n結論としては、\n\nresponseBodyをCloseしないとコネクションがブロックしてしまい再利用されず、古い接続が残ったまま、新しく接続するたびに新しいGoroutineとファイルディスクリプタを作ってしまう\nresponseBodyを読み切らないとkeepAliveされずコネクションが終了してしまい再利用されず、接続のたびに新しい接続を作ってしまう。\n\nということなのですが、コードではどうなっているか見てみましょう。\n\n http.Get ~ client.sendまで\nhttp.Get -> client.Get -> client.Do ->...",
+          "link": "https://zenn.dev/cube/articles/4ce18a672fc991",
+          "publishedOn": "2021-09-27T04:21:29.000Z",
+          "wordCount": 1876,
+          "title": "Goのnet/httpのclientでなぜresponseBodyをClose、読み切らなくてはいけないのか",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--PQwfZ2GJ--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:cube%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_60_bold:Go%25E3%2581%25AEnet%252Fhttp%25E3%2581%25AEclient%25E3%2581%25A7%25E3%2581%25AA%25E3%2581%259CresponseBody%25E3%2582%2592Close%25E3%2580%2581%25E8%25AA%25AD%25E3%2581%25BF%25E5%2588%2587%25E3%2582%2589%25E3%2581%25AA%25E3%2581%258F%25E3%2581%25A6%25E3%2581%25AF%25E3%2581%2584%25E3%2581%2591%25E3%2581%25AA%25E3%2581%2584%25E3%2581%25AE%25E3%2581%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2ljb25fZjc1MDFkNmNiNS5qcGVn%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1627274783/default/og-base_z4sxah.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://zenn.dev/yoshiko/articles/32371c83e68cbe",
+          "author": "よしこ",
+          "description": "こんにちは、よしこです。\n株式会社ナレッジワーク というスタートアップで、2020年4月の創業時から一人目のフロントエンドエンジニアをしています。\n初期に考えて組み上げたスタックで1年半ほど開発・運用してみて、なかなか快適に日々開発ができているので\n\n新規開発のプロダクト立ち上げ時にどのようにフロントエンドを構築したのか？\n立ち上げから1年以上開発・運用を続けてきた今、それらの選択はどうだったのか？\n\nを記事にして振り返り、公開したいなと思いました。\n（プロダクトの内容はステルスで進めていてあまり対外的な発信ができないので、かわりに技術的なところはどんどんオープンにしていきたいなという気...",
+          "link": "https://zenn.dev/yoshiko/articles/32371c83e68cbe",
+          "publishedOn": "2021-09-27T03:30:10.000Z",
+          "wordCount": 262,
+          "title": "2020年に立ち上げたWebフロントエンド構成の振り返り",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--bQFeA8RV--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:%25E3%2582%2588%25E3%2581%2597%25E3%2581%2593%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_70_bold:2020%25E5%25B9%25B4%25E3%2581%25AB%25E7%25AB%258B%25E3%2581%25A1%25E4%25B8%258A%25E3%2581%2592%25E3%2581%259FWeb%25E3%2583%2595%25E3%2583%25AD%25E3%2583%25B3%25E3%2583%2588%25E3%2582%25A8%25E3%2583%25B3%25E3%2583%2589%25E6%25A7%258B%25E6%2588%2590%25E3%2581%25AE%25E6%258C%25AF%25E3%2582%258A%25E8%25BF%2594%25E3%2582%258A%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2kwU3JDUjBpVERyUHpqWnF4YjJLZ0tueHgtamE0N253SEE0NGE4RDhrPXM4MC1j%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1627274783/default/og-base_z4sxah.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://zenn.dev/izumin/articles/710eefc8172f66",
+          "author": "Masayuki Izumi",
+          "description": "TL;DR\n\nGrahpQL はその仕様上、 nullable なフィールドに対しての「値を入れない」と「null を渡す」は別物として扱うことができる\n特に更新系の mutation の場合、後方互換のためにもこれら2つを区別できるようにしておくことが汎用的なスキーマ構築のカギ\n\n\n どういうことか\nGraphQL Spec (June 2018) の 2.9.5 Null Value という説で言及されている。\n\nNull values are represented as the keyword null.\nGraphQL has two semantically differ...",
+          "link": "https://zenn.dev/izumin/articles/710eefc8172f66",
+          "publishedOn": "2021-09-27T01:15:23.000Z",
+          "wordCount": 288,
+          "title": "GraphQL の引数では「値を入れない」と「null を渡す」を区別できる",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--pAQ6GYSw--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:Masayuki%2520Izumi%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_70_bold:GraphQL%2520%25E3%2581%25AE%25E5%25BC%2595%25E6%2595%25B0%25E3%2581%25A7%25E3%2581%25AF%25E3%2580%258C%25E5%2580%25A4%25E3%2582%2592%25E5%2585%25A5%25E3%2582%258C%25E3%2581%25AA%25E3%2581%2584%25E3%2580%258D%25E3%2581%25A8%25E3%2580%258Cnull%2520%25E3%2582%2592%25E6%25B8%25A1%25E3%2581%2599%25E3%2580%258D%25E3%2582%2592%25E5%258C%25BA%25E5%2588%25A5%25E3%2581%25A7%25E3%2581%258D%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2pLQnhYeEszZEtUbG80dkZXU04zbWNpU0lvNlRFckpid1M3WUdoeFE9czgwLWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1627274783/default/og-base_z4sxah.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://zenn.dev/dala/books/flutter-basic-app",
+          "author": "だら",
+          "description": "Flutterの基礎的な機能を使って単語帳アプリを作ってリリースするまでに必要なことを解説します。",
+          "link": "https://zenn.dev/dala/books/flutter-basic-app",
+          "publishedOn": "2021-09-26T22:01:13.000Z",
+          "wordCount": 22,
+          "title": "Flutterの基礎的な機能で単語帳アプリを作る",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--zM4xooDb--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci9jZTg0MzU4OTAxLmpwZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          }
+        },
+        {
           "id": "https://zenn.dev/tkithrta/articles/4ff685b007bc79",
           "author": "黒ヰ樹",
           "description": "TL;DR\nGitpodではScalaやKotlinといったJVM言語を使う方法が以前公式ドキュメントにあったのですが、最近はClojureしか掲載されなくなってしまい、GitpodのJavaについて初心者へ紹介しづらくなってしまいました。\nそんなわけでSDKMAN!と一緒に紹介します。\n\n SDKMAN!\nhttps://sdkman.io/\n感嘆符が重要らしいこちらのツールはJavaで使えるSDKマネージャーです。\nGitpod内部でもAzul SystemsのZulu JDKをインストールするために使われております。\nそのためGitpod内でもsdk installコマンドが使...",
@@ -360,6 +506,20 @@
           "title": "じゃあ、みんなでGitpodのJDK & SDKをやってみよう",
           "enclosure": {
             "url": "https://res.cloudinary.com/zenn/image/upload/s--WRDp7vCI--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:%25E9%25BB%2592%25E3%2583%25B0%25E6%25A8%25B9%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_70_bold:%25E3%2581%2598%25E3%2582%2583%25E3%2581%2582%25E3%2580%2581%25E3%2581%25BF%25E3%2582%2593%25E3%2581%25AA%25E3%2581%25A7Gitpod%25E3%2581%25AEJDK%2520%2526%2520SDK%25E3%2582%2592%25E3%2582%2584%25E3%2581%25A3%25E3%2581%25A6%25E3%2581%25BF%25E3%2582%2588%25E3%2581%2586%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2ljb25fYTQ0NGUxMDhmOS5qcGVn%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1627274783/default/og-base_z4sxah.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://zenn.dev/at946/articles/0c170df6a5a16b",
+          "author": "asato",
+          "description": "こんにちは。@asatoです🌅\nスプレッドシートをデータベースとして使いたい！\nいま話題のTwitterスペースと出会えるプロダクトspaces.bzを開発しています。\nhttps://spaces.bz/\nGASでTwitter APIをたたいてスプレッドシートに記録するプロトタイプからはじめました。\nプロトタイプのあと、「せっかくだからこのスプレッドシートをそのままDBみたいに使えないかなー」と思い、Nuxt + Spreadsheet構成でプロダクトを開発してみたので、体験記をまとめたいと思います！\n\n この記事でやること\nスプレッドシートからデータを取得して表示するNuxtアプリ...",
+          "link": "https://zenn.dev/at946/articles/0c170df6a5a16b",
+          "publishedOn": "2021-09-26T12:45:35.000Z",
+          "wordCount": 425,
+          "title": "NuxtでスプレッドシートをDB代わりに使うぞ大作戦",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--IVJiJDnd--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:asato%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_70_bold:Nuxt%25E3%2581%25A7%25E3%2582%25B9%25E3%2583%2597%25E3%2583%25AC%25E3%2583%2583%25E3%2583%2589%25E3%2582%25B7%25E3%2583%25BC%25E3%2583%2588%25E3%2582%2592DB%25E4%25BB%25A3%25E3%2582%258F%25E3%2582%258A%25E3%2581%25AB%25E4%25BD%25BF%25E3%2581%2586%25E3%2581%259E%25E5%25A4%25A7%25E4%25BD%259C%25E6%2588%25A6%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2ljb25fZjVhNzIyZjlmZS5qcGVn%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1627274783/default/og-base_z4sxah.png",
             "length": "0",
             "type": "image/png"
           }
@@ -449,6 +609,20 @@
           }
         },
         {
+          "id": "https://zenn.dev/taiki0304/articles/21de8886884156",
+          "author": "taiki0304",
+          "description": "はじめに\nJetpack Composeを使って、アプリを作成していてカレンダーライブラリでいいものがなかったので、自作しました。\nGithub Packagesとしてライブラリ化しているので、気に入っていただければご自由にお使いください。\nhttps://github.com/taiki0304/ComposeCalendar\n\n\n\n\n\n\n\n\n\nGradle version\n7.0.2\n\n\nminSDK\n26\n\n\ntargetSDK\n30\n\n\nJetpack Compose version\n1.0.2\n\n\naccompanist version\n0.17.0\n\n\n\n\n\n 使い方\n\n...",
+          "link": "https://zenn.dev/taiki0304/articles/21de8886884156",
+          "publishedOn": "2021-09-26T08:59:15.000Z",
+          "wordCount": 252,
+          "title": "Jetpack Composeでカレンダーライブラリを作ってみた",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--bM1Zzd9B--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:taiki0304%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_70_bold:Jetpack%2520Compose%25E3%2581%25A7%25E3%2582%25AB%25E3%2583%25AC%25E3%2583%25B3%25E3%2583%2580%25E3%2583%25BC%25E3%2583%25A9%25E3%2582%25A4%25E3%2583%2596%25E3%2583%25A9%25E3%2583%25AA%25E3%2582%2592%25E4%25BD%259C%25E3%2581%25A3%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2ljb25fZGI5ODcwMDhlNS5qcGVn%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1627274783/default/og-base_z4sxah.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
+        {
           "id": "https://zenn.dev/kawarimidoll/articles/6b1f46caf03247",
           "author": "kawarimidoll",
           "description": "JavaScriptには、与えられた文字列をコードと解釈して実行するevalという関数があります。\n外部から任意のコードを実行される可能性のある危険な処理であり、パフォーマンス的にも問題があります。\nMDNでも「evalを使わないでください！」と書かれています。\nhttps://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Global_Objects/eval#eval_を使わないでください%\nMDNの記事では代替としてFunction()を使う方法が紹介されていますが、本記事では別の手法を紹介します。\n\n 方法\nimpo...",
@@ -458,6 +632,20 @@
           "title": "[JavaScript] Dynamic Importでevalを代替する",
           "enclosure": {
             "url": "https://res.cloudinary.com/zenn/image/upload/s--rnNH1Gfs--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:kawarimidoll%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_70_bold:%255BJavaScript%255D%2520Dynamic%2520Import%25E3%2581%25A7eval%25E3%2582%2592%25E4%25BB%25A3%25E6%259B%25BF%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2ljb25fMjM3OWFjOGQ4Ni5qcGVn%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1627274783/default/og-base_z4sxah.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://zenn.dev/eagle/articles/purescript-react-introduction",
+          "author": "eagle",
+          "description": "はじめに\n本記事ではPureScriptの前提知識を仮定せずに、Reactを使ってHello, world!を行います。\n本記事の前半でPureScriptをインストールし、基礎文法の一部を紹介します。\n後半ではPureScriptを用いてReactの仮想DOMを定義してブラウザに描画します。\n本記事を読み進めていく上で関数型プログラミングに精通している必要はありません。\n逆に、使用経験があるほうが望ましいのは次の通りです。（必須ではありません。）\n\nReact\nバンドルツール(Webpack等)\nTypeScript\n\nなお、本記事ではしばしばJavaScriptのコードと比較して...",
+          "link": "https://zenn.dev/eagle/articles/purescript-react-introduction",
+          "publishedOn": "2021-09-26T06:57:43.000Z",
+          "wordCount": 2339,
+          "title": "Reactを題材にPureScriptを始める",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--VbvOpKSP--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:eagle%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_70_bold:React%25E3%2582%2592%25E9%25A1%258C%25E6%259D%2590%25E3%2581%25ABPureScript%25E3%2582%2592%25E5%25A7%258B%25E3%2582%2581%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2ljb25fZTFmZjAxNGQyZi5qcGVn%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1627274783/default/og-base_z4sxah.png",
             "length": "0",
             "type": "image/png"
           }
@@ -528,6 +716,20 @@
           "title": "【入門】結局getter/setterは悪なのか",
           "enclosure": {
             "url": "https://res.cloudinary.com/zenn/image/upload/s--qdaLTlAg--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:%25E7%2586%258A%25E6%259C%25A8%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_70_bold:%25E3%2580%2590%25E5%2585%25A5%25E9%2596%2580%25E3%2580%2591%25E7%25B5%2590%25E5%25B1%2580getter%252Fsetter%25E3%2581%25AF%25E6%2582%25AA%25E3%2581%25AA%25E3%2581%25AE%25E3%2581%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2ljb25fODIzZTM3ZWMwNy5qcGVn%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1627274783/default/og-base_z4sxah.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://zenn.dev/hinoshin/articles/015e18fec124a4",
+          "author": "ShinyaHinohara",
+          "description": "最近読んだ本にプログラマーの生産性を高めるTipsがいくつか書かれていたので、ここにメモしておこうと思います。\n\n 効率を上げる\n\nまずは、効率の上げ方について解説していきます、\n\n 何ポモドーロできたかを数えよう\nポモドーロテクニックという有名な生産性高めるテクニックがあります。\nこれは、25分の作業と5分の休憩を繰り返すという手法です。\nこのテクニックを使うことで、集中力をかなり高めることができます。\nまた、1日に何ポモドーロできたka数えるというのもオススメです。\nそうすることで達成感も味わえますし、自分は何曜日が集中できるのかということを可視化できます。\n\n ノルマを習慣化する\n...",
+          "link": "https://zenn.dev/hinoshin/articles/015e18fec124a4",
+          "publishedOn": "2021-09-25T22:50:02.000Z",
+          "wordCount": 89,
+          "title": "プログラマーが生産性を高める方法",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--HwtZqJ7j--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:ShinyaHinohara%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_80_bold:%25E3%2583%2597%25E3%2583%25AD%25E3%2582%25B0%25E3%2583%25A9%25E3%2583%259E%25E3%2583%25BC%25E3%2581%258C%25E7%2594%259F%25E7%2594%25A3%25E6%2580%25A7%25E3%2582%2592%25E9%25AB%2598%25E3%2582%2581%25E3%2582%258B%25E6%2596%25B9%25E6%25B3%2595%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2ljb25fOTc4YThlY2U3YS5qcGVn%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1627274783/default/og-base_z4sxah.png",
             "length": "0",
             "type": "image/png"
           }
@@ -722,6 +924,20 @@
       "siteUrl": "https://zenn.dev/topics/%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92",
       "articles": [
         {
+          "id": "https://zenn.dev/reppy/articles/34ea7dcf6ffce2",
+          "author": "AwesomeSpaghetti",
+          "description": "accelerateとは\nhttps://github.com/huggingface/accelerate\nいわゆるPyTorchでCPU，GPU，TPUを共通のコードでかけるようにしてくれるもの．\nただし，pytorch-lightningのような高レベルのAPIを持っているわけではなく，どちらかといえば俺俺Trainerをすこし簡単にしてくれるもの．\n「Run your raw PyTorch training script on any kind of device」\nまさにこれですね．\n\n 例\nまずは，どのように簡単にしてくれるかを見てみましょう\n\n      \n     ...",
+          "link": "https://zenn.dev/reppy/articles/34ea7dcf6ffce2",
+          "publishedOn": "2021-09-27T06:11:21.000Z",
+          "wordCount": 196,
+          "title": "HuggingfaceのAccelerateの紹介",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--NS6mkn9J--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:AwesomeSpaghetti%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_70_bold:Huggingface%25E3%2581%25AEAccelerate%25E3%2581%25AE%25E7%25B4%25B9%25E4%25BB%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2ljb25fMzM2MjY5YzQ1Ni5qcGVn%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1627274783/default/og-base_z4sxah.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
+        {
           "id": "https://zenn.dev/xiongjie/articles/f6ffdbca901158",
           "author": "xiongjie",
           "description": "How I annotated 300 images with instance segmentation mask\nThis is an article about how I annotate hand dataset fast.\nFirstly I'll explain annotation data formats and what I chose because this is important to choose the annotation tol.\n\n Annotation data formats\nThere are several segmentation ta...",
@@ -860,20 +1076,6 @@
             "length": "0",
             "type": "image/png"
           }
-        },
-        {
-          "id": "https://zenn.dev/nekoallergy/articles/py-env-docker01",
-          "author": "NekoAllergy",
-          "description": "5 分で Python 環境を作ります。\n何もない状態から、プロのデータサイエンティストが使っているような環境を作ります。\n\nこのコンテンツの目的は、イメージをつかむキッカケになることです。\n砕いた解説のため、一部正確ではない場合があります。ご了承下さい。\n\n【予備知識】Homebrew って？\nMac OS X 上でいろんなソフトウェアを簡単にインストールできるシステムです。\n\n【予備知識】Docker って？\nプログラミングに必要な環境を簡単に作れるソフトウェアです。\n\n【予備知識】Anaconda って？\nデータサイエンスをする時に使うライブラリがたくさんまとまったものです。\n\n【...",
-          "link": "https://zenn.dev/nekoallergy/articles/py-env-docker01",
-          "publishedOn": "2021-09-13T22:30:22.000Z",
-          "wordCount": 342,
-          "title": "【初心者】5分でPython環境を作る",
-          "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--UYCdvt1M--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:NekoAllergy%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_80_bold:%25E3%2580%2590%25E5%2588%259D%25E5%25BF%2583%25E8%2580%2585%25E3%2580%25915%25E5%2588%2586%25E3%2581%25A7Python%25E7%2592%25B0%25E5%25A2%2583%25E3%2582%2592%25E4%25BD%259C%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2ljb25fNTQ3ZTg3M2QxOC5qcGVn%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1627274783/default/og-base_z4sxah.png",
-            "length": "0",
-            "type": "image/png"
-          }
         }
       ]
     },
@@ -951,6 +1153,15 @@
       "siteUrl": "https://www.amazon.science/",
       "articles": [
         {
+          "id": "https://www.amazon.science/blog/data-on-correlated-products-and-sellers-helps-improve-demand-forecasting",
+          "author": null,
+          "description": "Graph-based models capture correlations efficiently enough to enable machine learning at scale.",
+          "link": "https://www.amazon.science/blog/data-on-correlated-products-and-sellers-helps-improve-demand-forecasting",
+          "publishedOn": "2021-09-27T13:08:42.000Z",
+          "wordCount": 9005,
+          "title": "Data on correlated products and sellers helps improve demand forecasting"
+        },
+        {
           "id": "https://www.amazon.science/blog/amazon-at-recsys-evaluation-bias-and-algorithms",
           "author": null,
           "description": "Amazon Scholar Pablo Castells on the trends he sees in recommender-system research.",
@@ -1021,15 +1232,6 @@
           "publishedOn": "2021-09-14T13:34:32.000Z",
           "wordCount": 8849,
           "title": "Estimating causality from data: How one Amazon intern used data to make an impact"
-        },
-        {
-          "id": "https://www.amazon.science/working-at-amazon/alexa-how-do-you-know-everything",
-          "author": null,
-          "description": "How Amazon intern Michael Saxon uses his experience with automatic speech recognition models to help Alexa answer complex queries.",
-          "link": "https://www.amazon.science/working-at-amazon/alexa-how-do-you-know-everything",
-          "publishedOn": "2021-09-13T17:42:41.000Z",
-          "wordCount": 9348,
-          "title": "“Alexa, how do you know everything?”"
         }
       ]
     },
