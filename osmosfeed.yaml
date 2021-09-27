@@ -45,8 +45,8 @@ sources:
   # - href: https://tsujimotter.hatenablog.com/rss
 
   # getrevue 
-  # - href: https://www.getrevue.co/profile/icoxfog417?format=rss
-  # - href: https://www.getrevue.co/profile/akiratosei_ja?format=rss
+  - href: https://www.getrevue.co/profile/icoxfog417?format=rss
+  - href: https://www.getrevue.co/profile/akiratosei_ja?format=rss
 
   # Twitter
   # - href: https://nitter.net/DeNAxTech/rss
@@ -55,4 +55,4 @@ sources:
   # - href: https://nitter.net/OpenAI/rss
   # - href: https://nitter.net/ai_scholar/rss
 
-cacheMaxDays: 14
+cacheMaxDays: 1
