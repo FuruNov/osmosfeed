@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://FuruNov.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-09-27T01:41:44.109Z</updated>
+    <updated>2021-09-27T01:47:38.827Z</updated>
     <generator>osmosfeed 1.11.2</generator>
     <link rel="alternate" href="https://FuruNov.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://FuruNov.github.io/osmosfeed/feed.atom"/>
@@ -196,6 +196,23 @@ https://karaage.hatenadiary.jp/entry/2021/09/20/073000
 結構苦戦した結果、Hello Worldできたので、苦…]]></summary>
         <author>
             <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[JavaScript] Dynamic Importでevalを代替する]]></title>
+        <id>https://zenn.dev/kawarimidoll/articles/6b1f46caf03247</id>
+        <link href="https://zenn.dev/kawarimidoll/articles/6b1f46caf03247"/>
+        <updated>2021-09-26T08:47:50.000Z</updated>
+        <summary type="html"><![CDATA[JavaScriptには、与えられた文字列をコードと解釈して実行するevalという関数があります。
+外部から任意のコードを実行される可能性のある危険な処理であり、パフォーマンス的にも問題があります。
+MDNでも「evalを使わないでください！」と書かれています。
+https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Global_Objects/eval#eval_を使わないでください%
+MDNの記事では代替としてFunction()を使う方法が紹介されていますが、本記事では別の手法を紹介します。
+
+ 方法
+impo...]]></summary>
+        <author>
+            <name>kawarimidoll</name>
         </author>
     </entry>
     <entry>
@@ -654,32 +671,6 @@ Promise Pool のようなライブラリがある
   privat...]]></summary>
         <author>
             <name>tsugitta</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第2回すうがく徒のつどいオンラインに参加した]]></title>
-        <id>hatenablog://entry/13574176438015560996</id>
-        <link href="https://cho-san.hatenablog.jp/entry/2021/09/25/121107"/>
-        <updated>2021-09-25T03:11:07.000Z</updated>
-        <summary type="html"><![CDATA[第2回すうがく徒のつどいオンラインに参加しました。
-今回はなんと2枠講演させてもらいました。
- 
-入門枠/一般枠について
-今回のつどいでは講演枠が入門枠と一般枠という2つの枠が用意されていました。入門枠は学部低回生や非数学科の人などの初級者向け、一般枠は数学専門院生等の上級者向けです。入門枠・一般枠それぞれ1枠ずつの計2枠講演を担当させていただきました。
- 
-入門枠
-「合同条件が合同条件であることの証明」というタイトルで講演させていただきました。中学数学の話なので中学生向けです(嘘)。
-
-
-一般枠
-一般枠では「ホモトピーとかホモロジーとか」という講演をしました。特異ホモロジーをざっと定義して基本的な性質を証明する話です。
-
-これは以前にこのブログでも上げたHurewiczの定理pdfの内容と同じものになります。
-
-
-つどい関係者や講演を聞きにきてくれた皆様、今回もありがとうございました。]]></summary>
-        <author>
-            <name>ちょーさんメモ出張版 気まぐれブログ</name>
         </author>
     </entry>
     <entry>

@@ -449,6 +449,20 @@
           }
         },
         {
+          "id": "https://zenn.dev/kawarimidoll/articles/6b1f46caf03247",
+          "author": "kawarimidoll",
+          "description": "JavaScriptには、与えられた文字列をコードと解釈して実行するevalという関数があります。\n外部から任意のコードを実行される可能性のある危険な処理であり、パフォーマンス的にも問題があります。\nMDNでも「evalを使わないでください！」と書かれています。\nhttps://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Global_Objects/eval#eval_を使わないでください%\nMDNの記事では代替としてFunction()を使う方法が紹介されていますが、本記事では別の手法を紹介します。\n\n 方法\nimpo...",
+          "link": "https://zenn.dev/kawarimidoll/articles/6b1f46caf03247",
+          "publishedOn": "2021-09-26T08:47:50.000Z",
+          "wordCount": 63,
+          "title": "[JavaScript] Dynamic Importでevalを代替する",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--rnNH1Gfs--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:kawarimidoll%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_70_bold:%255BJavaScript%255D%2520Dynamic%2520Import%25E3%2581%25A7eval%25E3%2582%2592%25E4%25BB%25A3%25E6%259B%25BF%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2ljb25fMjM3OWFjOGQ4Ni5qcGVn%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1627274783/default/og-base_z4sxah.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
+        {
           "id": "https://zenn.dev/okazuki/articles/blazor-wasm-rc1-queryparam",
           "author": "Kazuki Ota",
           "description": "内容としては、ここらへんで紹介されているものになります。\nhttps://devblogs.microsoft.com/aspnet/asp-net-core-updates-in-net-6-preview-7/\nhttps://devblogs.microsoft.com/aspnet/asp-net-core-updates-in-net-6-rc-1/\nBlazor のコンポーネントで URL のクエリ パラメーターを使うのが凄く簡単になりました。今までは自分でクエリパラメーターを取得するような処理を書かないといけなかったのですが、.NET 6 では基本的にこの機能で賄えるように...",
@@ -1146,75 +1160,6 @@
       "title": "3Blue1Brown",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYO_jab_esuFRV4b17AJtAw",
       "siteUrl": "https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw",
-      "articles": []
-    },
-    {
-      "title": "takminの書きっぱなし備忘録 @はてなブログ",
-      "feedUrl": "https://takmin.hatenablog.com/rss",
-      "siteUrl": "https://takmin.hatenablog.com/",
-      "articles": []
-    },
-    {
-      "title": "CV CG CP ML CMOS",
-      "feedUrl": "https://klb.hatenablog.com/rss",
-      "siteUrl": "https://klb.hatenablog.com/",
-      "articles": []
-    },
-    {
-      "title": "Taste of Tech Topics",
-      "feedUrl": "https://acro-engineer.hatenablog.com/rss",
-      "siteUrl": "https://acro-engineer.hatenablog.com/",
-      "articles": []
-    },
-    {
-      "title": "渋谷駅前で働くデータサイエンティストのブログ",
-      "feedUrl": "https://tjo.hatenablog.com/rss",
-      "siteUrl": "https://tjo.hatenablog.com/",
-      "articles": []
-    },
-    {
-      "title": "u++の備忘録",
-      "feedUrl": "https://upura.hatenablog.com/rss",
-      "siteUrl": "https://upura.hatenablog.com/",
-      "articles": []
-    },
-    {
-      "title": "kanayamaのブログ",
-      "feedUrl": "https://tepppei.hatenablog.com/rss",
-      "siteUrl": "https://tepppei.hatenablog.com/",
-      "articles": []
-    },
-    {
-      "title": "ちょーさんメモ出張版 気まぐれブログ",
-      "feedUrl": "https://cho-san.hatenablog.jp/rss",
-      "siteUrl": "https://cho-san.hatenablog.jp/",
-      "articles": [
-        {
-          "id": "hatenablog://entry/13574176438015560996",
-          "author": null,
-          "description": "第2回すうがく徒のつどいオンラインに参加しました。\n今回はなんと2枠講演させてもらいました。\n \n入門枠/一般枠について\n今回のつどいでは講演枠が入門枠と一般枠という2つの枠が用意されていました。入門枠は学部低回生や非数学科の人などの初級者向け、一般枠は数学専門院生等の上級者向けです。入門枠・一般枠それぞれ1枠ずつの計2枠講演を担当させていただきました。\n \n入門枠\n「合同条件が合同条件であることの証明」というタイトルで講演させていただきました。中学数学の話なので中学生向けです(嘘)。\n\n\n一般枠\n一般枠では「ホモトピーとかホモロジーとか」という講演をしました。特異ホモロジーをざっと定義して基本的な性質を証明する話です。\n\nこれは以前にこのブログでも上げたHurewiczの定理pdfの内容と同じものになります。\n\n\nつどい関係者や講演を聞きにきてくれた皆様、今回もありがとうございました。",
-          "link": "https://cho-san.hatenablog.jp/entry/2021/09/25/121107",
-          "publishedOn": "2021-09-25T03:11:07.000Z",
-          "wordCount": 75,
-          "title": "第2回すうがく徒のつどいオンラインに参加した",
-          "enclosure": {
-            "url": "https://cdn.blog.st-hatena.com/images/theme/og-image-1500.png",
-            "type": "image/png",
-            "length": "0"
-          }
-        }
-      ]
-    },
-    {
-      "title": "Jij Tech Blog",
-      "feedUrl": "https://jijtech.hatenablog.com/rss",
-      "siteUrl": "https://jijtech.hatenablog.com/",
-      "articles": []
-    },
-    {
-      "title": "tsujimotterのノートブック",
-      "feedUrl": "https://tsujimotter.hatenablog.com/rss",
-      "siteUrl": "https://tsujimotter.hatenablog.com/",
       "articles": []
     }
   ],
