@@ -27,11 +27,11 @@ sources:
   
   # 企業ブログ
   # - href: https://www.amazon.science/index.rss
-  - href: https://blogs.microsoft.com/ai?feed=rss2
+  # - href: https://blogs.microsoft.com/ai?feed=rss2
   # - href: https://deepmind.com/blog/feed/basic/
-  - href: https://research.fb.com/category/machine-learning/feed
-  - href: https://ai-research-collection.com/feed/
-  - href: https://www.ai-shift.co.jp/techblog/feed/
+  # - href: https://research.fb.com/category/machine-learning/feed
+  # - href: https://ai-research-collection.com/feed/
+  # - href: https://www.ai-shift.co.jp/techblog/feed/
 
   # はてなブログ
   - href: https://takmin.hatenablog.com/rss
@@ -45,14 +45,14 @@ sources:
   - href: https://tsujimotter.hatenablog.com/rss
 
   # getrevue 
-  - href: https://www.getrevue.co/profile/icoxfog417?format=rss
-  - href: https://www.getrevue.co/profile/akiratosei_ja?format=rss
+  # - href: https://www.getrevue.co/profile/icoxfog417?format=rss
+  # - href: https://www.getrevue.co/profile/akiratosei_ja?format=rss
 
   # Twitter
-  - href: https://nitter.net/DeNAxTech/rss
-  - href: https://nitter.net/manim_community/rss
-  - href: https://nitter.net/arxivtimes/rss
-  - href: https://nitter.net/OpenAI/rss
-  - href: https://nitter.net/ai_scholar/rss
+  # - href: https://nitter.net/DeNAxTech/rss
+  # - href: https://nitter.net/manim_community/rss
+  # - href: https://nitter.net/arxivtimes/rss
+  # - href: https://nitter.net/OpenAI/rss
+  # - href: https://nitter.net/ai_scholar/rss
 
 cacheMaxDays: 14
