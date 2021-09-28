@@ -2,10 +2,45 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://FuruNov.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-09-28T15:12:20.796Z</updated>
+    <updated>2021-09-28T21:08:53.025Z</updated>
     <generator>osmosfeed 1.11.2</generator>
     <link rel="alternate" href="https://FuruNov.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://FuruNov.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The science behind visual ID]]></title>
+        <id>https://www.amazon.science/blog/the-science-behind-visual-id</id>
+        <link href="https://www.amazon.science/blog/the-science-behind-visual-id"/>
+        <updated>2021-09-28T17:11:00.000Z</updated>
+        <summary type="html"><![CDATA[A new opt-in feature for Echo Show and Astro provides more-personalized content and experiences for customers who choose to enroll.]]></summary>
+        <author>
+            <name>Amazon Science Homepage</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Amazon is using self-service to democratize AI]]></title>
+        <id>https://www.amazon.science/blog/how-amazon-is-using-self-service-to-democratize-ai</id>
+        <link href="https://www.amazon.science/blog/how-amazon-is-using-self-service-to-democratize-ai"/>
+        <updated>2021-09-28T17:10:50.000Z</updated>
+        <summary type="html"><![CDATA[Preference teaching for Alexa, Alexa Custom Sound Event Detection, and Ring Custom Event Alerts let customers configure machine learning models.]]></summary>
+        <author>
+            <name>Amazon Science Homepage</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[phx_gen_authでAPIのトークン認証を実装してみた]]></title>
+        <id>https://qiita.com/the_haigo/items/a194afc7d859b4ef48e5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/the_haigo/items/a194afc7d859b4ef48e5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-09-28T15:10:42.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+
+本記事はPhoenix 1.6で組み込まれたアプリケーションに認証機能を追加するphx.gen.authを使用して、
+通常のユーザー認証とAPIのトークン認証を実装していきます
+
+本記事は…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[アセンブラをゼロから作って自作コンパイラをアセンブルするまで(日記)]]></title>
         <id>https://zenn.dev/dqneo/articles/012faee0b220fa</id>
@@ -18,6 +53,20 @@ https://github.com/DQNEO/goas
 アセンブラ自作は、やってみるとコンパイラ自作よりだいぶ簡単でハマりポイントも少ないので、学習テ...]]></summary>
         <author>
             <name>DQNEO</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Confluent Platformのデモを試してみる(ブローカー編)]]></title>
+        <id>https://qiita.com/Alex-hiro/items/9a9fbb66dbce685495c7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/Alex-hiro/items/9a9fbb66dbce685495c7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-09-28T05:54:04.000Z</updated>
+        <summary type="html"><![CDATA[概要
+
+今回は、第一回で構築したConfluentのクラスタを利用しConfluent Control Centerにログインしてブローカーの状態をGUIで確認してみたいと思います。
+
+Conflue…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
         </author>
     </entry>
     <entry>
@@ -89,6 +138,23 @@ Axross は、エンジニアの"教育"と"実務"のギャップに着目し、
 これは当時プログラミングスクール卒業したての頃、エンジニア採用面接でのお話
 
 面接官「えーそれではこのポートフォリオってO…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[初心者が１から始めるJava開発〜目次編〜]]></title>
+        <id>https://qiita.com/soepy/items/21b3dc89cb0f1d1a1d35?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/soepy/items/21b3dc89cb0f1d1a1d35?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-09-27T22:52:58.000Z</updated>
+        <summary type="html"><![CDATA[探すのがめんどくさくなってきそうなので、
+そろそろまとめ記事にしとこうと思って。。。。
+
+社内の一部の若手開発者向けに勉強会をした時の記事です。
+
+6回目以降はやってません（今は6回目までしかない）
+
+初…]]></summary>
         <author>
             <name>Qiita - 人気の記事</name>
         </author>
@@ -541,6 +607,21 @@ Chore: Dependency updates
 Thank you: @CaptNo1]]></summary>
         <author>
             <name>Release notes from osmosfeed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【AtCoder解説】PythonでABC220のA,B,C,D問題を制する！]]></title>
+        <id>https://qiita.com/u2dayo/items/f216b15091d7778a703b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/u2dayo/items/f216b15091d7778a703b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-09-26T15:45:17.000Z</updated>
+        <summary type="html"><![CDATA[ABC220のA,B,C,D問題を、Python3でなるべく丁寧に解説していきます。
+
+ただ解けるだけの方法ではなく、次の3つのポイントを満たす解法を解説することを目指しています。
+
+
+シンプル：余計なこ…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
         </author>
     </entry>
     <entry>

@@ -74,6 +74,24 @@
       "siteUrl": "https://qiita.com/popular-items",
       "articles": [
         {
+          "id": "https://qiita.com/the_haigo/items/a194afc7d859b4ef48e5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\n本記事はPhoenix 1.6で組み込まれたアプリケーションに認証機能を追加するphx.gen.authを使用して、\n通常のユーザー認証とAPIのトークン認証を実装していきます\n\n本記事は…",
+          "link": "https://qiita.com/the_haigo/items/a194afc7d859b4ef48e5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-09-28T15:10:42.000Z",
+          "wordCount": 389,
+          "title": "phx_gen_authでAPIのトークン認証を実装してみた"
+        },
+        {
+          "id": "https://qiita.com/Alex-hiro/items/9a9fbb66dbce685495c7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "概要\n\n今回は、第一回で構築したConfluentのクラスタを利用しConfluent Control Centerにログインしてブローカーの状態をGUIで確認してみたいと思います。\n\nConflue…",
+          "link": "https://qiita.com/Alex-hiro/items/9a9fbb66dbce685495c7?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-09-28T05:54:04.000Z",
+          "wordCount": 178,
+          "title": "Confluent Platformのデモを試してみる(ブローカー編)"
+        },
+        {
           "id": "https://qiita.com/kubot64/items/b6502066370946c77665?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "author": null,
           "description": "これは今からX年前にとある場所で本番環境のDBを間違ってドロップ（削除）した時の話です\n\nやらかした事\n\nこれはもうタイトル通りですね、本番環境のDBを間違えてドロップしてしまいました。\n\nやらかした原因\n\nこちらの方が皆さん気になると思いますが、当時の環境としては以下の通りです…",
@@ -99,6 +117,15 @@
           "publishedOn": "2021-09-27T22:55:30.000Z",
           "wordCount": 203,
           "title": "プログラミングスクール生のここがダメ(インフラ構成を理解していない)"
+        },
+        {
+          "id": "https://qiita.com/soepy/items/21b3dc89cb0f1d1a1d35?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "探すのがめんどくさくなってきそうなので、\nそろそろまとめ記事にしとこうと思って。。。。\n\n社内の一部の若手開発者向けに勉強会をした時の記事です。\n\n6回目以降はやってません（今は6回目までしかない）\n\n初…",
+          "link": "https://qiita.com/soepy/items/21b3dc89cb0f1d1a1d35?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-09-27T22:52:58.000Z",
+          "wordCount": 172,
+          "title": "初心者が１から始めるJava開発〜目次編〜"
         },
         {
           "id": "https://qiita.com/e99h2121/items/ef194c4fec579ec2c11c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -261,6 +288,15 @@
           "publishedOn": "2021-09-26T21:05:36.000Z",
           "wordCount": 282,
           "title": "エンジニアはどこまで好かれればよいのか - 嫌われる勇気と円満退職の極意"
+        },
+        {
+          "id": "https://qiita.com/u2dayo/items/f216b15091d7778a703b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "ABC220のA,B,C,D問題を、Python3でなるべく丁寧に解説していきます。\n\nただ解けるだけの方法ではなく、次の3つのポイントを満たす解法を解説することを目指しています。\n\n\nシンプル：余計なこ…",
+          "link": "https://qiita.com/u2dayo/items/f216b15091d7778a703b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-09-26T15:45:17.000Z",
+          "wordCount": 935,
+          "title": "【AtCoder解説】PythonでABC220のA,B,C,D問題を制する！"
         },
         {
           "id": "https://qiita.com/surapunoyousei/items/4d592b1137ceef1c30e3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -1366,6 +1402,24 @@
       "feedUrl": "https://www.amazon.science/index.rss",
       "siteUrl": "https://www.amazon.science/",
       "articles": [
+        {
+          "id": "https://www.amazon.science/blog/the-science-behind-visual-id",
+          "author": null,
+          "description": "A new opt-in feature for Echo Show and Astro provides more-personalized content and experiences for customers who choose to enroll.",
+          "link": "https://www.amazon.science/blog/the-science-behind-visual-id",
+          "publishedOn": "2021-09-28T17:11:00.000Z",
+          "wordCount": 8638,
+          "title": "The science behind visual ID"
+        },
+        {
+          "id": "https://www.amazon.science/blog/how-amazon-is-using-self-service-to-democratize-ai",
+          "author": null,
+          "description": "Preference teaching for Alexa, Alexa Custom Sound Event Detection, and Ring Custom Event Alerts let customers configure machine learning models.",
+          "link": "https://www.amazon.science/blog/how-amazon-is-using-self-service-to-democratize-ai",
+          "publishedOn": "2021-09-28T17:10:50.000Z",
+          "wordCount": 8727,
+          "title": "How Amazon is using self-service to democratize AI"
+        },
         {
           "id": "https://www.amazon.science/blog/data-on-correlated-products-and-sellers-helps-improve-demand-forecasting",
           "author": null,
