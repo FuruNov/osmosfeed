@@ -2,10 +2,166 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://FuruNov.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-09-27T15:13:05.952Z</updated>
+    <updated>2021-09-28T15:12:20.796Z</updated>
     <generator>osmosfeed 1.11.2</generator>
     <link rel="alternate" href="https://FuruNov.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://FuruNov.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[アセンブラをゼロから作って自作コンパイラをアセンブルするまで(日記)]]></title>
+        <id>https://zenn.dev/dqneo/articles/012faee0b220fa</id>
+        <link href="https://zenn.dev/dqneo/articles/012faee0b220fa"/>
+        <updated>2021-09-28T07:44:17.000Z</updated>
+        <summary type="html"><![CDATA[GNU Assembler互換(サブセット)のアセンブラをGo言語でフルスクラッチで作ってみました。
+https://github.com/DQNEO/goas
+開発22日目で自作Goコンパイラ(をセルフホストしたときに出力される20万行のアセンブリ)をアセンブルすることに成功しました。
+どうやって作ったかというと、小さいコードを GNU Assembler (以下 as) に食わせて出力されたバイナリを観察する、を繰り返して中のロジックを推定し再現しました。as の実装は見ていません。[1]
+アセンブラ自作は、やってみるとコンパイラ自作よりだいぶ簡単でハマりポイントも少ないので、学習テ...]]></summary>
+        <author>
+            <name>DQNEO</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[本番環境のDBを間違ってドロップした話]]></title>
+        <id>https://qiita.com/kubot64/items/b6502066370946c77665?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/kubot64/items/b6502066370946c77665?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-09-28T03:35:52.000Z</updated>
+        <summary type="html"><![CDATA[これは今からX年前にとある場所で本番環境のDBを間違ってドロップ（削除）した時の話です
+
+やらかした事
+
+これはもうタイトル通りですね、本番環境のDBを間違えてドロップしてしまいました。
+
+やらかした原因
+
+こちらの方が皆さん気になると思いますが、当時の環境としては以下の通りです…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS CLF、SAA、SOA、DVA4冠までの道のり]]></title>
+        <id>https://zenn.dev/mn87/articles/0b8b6d8bf49249</id>
+        <link href="https://zenn.dev/mn87/articles/0b8b6d8bf49249"/>
+        <updated>2021-09-28T02:47:52.000Z</updated>
+        <summary type="html"><![CDATA[先日DVAに合格したことで、今年の目標であった4冠を達成することができました。
+そこで、今回は振り返りとして、4冠までの勉強法などをまとめてみました。
+※受験規約により、出題された問題の詳細は記載できませんので、ご注意ください。
+
+ 概要
+
+AWS使用歴：約2年(業務 + プライベート)
+4冠までの期間：約1年
+受験順：CLF → SAA → SOA → DVA
+2020.10.2 CLF：869点
+2021.2.22 SAA：802点
+2021.6.28 SOA：872点
+2021.9.17 DVA：937点
+受験方法：ピアソンVUEオンライン試験で自宅受験
+OSはWindows10
+...]]></summary>
+        <author>
+            <name>mn87</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pythonによる統計分析を応用した実践レシピ 20本ノック]]></title>
+        <id>https://qiita.com/Axross_SBiv/items/e33bc1273fa744e2a3fc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/Axross_SBiv/items/e33bc1273fa744e2a3fc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-09-27T23:22:04.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+
+Axrossの広報を担当している松田です。
+
+Axross は、エンジニアの"教育"と"実務"のギャップに着目し、「学んだが活用できない人を減らしたい」という想いで、ソフトバンク社内起業制…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[プログラミングスクール生のここがダメ(インフラ構成を理解していない)]]></title>
+        <id>https://qiita.com/mokio/items/74fd5da9e7798604fc9d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/mokio/items/74fd5da9e7798604fc9d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-09-27T22:55:30.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+
+どうも、27歳未経験からエンジニア転職を目指しているもきおです。
+
+これは当時プログラミングスクール卒業したての頃、エンジニア採用面接でのお話
+
+面接官「えーそれではこのポートフォリオってO…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ECMAScript Modules  が動く場所での最小構成フロントエンド]]></title>
+        <id>https://zenn.dev/sosukesuzuki/articles/077ee084b7a623</id>
+        <link href="https://zenn.dev/sosukesuzuki/articles/077ee084b7a623"/>
+        <updated>2021-09-27T21:42:31.000Z</updated>
+        <summary type="html"><![CDATA[ECMAScript Modules が直接動く環境でしか使われないアプリケーション(自分用便利ツールとか)のフロントエンドなら、モジュールバンドラーは要らないじゃんという構成。
+なんとびっくり書いたコードがそのままブラウザで動いてすごい。
+
+ 作ったもの
+２つのテキストの差分を見せてくれるやつ。
+
+https://sosuke-diff-editor.netlify.app/
+https://github.com/sosukesuzuki/diff-editor
+
+
+ 使った技術
+
+
+preact
+
+サイズが小さい & UI が宣言的に書ける & 状態管理がいい感じ
+
+...]]></summary>
+        <author>
+            <name>Sosuke Suzuki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[なぜ「ネ申Excel」は無くならないのか]]></title>
+        <id>https://qiita.com/e99h2121/items/ef194c4fec579ec2c11c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/e99h2121/items/ef194c4fec579ec2c11c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-09-27T21:19:30.000Z</updated>
+        <summary type="html"><![CDATA[少し古い記事だが以下のような話題がある。業務アプリ開発者としては、意外と設計に色々な登場人物の考慮が必要な題材だと感じたのでまとめたもの。
+
+https://xtech.nikkei.com/it/a…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[.NET 6 の Blazor で追加された <head> タグの中を変更する機能の紹介]]></title>
+        <id>https://zenn.dev/okazuki/articles/blazor-dotnet6-headoutlet</id>
+        <link href="https://zenn.dev/okazuki/articles/blazor-dotnet6-headoutlet"/>
+        <updated>2021-09-27T14:22:22.000Z</updated>
+        <summary type="html"><![CDATA[今日も .NET 6 の ASP.NET Core Blazor WebAssembly の機能紹介をしたいと思います。
+昨日はクエリパラメーターとコンポーネントのプロパティを簡単に紐づける機能の紹介でした。
+https://zenn.dev/okazuki/articles/blazor-wasm-rc1-queryparam
+こういう細かいところの使い勝手向上系は割と好きです。今日紹介するのもそういう系になります。
+
+ <head> タグの中をページごとに変える
+タイトル通りのことが出来るようになりました。Blazor では JavaScript との相互運用機能とかもあ...]]></summary>
+        <author>
+            <name>Kazuki Ota</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[docker-composeで建てたjenkinsがお亡くなりになった時の蘇生術]]></title>
+        <id>https://qiita.com/newcastle/items/3718fad932aa579b7581?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/newcastle/items/3718fad932aa579b7581?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-09-27T13:13:33.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+
+この記事はdocker-composeで建てたjenkins(master)とslaveのうち、片方が突然の死を迎えた際に使った蘇生術の備忘録です。
+
+docker-composeでjen…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Data on correlated products and sellers helps improve demand forecasting]]></title>
         <id>https://www.amazon.science/blog/data-on-correlated-products-and-sellers-helps-improve-demand-forecasting</id>
@@ -14,6 +170,169 @@
         <summary type="html"><![CDATA[Graph-based models capture correlations efficiently enough to enable machine learning at scale.]]></summary>
         <author>
             <name>Amazon Science Homepage</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[エンジニアにオススメのポエムまとめ（現役・未経験問わず）]]></title>
+        <id>https://qiita.com/shimotaroo/items/9ed37626f1531554be83?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/shimotaroo/items/9ed37626f1531554be83?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-09-27T13:06:53.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+
+個人的にオススメなエンジニア向けポエムを集めてみました。
+
+（著者は2020年4月に異業種からエンジニアに転職した者です）
+
+一部上場企業のトップエンジニアから教わった『エンジニアの心構え』
+
+https://qiita.com/Cocot-RH/items/967ba54f2198789dbd1…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Yarn Berryについて調べてみました。]]></title>
+        <id>https://qiita.com/junwoo/items/a22dbfdca1f51d26906b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/junwoo/items/a22dbfdca1f51d26906b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-09-27T12:46:04.000Z</updated>
+        <summary type="html"><![CDATA[Yarn Berryとは？
+
+Yarn BerryとはNode.jsの新しいパッケージ管理システムで、Yarn V1の主なエンジニアであるMäl Nisonさん開発しました。2020年１月から正式…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KPT アンチパターン 〜失敗事例紹介〜]]></title>
+        <id>https://qiita.com/kubot64/items/3a9f6fdf0580eda6ecbc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/kubot64/items/3a9f6fdf0580eda6ecbc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-09-27T11:32:47.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+
+KPT (Keep/Problem/Try) 等のふりかえりで、K (Keep) ネタを増やすみんなの工夫 というのを見て「あるある」と思ったので、KPTをやってみてこれはよくなかったと…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Laravel】動的プロパティとリレーションメソッド。そしてN+1問題を真剣に調べてみた]]></title>
+        <id>https://qiita.com/179Bell/items/7b4f991816f63946e738?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/179Bell/items/7b4f991816f63946e738?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-09-27T10:51:58.000Z</updated>
+        <summary type="html"><![CDATA[はじめに
+
+PFを作るときにリレーションのデータを取得する方法に苦しんだことと、よく聞くN+1問題について概念程度しか知らなかったので一度しっかり学んでおこうと思い調べまとめてみました。
+
+結論まとめ
+
+$user->posts();はリレーションオブジェクトでクエリビルダが使え…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Rome】RomeはJavaScriptをやめてRustにするってよ]]></title>
+        <id>https://qiita.com/rana_kualu/items/dcadf11b3e97db1dded6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/rana_kualu/items/dcadf11b3e97db1dded6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-09-27T10:32:16.000Z</updated>
+        <summary type="html"><![CDATA[RomeはLinterでありCompilerでありBundlerでありFormatterでありTesterでありMinifierであり……
+ともかく、フロントエンドの統合ツールチェーンです。
+これま…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10年後のために今勉強なんてしたくないのだ]]></title>
+        <id>https://qiita.com/rana_kualu/items/c7c3ccbbcd19f5af471b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/rana_kualu/items/c7c3ccbbcd19f5af471b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-09-27T10:31:53.000Z</updated>
+        <summary type="html"><![CDATA[明日のための勉強もしたくないでござる。
+
+毎日ぐったりして不労所得でだらだら生きていきたいでござる。]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[画像の最適化のTips集]]></title>
+        <id>https://zenn.dev/kanoi/articles/1e3bbde7df03f1</id>
+        <link href="https://zenn.dev/kanoi/articles/1e3bbde7df03f1"/>
+        <updated>2021-09-27T10:20:22.000Z</updated>
+        <summary type="html"><![CDATA[画像の最適化する方法を色々とまとめました。
+パフォーマンスに関して特に詳しいというわけではないので、これはそうじゃないよ！！やもっといい方法あるよ！！などがありましたら、コメントで教えてください！！
+
+ 画像の最適化の目的
+そもそもなぜ、画像を最適化する必要があるのでしょうか？
+それは、基本的にはサイトのパフォーマンスを向上させるためでしょう。
+ここでいう、パフォーマンスの向上とは、ページ読み込み速度やレンダリング速度、ユーザーによる操作に対する反応速度などのサイトの速度を速くすること、です。
+なぜ、このパフォーマンスを向上させることが重要なのかは、以下の記事に詳しく書いてあるので一部抜...]]></summary>
+        <author>
+            <name>カノイ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[自動で多種多様な質問を生成できるオープンソースライブラリ「Questgen」を試してみる。]]></title>
+        <id>https://qiita.com/BuniBuni/items/546e86a2531fcea86eb3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/BuniBuni/items/546e86a2531fcea86eb3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-09-27T09:33:36.000Z</updated>
+        <summary type="html"><![CDATA[1. 概要
+
+自動で作問ができる方法をインターネットで調べていたところ、「Questgen」というオープンソースライブラリを見つけました。
+
+【参照記事】
+・Questgen - An open so…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[atcoderで入緑したのでやったことをまとめる]]></title>
+        <id>https://qiita.com/koriori/items/001e85e790ed8e9fd43b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/koriori/items/001e85e790ed8e9fd43b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-09-27T09:10:55.000Z</updated>
+        <summary type="html"><![CDATA[自分はpython3(PyPy)を主に使用して競技プログラミングをしています。またAtcoderClans等の拡張機能はGoogle ChromeのTamper Monkeyを用いております。
+
+1年…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022～2030年に学ぶべき未来のプログラミング言語3選]]></title>
+        <id>https://qiita.com/baby-degu/items/f9e588516441f8de90ac?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/baby-degu/items/f9e588516441f8de90ac?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-09-27T09:06:48.000Z</updated>
+        <summary type="html"><![CDATA[本記事は、Eddy Goh氏による「3 Future Programming Languages You Should Learn Between 2022 and 2030」（2021年7月13日…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Go言語が成功した理由]]></title>
+        <id>https://zenn.dev/takehiro0740/articles/b5ef4fc26e9ba6</id>
+        <link href="https://zenn.dev/takehiro0740/articles/b5ef4fc26e9ba6"/>
+        <updated>2021-09-27T06:47:19.000Z</updated>
+        <summary type="html"><![CDATA[Go言語の作者であるRob Pike氏が「Go言語が成功した理由は何なのか？」というタイトルで2015年に発表をしてる動画を見つけたので、雑に和訳してみたいと思う
+ちなみに最近Go言語の好き嫌いに関する記事がいくつかバズっており、それに乗っかってるというのは言うまでもない
+
+Go言語を嫌う6個の理由
+Go言語が好きな理由
+
+
+ 良く挙げられる成功要因
+Pike氏は以下がよく理由として挙げられると述べている
+
+コンパイルの速さ
+実行の速さ
+デプロイの容易性
+ツール
+ライブラリ
+
+しかしこれらは全て表面的であって、本質的な理由ではないとも述べている
+ではGo言語が成功に至った本質的な理由とは...]]></summary>
+        <author>
+            <name>Takehiro Adachi</name>
         </author>
     </entry>
     <entry>
@@ -35,6 +354,18 @@ https://github.com/huggingface/accelerate
      ...]]></summary>
         <author>
             <name>AwesomeSpaghetti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PyTorch to JAX 移行ガイド（MLP学習編）]]></title>
+        <id>https://zenn.dev/jellied_unagi/articles/d986044a425e94</id>
+        <link href="https://zenn.dev/jellied_unagi/articles/d986044a425e94"/>
+        <updated>2021-09-27T05:41:49.000Z</updated>
+        <summary type="html"><![CDATA[背景
+「JAX最高」「GoogleではみんなJAXやってる」などと巷で言われているが、研の活動をやってると、比較手法がPyTorchで提供されていたり、ちょっと特殊な損失関数とかを使わないといけなかったり、あとはネットワーク魔改造をしたくなったりと、「とりあえずまずはPyTorchでやっとくか…」と思わせる要素がたくさんあり、PyTorchから抜け出せずにいた。
+ムムッでもこれは2013年ごろを思い出す…その頃自分はとにかくMatlabで全部書いてて、なかなかPythonに移行出来ずにいた。そんななか「飯の種ネタをPythonで書き始めれば、Pythonできない→成果が出ない→死」な...]]></summary>
+        <author>
+            <name>jellied_unagi</name>
         </author>
     </entry>
     <entry>
@@ -588,6 +919,21 @@ https://devblogs.microsoft.com/aspnet/asp-net-core-updates-in-net-6-rc-1/
 Blazor のコンポーネントで URL のクエリ パラメーターを使うのが凄く簡単になりました。今までは自分でクエリパラメーターを取得するような処理を書かないといけなかったのですが、.NET 6 では基本的にこの機能で賄えるように...]]></summary>
         <author>
             <name>Kazuki Ota</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[tweetから肌荒れに関するニーズを読み取る]]></title>
+        <id>https://qiita.com/gaeulyy/items/6178ca3666ad6ffc7506?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/gaeulyy/items/6178ca3666ad6ffc7506?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-09-26T04:04:23.000Z</updated>
+        <summary type="html"><![CDATA[三行要約
+
+・肌荒れに関するニーズを可視化するコードを書きました。
+・「肌荒れ」に関するtweetを元データとしました。
+・おまけで、日本語だけではなく、英語圏のツイートからもニーズを拾ってみました。
+…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
         </author>
     </entry>
     <entry>
@@ -1541,6 +1887,23 @@ Weekly Machine Learningは機械学習の開発者・研究者を応援するメ
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[エンジニア未経験が企業のモニタリング体制を構築した話👀]]></title>
+        <id>https://qiita.com/hirokun0204/items/e170d51a0a1b748cfda1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+        <link href="https://qiita.com/hirokun0204/items/e170d51a0a1b748cfda1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
+        <updated>2021-09-17T17:11:34.000Z</updated>
+        <summary type="html"><![CDATA[え、何したの？
+
+運用中のサービスに対するデータのモニタリング体制を構築して欲しいという実務課題を解決しました。
+
+具体的には、、、
+
+
+運用中のWebサービスのデータ分析環境が整っておらず、KPIモニタ…]]></summary>
+        <author>
+            <name>Qiita - 人気の記事</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[未経験から実案件やったら見事に苦労した件〜実務案件体験記〜]]></title>
         <id>https://qiita.com/mokio/items/e19f90b126a1027cfec0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
         <link href="https://qiita.com/mokio/items/e19f90b126a1027cfec0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items"/>
@@ -1672,67 +2035,6 @@ Pyhton 3.9.6
        ...]]></summary>
         <author>
             <name>nek0n0mimi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【機械学習】教師あり学習、教師なし学習等(備忘録)]]></title>
-        <id>https://zenn.dev/supersatton/articles/8958ee82d5cafe</id>
-        <link href="https://zenn.dev/supersatton/articles/8958ee82d5cafe"/>
-        <updated>2021-09-15T02:25:56.000Z</updated>
-        <summary type="html"><![CDATA[はじめに
-応用情報技術者の問題を解く上で、「教師あり学習」「教師なし学習」等の用語が登場したが、覚えづらかったため記事にアウトプットします。
-
- それぞれの用語について
-
- 教師あり学習
-訓練データとして、ラベル(正解)付きデータを使用する学習方法。
-入力に対する正しい出力の例を与えることで、入力と出力の関係を学習させる。
-代表的なものは、分類と回帰になります。
-
-
-
-項目
-内容
-具体例
-
-
-
-
-回帰
-連続する数値を予測するもの
-以下を予測し、将来のお弁当の販売個数を予測する。・平均気温や天候等のデータ・お弁当の販売個数
-
-
-分類
-あるデータがどのクラスに属するかを予測するもの
-迷惑...]]></summary>
-        <author>
-            <name>さっとん</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[deno で機械学習]]></title>
-        <id>https://zenn.dev/mattn/articles/9fbbab42308f96</id>
-        <link href="https://zenn.dev/mattn/articles/9fbbab42308f96"/>
-        <updated>2021-09-15T02:02:14.000Z</updated>
-        <summary type="html"><![CDATA[はじめに
-最近、deno が面白くなり始めています。deno はコマンドラインバイナリを1つインストールすれば、import によりパッケージの読み込みはインターネットからダウンロードしてキャッシュされ、開発者が package.json を書く事もなく、とてもお手軽に TypeScript を書くことができます。
-もし、機械学習をやりたいとして、事前準備(npm でインストールしたり、conda/pip 等で依存物をインストールしたり)が大幅に削減できるなら、とても便利だと思いませんか？
-
- deno で機械学習
-deno で機械学習と聞くと tensorflow.js を使いたく...]]></summary>
-        <author>
-            <name>mattn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Estimating causality from data: How one Amazon intern used data to make an impact]]></title>
-        <id>https://www.amazon.science/working-at-amazon/estimating-causality-from-data-how-one-amazon-intern-used-data-to-make-an-impact</id>
-        <link href="https://www.amazon.science/working-at-amazon/estimating-causality-from-data-how-one-amazon-intern-used-data-to-make-an-impact"/>
-        <updated>2021-09-14T13:34:32.000Z</updated>
-        <summary type="html"><![CDATA[Oritseweyinmi Henry Ajagbawa utilized causal inference to help examine the interaction between changes in marketing content and Amazon customer behavior.]]></summary>
-        <author>
-            <name>Amazon Science Homepage</name>
         </author>
     </entry>
 </feed>

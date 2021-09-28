@@ -74,6 +74,132 @@
       "siteUrl": "https://qiita.com/popular-items",
       "articles": [
         {
+          "id": "https://qiita.com/kubot64/items/b6502066370946c77665?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "これは今からX年前にとある場所で本番環境のDBを間違ってドロップ（削除）した時の話です\n\nやらかした事\n\nこれはもうタイトル通りですね、本番環境のDBを間違えてドロップしてしまいました。\n\nやらかした原因\n\nこちらの方が皆さん気になると思いますが、当時の環境としては以下の通りです…",
+          "link": "https://qiita.com/kubot64/items/b6502066370946c77665?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-09-28T03:35:52.000Z",
+          "wordCount": 175,
+          "title": "本番環境のDBを間違ってドロップした話"
+        },
+        {
+          "id": "https://qiita.com/Axross_SBiv/items/e33bc1273fa744e2a3fc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\nAxrossの広報を担当している松田です。\n\nAxross は、エンジニアの\"教育\"と\"実務\"のギャップに着目し、「学んだが活用できない人を減らしたい」という想いで、ソフトバンク社内起業制…",
+          "link": "https://qiita.com/Axross_SBiv/items/e33bc1273fa744e2a3fc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-09-27T23:22:04.000Z",
+          "wordCount": 329,
+          "title": "Pythonによる統計分析を応用した実践レシピ 20本ノック"
+        },
+        {
+          "id": "https://qiita.com/mokio/items/74fd5da9e7798604fc9d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\nどうも、27歳未経験からエンジニア転職を目指しているもきおです。\n\nこれは当時プログラミングスクール卒業したての頃、エンジニア採用面接でのお話\n\n面接官「えーそれではこのポートフォリオってO…",
+          "link": "https://qiita.com/mokio/items/74fd5da9e7798604fc9d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-09-27T22:55:30.000Z",
+          "wordCount": 203,
+          "title": "プログラミングスクール生のここがダメ(インフラ構成を理解していない)"
+        },
+        {
+          "id": "https://qiita.com/e99h2121/items/ef194c4fec579ec2c11c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "少し古い記事だが以下のような話題がある。業務アプリ開発者としては、意外と設計に色々な登場人物の考慮が必要な題材だと感じたのでまとめたもの。\n\nhttps://xtech.nikkei.com/it/a…",
+          "link": "https://qiita.com/e99h2121/items/ef194c4fec579ec2c11c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-09-27T21:19:30.000Z",
+          "wordCount": 205,
+          "title": "なぜ「ネ申Excel」は無くならないのか"
+        },
+        {
+          "id": "https://qiita.com/newcastle/items/3718fad932aa579b7581?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\nこの記事はdocker-composeで建てたjenkins(master)とslaveのうち、片方が突然の死を迎えた際に使った蘇生術の備忘録です。\n\ndocker-composeでjen…",
+          "link": "https://qiita.com/newcastle/items/3718fad932aa579b7581?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-09-27T13:13:33.000Z",
+          "wordCount": 391,
+          "title": "docker-composeで建てたjenkinsがお亡くなりになった時の蘇生術"
+        },
+        {
+          "id": "https://qiita.com/shimotaroo/items/9ed37626f1531554be83?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\n個人的にオススメなエンジニア向けポエムを集めてみました。\n\n（著者は2020年4月に異業種からエンジニアに転職した者です）\n\n一部上場企業のトップエンジニアから教わった『エンジニアの心構え』\n\nhttps://qiita.com/Cocot-RH/items/967ba54f2198789dbd1…",
+          "link": "https://qiita.com/shimotaroo/items/9ed37626f1531554be83?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-09-27T13:06:53.000Z",
+          "wordCount": 167,
+          "title": "エンジニアにオススメのポエムまとめ（現役・未経験問わず）"
+        },
+        {
+          "id": "https://qiita.com/junwoo/items/a22dbfdca1f51d26906b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "Yarn Berryとは？\n\nYarn BerryとはNode.jsの新しいパッケージ管理システムで、Yarn V1の主なエンジニアであるMäl Nisonさん開発しました。2020年１月から正式…",
+          "link": "https://qiita.com/junwoo/items/a22dbfdca1f51d26906b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-09-27T12:46:04.000Z",
+          "wordCount": 316,
+          "title": "Yarn Berryについて調べてみました。"
+        },
+        {
+          "id": "https://qiita.com/kubot64/items/3a9f6fdf0580eda6ecbc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\nKPT (Keep/Problem/Try) 等のふりかえりで、K (Keep) ネタを増やすみんなの工夫 というのを見て「あるある」と思ったので、KPTをやってみてこれはよくなかったと…",
+          "link": "https://qiita.com/kubot64/items/3a9f6fdf0580eda6ecbc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-09-27T11:32:47.000Z",
+          "wordCount": 220,
+          "title": "KPT アンチパターン 〜失敗事例紹介〜"
+        },
+        {
+          "id": "https://qiita.com/179Bell/items/7b4f991816f63946e738?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "はじめに\n\nPFを作るときにリレーションのデータを取得する方法に苦しんだことと、よく聞くN+1問題について概念程度しか知らなかったので一度しっかり学んでおこうと思い調べまとめてみました。\n\n結論まとめ\n\n$user->posts();はリレーションオブジェクトでクエリビルダが使え…",
+          "link": "https://qiita.com/179Bell/items/7b4f991816f63946e738?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-09-27T10:51:58.000Z",
+          "wordCount": 663,
+          "title": "【Laravel】動的プロパティとリレーションメソッド。そしてN+1問題を真剣に調べてみた"
+        },
+        {
+          "id": "https://qiita.com/rana_kualu/items/dcadf11b3e97db1dded6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "RomeはLinterでありCompilerでありBundlerでありFormatterでありTesterでありMinifierであり……\nともかく、フロントエンドの統合ツールチェーンです。\nこれま…",
+          "link": "https://qiita.com/rana_kualu/items/dcadf11b3e97db1dded6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-09-27T10:32:16.000Z",
+          "wordCount": 596,
+          "title": "【Rome】RomeはJavaScriptをやめてRustにするってよ"
+        },
+        {
+          "id": "https://qiita.com/rana_kualu/items/c7c3ccbbcd19f5af471b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "明日のための勉強もしたくないでござる。\n\n毎日ぐったりして不労所得でだらだら生きていきたいでござる。",
+          "link": "https://qiita.com/rana_kualu/items/c7c3ccbbcd19f5af471b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-09-27T10:31:53.000Z",
+          "wordCount": 160,
+          "title": "10年後のために今勉強なんてしたくないのだ"
+        },
+        {
+          "id": "https://qiita.com/BuniBuni/items/546e86a2531fcea86eb3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "1. 概要\n\n自動で作問ができる方法をインターネットで調べていたところ、「Questgen」というオープンソースライブラリを見つけました。\n\n【参照記事】\n・Questgen - An open so…",
+          "link": "https://qiita.com/BuniBuni/items/546e86a2531fcea86eb3?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-09-27T09:33:36.000Z",
+          "wordCount": 1525,
+          "title": "自動で多種多様な質問を生成できるオープンソースライブラリ「Questgen」を試してみる。"
+        },
+        {
+          "id": "https://qiita.com/koriori/items/001e85e790ed8e9fd43b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "自分はpython3(PyPy)を主に使用して競技プログラミングをしています。またAtcoderClans等の拡張機能はGoogle ChromeのTamper Monkeyを用いております。\n\n1年…",
+          "link": "https://qiita.com/koriori/items/001e85e790ed8e9fd43b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-09-27T09:10:55.000Z",
+          "wordCount": 362,
+          "title": "atcoderで入緑したのでやったことをまとめる"
+        },
+        {
+          "id": "https://qiita.com/baby-degu/items/f9e588516441f8de90ac?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "本記事は、Eddy Goh氏による「3 Future Programming Languages You Should Learn Between 2022 and 2030」（2021年7月13日…",
+          "link": "https://qiita.com/baby-degu/items/f9e588516441f8de90ac?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-09-27T09:06:48.000Z",
+          "wordCount": 278,
+          "title": "2022～2030年に学ぶべき未来のプログラミング言語3選"
+        },
+        {
           "id": "https://qiita.com/anan-k/items/93d0f22f23aaa5b042ab?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "author": null,
           "description": "はじめに\n\n株式会社Speeeでの12日間のエンジニアインターンシップで学んだことを書きます。技術的なことではなく、何かを成し遂げるにあたって意識するといいことについてです。\n\nインターンシップの概要…",
@@ -207,6 +333,15 @@
           "publishedOn": "2021-09-26T04:29:26.000Z",
           "wordCount": null,
           "title": "[QUIC]iOS15でNetwork.frameworkにNWProtocolQUICが来たのでquic-goと双方向ストリーム"
+        },
+        {
+          "id": "https://qiita.com/gaeulyy/items/6178ca3666ad6ffc7506?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "三行要約\n\n・肌荒れに関するニーズを可視化するコードを書きました。\n・「肌荒れ」に関するtweetを元データとしました。\n・おまけで、日本語だけではなく、英語圏のツイートからもニーズを拾ってみました。\n…",
+          "link": "https://qiita.com/gaeulyy/items/6178ca3666ad6ffc7506?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-09-26T04:04:23.000Z",
+          "wordCount": 974,
+          "title": "tweetから肌荒れに関するニーズを読み取る"
         },
         {
           "id": "https://qiita.com/matsujirushi/items/ff55ee0ff134fdae72be?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
@@ -425,6 +560,15 @@
           "title": "【論文紹介】統計学の過去50年における最も重要なアイディアとは？"
         },
         {
+          "id": "https://qiita.com/hirokun0204/items/e170d51a0a1b748cfda1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "author": null,
+          "description": "え、何したの？\n\n運用中のサービスに対するデータのモニタリング体制を構築して欲しいという実務課題を解決しました。\n\n具体的には、、、\n\n\n運用中のWebサービスのデータ分析環境が整っておらず、KPIモニタ…",
+          "link": "https://qiita.com/hirokun0204/items/e170d51a0a1b748cfda1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+          "publishedOn": "2021-09-17T17:11:34.000Z",
+          "wordCount": 595,
+          "title": "エンジニア未経験が企業のモニタリング体制を構築した話👀"
+        },
+        {
           "id": "https://qiita.com/mokio/items/e19f90b126a1027cfec0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
           "author": null,
           "description": "はじめに\n\nこんにちは、未経験からエンジニア転職を目指している27歳です。\nエンジニア転職を目指す際、ふと「未経験とプロのエンジニアの違いってなんだ？」と思ったことはないでしょうか？私もそのうちの1…",
@@ -440,6 +584,104 @@
       "feedUrl": "https://zenn.dev/feed",
       "siteUrl": "https://zenn.dev",
       "articles": [
+        {
+          "id": "https://zenn.dev/dqneo/articles/012faee0b220fa",
+          "author": "DQNEO",
+          "description": "GNU Assembler互換(サブセット)のアセンブラをGo言語でフルスクラッチで作ってみました。\nhttps://github.com/DQNEO/goas\n開発22日目で自作Goコンパイラ(をセルフホストしたときに出力される20万行のアセンブリ)をアセンブルすることに成功しました。\nどうやって作ったかというと、小さいコードを GNU Assembler (以下 as) に食わせて出力されたバイナリを観察する、を繰り返して中のロジックを推定し再現しました。as の実装は見ていません。[1]\nアセンブラ自作は、やってみるとコンパイラ自作よりだいぶ簡単でハマりポイントも少ないので、学習テ...",
+          "link": "https://zenn.dev/dqneo/articles/012faee0b220fa",
+          "publishedOn": "2021-09-28T07:44:17.000Z",
+          "wordCount": 572,
+          "title": "アセンブラをゼロから作って自作コンパイラをアセンブルするまで(日記)",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--xg2kqBv2--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:DQNEO%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_70_bold:%25E3%2582%25A2%25E3%2582%25BB%25E3%2583%25B3%25E3%2583%2596%25E3%2583%25A9%25E3%2582%2592%25E3%2582%25BC%25E3%2583%25AD%25E3%2581%258B%25E3%2582%2589%25E4%25BD%259C%25E3%2581%25A3%25E3%2581%25A6%25E8%2587%25AA%25E4%25BD%259C%25E3%2582%25B3%25E3%2583%25B3%25E3%2583%2591%25E3%2582%25A4%25E3%2583%25A9%25E3%2582%2592%25E3%2582%25A2%25E3%2582%25BB%25E3%2583%25B3%25E3%2583%2596%25E3%2583%25AB%25E3%2581%2599%25E3%2582%258B%25E3%2581%25BE%25E3%2581%25A7%2528%25E6%2597%25A5%25E8%25A8%2598%2529%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2ljb25fYjNkY2RmNWFkZS5qcGVn%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1627274783/default/og-base_z4sxah.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://zenn.dev/mn87/articles/0b8b6d8bf49249",
+          "author": "mn87",
+          "description": "先日DVAに合格したことで、今年の目標であった4冠を達成することができました。\nそこで、今回は振り返りとして、4冠までの勉強法などをまとめてみました。\n※受験規約により、出題された問題の詳細は記載できませんので、ご注意ください。\n\n 概要\n\nAWS使用歴：約2年(業務 + プライベート)\n4冠までの期間：約1年\n受験順：CLF → SAA → SOA → DVA\n2020.10.2 CLF：869点\n2021.2.22 SAA：802点\n2021.6.28 SOA：872点\n2021.9.17 DVA：937点\n受験方法：ピアソンVUEオンライン試験で自宅受験\nOSはWindows10\n...",
+          "link": "https://zenn.dev/mn87/articles/0b8b6d8bf49249",
+          "publishedOn": "2021-09-28T02:47:52.000Z",
+          "wordCount": 294,
+          "title": "AWS CLF、SAA、SOA、DVA4冠までの道のり",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--kJPQzvVs--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:mn87%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_70_bold:AWS%2520CLF%25E3%2580%2581SAA%25E3%2580%2581SOA%25E3%2580%2581DVA4%25E5%2586%25A0%25E3%2581%25BE%25E3%2581%25A7%25E3%2581%25AE%25E9%2581%2593%25E3%2581%25AE%25E3%2582%258A%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2ljb25fMDI2ZTE3NzI4Yi5qcGVn%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1627274783/default/og-base_z4sxah.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://zenn.dev/sosukesuzuki/articles/077ee084b7a623",
+          "author": "Sosuke Suzuki",
+          "description": "ECMAScript Modules が直接動く環境でしか使われないアプリケーション(自分用便利ツールとか)のフロントエンドなら、モジュールバンドラーは要らないじゃんという構成。\nなんとびっくり書いたコードがそのままブラウザで動いてすごい。\n\n 作ったもの\n２つのテキストの差分を見せてくれるやつ。\n\nhttps://sosuke-diff-editor.netlify.app/\nhttps://github.com/sosukesuzuki/diff-editor\n\n\n 使った技術\n\n\npreact\n\nサイズが小さい & UI が宣言的に書ける & 状態管理がいい感じ\n\n...",
+          "link": "https://zenn.dev/sosukesuzuki/articles/077ee084b7a623",
+          "publishedOn": "2021-09-27T21:42:31.000Z",
+          "wordCount": 136,
+          "title": "ECMAScript Modules  が動く場所での最小構成フロントエンド",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--CGlce8zv--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:Sosuke%2520Suzuki%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_70_bold:ECMAScript%2520Modules%2520%2520%25E3%2581%258C%25E5%258B%2595%25E3%2581%258F%25E5%25A0%25B4%25E6%2589%2580%25E3%2581%25A7%25E3%2581%25AE%25E6%259C%2580%25E5%25B0%258F%25E6%25A7%258B%25E6%2588%2590%25E3%2583%2595%25E3%2583%25AD%25E3%2583%25B3%25E3%2583%2588%25E3%2582%25A8%25E3%2583%25B3%25E3%2583%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2kzVm5WZHo2MC1CT3lMTS1VVnZaNmdNSDJlTlp1T0lTa1owT3lyNnc9czgwLWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1627274783/default/og-base_z4sxah.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://zenn.dev/okazuki/articles/blazor-dotnet6-headoutlet",
+          "author": "Kazuki Ota",
+          "description": "今日も .NET 6 の ASP.NET Core Blazor WebAssembly の機能紹介をしたいと思います。\n昨日はクエリパラメーターとコンポーネントのプロパティを簡単に紐づける機能の紹介でした。\nhttps://zenn.dev/okazuki/articles/blazor-wasm-rc1-queryparam\nこういう細かいところの使い勝手向上系は割と好きです。今日紹介するのもそういう系になります。\n\n <head> タグの中をページごとに変える\nタイトル通りのことが出来るようになりました。Blazor では JavaScript との相互運用機能とかもあ...",
+          "link": "https://zenn.dev/okazuki/articles/blazor-dotnet6-headoutlet",
+          "publishedOn": "2021-09-27T14:22:22.000Z",
+          "wordCount": 194,
+          "title": ".NET 6 の Blazor で追加された <head> タグの中を変更する機能の紹介",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--9mKu6c2J--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:Kazuki%2520Ota%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_65_bold:.NET%25206%2520%25E3%2581%25AE%2520Blazor%2520%25E3%2581%25A7%25E8%25BF%25BD%25E5%258A%25A0%25E3%2581%2595%25E3%2582%258C%25E3%2581%259F%2520%253Chead%253E%2520%25E3%2582%25BF%25E3%2582%25B0%25E3%2581%25AE%25E4%25B8%25AD%25E3%2582%2592%25E5%25A4%2589%25E6%259B%25B4%25E3%2581%2599%25E3%2582%258B%25E6%25A9%259F%25E8%2583%25BD%25E3%2581%25AE%25E7%25B4%25B9%25E4%25BB%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2ljb25fOGY3ODc0MmM0NC5qcGVn%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1627274783/default/og-base_z4sxah.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://zenn.dev/kanoi/articles/1e3bbde7df03f1",
+          "author": "カノイ",
+          "description": "画像の最適化する方法を色々とまとめました。\nパフォーマンスに関して特に詳しいというわけではないので、これはそうじゃないよ！！やもっといい方法あるよ！！などがありましたら、コメントで教えてください！！\n\n 画像の最適化の目的\nそもそもなぜ、画像を最適化する必要があるのでしょうか？\nそれは、基本的にはサイトのパフォーマンスを向上させるためでしょう。\nここでいう、パフォーマンスの向上とは、ページ読み込み速度やレンダリング速度、ユーザーによる操作に対する反応速度などのサイトの速度を速くすること、です。\nなぜ、このパフォーマンスを向上させることが重要なのかは、以下の記事に詳しく書いてあるので一部抜...",
+          "link": "https://zenn.dev/kanoi/articles/1e3bbde7df03f1",
+          "publishedOn": "2021-09-27T10:20:22.000Z",
+          "wordCount": 288,
+          "title": "画像の最適化のTips集",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--AnrI4esW--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:%25E3%2582%25AB%25E3%2583%258E%25E3%2582%25A4%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_80_bold:%25E7%2594%25BB%25E5%2583%258F%25E3%2581%25AE%25E6%259C%2580%25E9%2581%25A9%25E5%258C%2596%25E3%2581%25AETips%25E9%259B%2586%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2haekpqS185S2RISjJVb09mRkIwU3pHYU92NDdJbDNTMDF3Z09RangwPXM5Ni1j%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1627274783/default/og-base_z4sxah.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://zenn.dev/takehiro0740/articles/b5ef4fc26e9ba6",
+          "author": "Takehiro Adachi",
+          "description": "Go言語の作者であるRob Pike氏が「Go言語が成功した理由は何なのか？」というタイトルで2015年に発表をしてる動画を見つけたので、雑に和訳してみたいと思う\nちなみに最近Go言語の好き嫌いに関する記事がいくつかバズっており、それに乗っかってるというのは言うまでもない\n\nGo言語を嫌う6個の理由\nGo言語が好きな理由\n\n\n 良く挙げられる成功要因\nPike氏は以下がよく理由として挙げられると述べている\n\nコンパイルの速さ\n実行の速さ\nデプロイの容易性\nツール\nライブラリ\n\nしかしこれらは全て表面的であって、本質的な理由ではないとも述べている\nではGo言語が成功に至った本質的な理由とは...",
+          "link": "https://zenn.dev/takehiro0740/articles/b5ef4fc26e9ba6",
+          "publishedOn": "2021-09-27T06:47:19.000Z",
+          "wordCount": 75,
+          "title": "Go言語が成功した理由",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--yMh5Vmau--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:Takehiro%2520Adachi%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_80_bold:Go%25E8%25A8%2580%25E8%25AA%259E%25E3%2581%258C%25E6%2588%2590%25E5%258A%259F%25E3%2581%2597%25E3%2581%259F%25E7%2590%2586%25E7%2594%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2c5VUhmSURVN0VpeFJwcDBkMzd5aG9QQTgyNDhFcVo4OWtQZG1sbFE9czk2LWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1627274783/default/og-base_z4sxah.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://zenn.dev/jellied_unagi/articles/d986044a425e94",
+          "author": "jellied_unagi",
+          "description": "背景\n「JAX最高」「GoogleではみんなJAXやってる」などと巷で言われているが、研の活動をやってると、比較手法がPyTorchで提供されていたり、ちょっと特殊な損失関数とかを使わないといけなかったり、あとはネットワーク魔改造をしたくなったりと、「とりあえずまずはPyTorchでやっとくか…」と思わせる要素がたくさんあり、PyTorchから抜け出せずにいた。\nムムッでもこれは2013年ごろを思い出す…その頃自分はとにかくMatlabで全部書いてて、なかなかPythonに移行出来ずにいた。そんななか「飯の種ネタをPythonで書き始めれば、Pythonできない→成果が出ない→死」な...",
+          "link": "https://zenn.dev/jellied_unagi/articles/d986044a425e94",
+          "publishedOn": "2021-09-27T05:41:49.000Z",
+          "wordCount": 1215,
+          "title": "PyTorch to JAX 移行ガイド（MLP学習編）",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--9_3q6c5---/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:jellied_unagi%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_70_bold:PyTorch%2520to%2520JAX%2520%25E7%25A7%25BB%25E8%25A1%258C%25E3%2582%25AC%25E3%2582%25A4%25E3%2583%2589%25EF%25BC%2588MLP%25E5%25AD%25A6%25E7%25BF%2592%25E7%25B7%25A8%25EF%25BC%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2llTW5CU2h3U0RzZmV2VUIzU1VWOXRLTGdxeVV4aW5DVkhrRncyelE9czk2LWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1627274783/default/og-base_z4sxah.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
         {
           "id": "https://zenn.dev/cube/articles/4ce18a672fc991",
           "author": "cube",
@@ -1048,34 +1290,6 @@
             "length": "0",
             "type": "image/png"
           }
-        },
-        {
-          "id": "https://zenn.dev/supersatton/articles/8958ee82d5cafe",
-          "author": "さっとん",
-          "description": "はじめに\n応用情報技術者の問題を解く上で、「教師あり学習」「教師なし学習」等の用語が登場したが、覚えづらかったため記事にアウトプットします。\n\n それぞれの用語について\n\n 教師あり学習\n訓練データとして、ラベル(正解)付きデータを使用する学習方法。\n入力に対する正しい出力の例を与えることで、入力と出力の関係を学習させる。\n代表的なものは、分類と回帰になります。\n\n\n\n項目\n内容\n具体例\n\n\n\n\n回帰\n連続する数値を予測するもの\n以下を予測し、将来のお弁当の販売個数を予測する。・平均気温や天候等のデータ・お弁当の販売個数\n\n\n分類\nあるデータがどのクラスに属するかを予測するもの\n迷惑...",
-          "link": "https://zenn.dev/supersatton/articles/8958ee82d5cafe",
-          "publishedOn": "2021-09-15T02:25:56.000Z",
-          "wordCount": 73,
-          "title": "【機械学習】教師あり学習、教師なし学習等(備忘録)",
-          "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--6nY99JXq--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:%25E3%2581%2595%25E3%2581%25A3%25E3%2581%25A8%25E3%2582%2593%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_70_bold:%25E3%2580%2590%25E6%25A9%259F%25E6%25A2%25B0%25E5%25AD%25A6%25E7%25BF%2592%25E3%2580%2591%25E6%2595%2599%25E5%25B8%25AB%25E3%2581%2582%25E3%2582%258A%25E5%25AD%25A6%25E7%25BF%2592%25E3%2580%2581%25E6%2595%2599%25E5%25B8%25AB%25E3%2581%25AA%25E3%2581%2597%25E5%25AD%25A6%25E7%25BF%2592%25E7%25AD%2589%2528%25E5%2582%2599%25E5%25BF%2598%25E9%258C%25B2%2529%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2ljb25fZGI4ZmJmNTk1NC5qcGVn%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1627274783/default/og-base_z4sxah.png",
-            "length": "0",
-            "type": "image/png"
-          }
-        },
-        {
-          "id": "https://zenn.dev/mattn/articles/9fbbab42308f96",
-          "author": "mattn",
-          "description": "はじめに\n最近、deno が面白くなり始めています。deno はコマンドラインバイナリを1つインストールすれば、import によりパッケージの読み込みはインターネットからダウンロードしてキャッシュされ、開発者が package.json を書く事もなく、とてもお手軽に TypeScript を書くことができます。\nもし、機械学習をやりたいとして、事前準備(npm でインストールしたり、conda/pip 等で依存物をインストールしたり)が大幅に削減できるなら、とても便利だと思いませんか？\n\n deno で機械学習\ndeno で機械学習と聞くと tensorflow.js を使いたく...",
-          "link": "https://zenn.dev/mattn/articles/9fbbab42308f96",
-          "publishedOn": "2021-09-15T02:02:14.000Z",
-          "wordCount": 222,
-          "title": "deno で機械学習",
-          "enclosure": {
-            "url": "https://res.cloudinary.com/zenn/image/upload/s--zvvbMok8--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:mattn%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_80_bold:deno%2520%25E3%2581%25A7%25E6%25A9%259F%25E6%25A2%25B0%25E5%25AD%25A6%25E7%25BF%2592%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2ljb25fNmRmMjliN2ZiZi5qcGVn%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1627274783/default/og-base_z4sxah.png",
-            "length": "0",
-            "type": "image/png"
-          }
         }
       ]
     },
@@ -1223,15 +1437,6 @@
           "publishedOn": "2021-09-15T13:01:17.000Z",
           "wordCount": 9261,
           "title": "Using learning-to-rank to precisely locate where to deliver packages"
-        },
-        {
-          "id": "https://www.amazon.science/working-at-amazon/estimating-causality-from-data-how-one-amazon-intern-used-data-to-make-an-impact",
-          "author": null,
-          "description": "Oritseweyinmi Henry Ajagbawa utilized causal inference to help examine the interaction between changes in marketing content and Amazon customer behavior.",
-          "link": "https://www.amazon.science/working-at-amazon/estimating-causality-from-data-how-one-amazon-intern-used-data-to-make-an-impact",
-          "publishedOn": "2021-09-14T13:34:32.000Z",
-          "wordCount": 8849,
-          "title": "Estimating causality from data: How one Amazon intern used data to make an impact"
         }
       ]
     },
